@@ -1,6 +1,11 @@
 # Project Notes ----
-#Before running this code, delete rows with field blanks (sort by station column) copy the new version of Stacked files to Data/Project Coast folder.
-#Make sure all Site names are UPPERS
+
+#Before running this code:
+    #delete rows with field blanks (sort by station column) 
+    #copy the new version of Stacked files to Data/Project Coast folder
+    #Make sure all Site names are UPPERS and all time zones are EST (or code this in)
+    #Change output file names to new upload date
+
 #Sampling Agency Names : University of Florida (Soil and Water Sciences Department)
 #Project ID: 21FLUFSW
 
@@ -27,28 +32,15 @@ Secchi <- read_csv("Data/Project Coast/Secchi Stacked.csv")
 
 ### Functions ----
 
-## FOR ALL PARAMETERS ##
+#Can these be mutates?
 
-# For changing T value qualifiers to U
-
-change_value_qualifier <- function(data) {
-  # Replace "T" or "TI" with "U"
-  data$Value_Qualifier[data$Value_Qualifier %in% c("T", "TI")] <- "U"
-  
-  # Replace "QTI" with "QU"
-  data$Value_Qualifier[data$Value_Qualifier == "QTI"] <- "QU"
-  
-  return(data)
-}
-
-## FOR SECCHI ONLY ##
-
+#Work on this one for LW too
 # If value qualifier = S, then total Depth needs to = org result value.
-s_value_qualifiers <- function(Value_Qualifier, Org_Result_Value, Total_Depth) {
-  Org_Result_Value[Value_Qualifier == "S"] <- Total_Depth[Value_Qualifier == "S"]
-  return(Org_Result_Value)
-  }
- 
+# mutate_columns <- function(Secchi, S, Value_Qualifier, Total_Depth, Org_Result_Value) {
+#   Secchi[[Total_Depth]][Secchi[[Value_Qualifier]] == "S"] <- Secchi[[Org_Result_Value]][Secchi[[Value_Qualifier]] == "S"]
+#   return(Secchi)
+# }
+
 
 #For blank org result value, org result value should = "Not Reported".
 not_reported_secchi <- function(Org_Result_Value){
@@ -73,9 +65,9 @@ format(x2, format = '%m/%d/%Y')
 Secchi_t <- Secchi%>%
   mutate('Activity_Start_Time'=format(x, format = '%I:%M:%S %p')) %>%
   mutate('Activity_Start_Date'=format(x2, format = '%m/%d/%Y')) %>%
-  mutate(Value_Qualifier = s_value_qualifiers(Value_Qualifier, Org_Result_Value, Total_Depth)) %>%
-  mutate(Org_Result_Value = not_reported_secchi(Org_Result_Value))
-  
+ # mutate('Total Depth' = mutate_columns(Secchi, "Value_Qualifier", "Total_Depth", "Org_Result_Value")) %>%
+  mutate('Org_Result_Value' = not_reported_secchi(Org_Result_Value))
+
 
 #Add columns
 
@@ -98,12 +90,12 @@ Secchi_WIN <- Secchi_t
  Secchi_Print <- Secchi_WIN[,c("Project_ID","Sampling_Agency_Name","Matrix",
               "Monitoring_Location_ID","Activity_ID","ADAPT Analyte ID","Org Analyte Name",
               "Activity Type","Sample Collection Type","Sample Collection Equipment",
-              "Activity Depth","Activity Depth Unit","Total Depth",
+              "Activity Depth","Activity Depth Unit","Total_Depth",
               "Total Depth Unit","Analysis Method","Sample Fraction",
               "Preparation_Date_Time","Preparation Time Zone","Analysis_Date_Time",
               "Analysis Time Zone","Activity_Date_Time","Activity Time Zone",
-              "Org Result Value","Org Result Unit","Org MDL",
-              "Org PQL","Org Detection Unit","Value Qualifier",
+              "Org_Result_Value","Org Result Unit","Org MDL",
+              "Org PQL","Org Detection Unit","Value_Qualifier",
               "Result Comments","Result Value Type Name","Dilution",
               "Lab_ID","Lab_Accreditation_Authority","Lab_Sample_ID")]
   
@@ -139,8 +131,9 @@ TP_t = TP%>%
   mutate('Activity_Start_Date'=format(x5, format = '%m/%d/%Y')) %>%
   mutate('Analysis_Time'=format(x2, format = '%I:%M:%S %p'))%>%
   mutate('Preparation_Time'=format(x3, format = '%I:%M:%S %p'))%>%
-  mutate(Value_Qualifier = ifelse(Value_Qualifier %in% c("T", "TI"), "U", 
-                                  ifelse(Value_Qualifier == "QTI", "QU", Value_Qualifier)))
+  mutate('Value_Qualifier' = ifelse(Value_Qualifier %in% c("T", "TI"), "U", 
+                                  ifelse(Value_Qualifier == "QTI", "QU", Value_Qualifier)))%>%
+  mutate('Org_Result_Value' = ifelse(Org_Result_Value <6, 6, Org_Result_Value))
 
 
 #join with Secchi for start time
@@ -163,22 +156,20 @@ TP_WIN <- TP_Time
  TP_WIN$Lab_Accreditation_Authority = paste("None")
  TP_WIN$Lab_Sample_ID = paste0(TP_WIN$Activity_ID)
 
-#FIX value qualifiers
- #mutate('Value Qualifier' = t_value_qualifiers) 
  
 
 #Reorder columns
 TP_Print <- TP_WIN[,c("Project_ID","Sampling_Agency_Name","Matrix",
-              "Monitoring_Location_ID","Activity_ID","ADAPT Analyte ID","Org Analyte Name",
-              "Activity Type","Sample Collection Type","Sample Collection Equipment",
-              "Activity Depth","Activity Depth Unit","Total Depth",
-              "Total Depth Unit","Analysis Method","Sample Fraction",
-              "Preparation_Date_Time","Preparation Time Zone","Analysis_Date_Time",
-              "Analysis Time Zone","Activity_Date_Time","Activity Time Zone",
-              "Org Result Value","Org Result Unit","Org MDL",
-              "Org PQL","Org Detection Unit","Value Qualifier",
-              "Result Comments","Result Value Type Name","Dilution",
-              "Lab_ID","Lab_Accreditation_Authority","Lab_Sample_ID")]
+                      "Monitoring_Location_ID","Activity_ID","ADAPT Analyte ID","Org Analyte Name",
+                      "Activity Type","Sample Collection Type","Sample Collection Equipment",
+                      "Activity Depth","Activity Depth Unit","Total_Depth",
+                      "Total Depth Unit","Analysis Method","Sample Fraction",
+                      "Preparation_Date_Time","Preparation Time Zone","Analysis_Date_Time",
+                      "Analysis Time Zone","Activity_Date_Time","Activity Time Zone",
+                      "Org_Result_Value","Org Result Unit","Org MDL",
+                      "Org PQL","Org Detection Unit","Value_Qualifier",
+                      "Result Comments","Result Value Type Name","Dilution",
+                      "Lab_ID","Lab_Accreditation_Authority","Lab_Sample_ID")]
 
 
 
@@ -206,11 +197,14 @@ x8 <- lubridate::parse_date_time(v8,'"%m%d%y"')
 format(x8, format = '%m/%d/%Y')
 
 TN_t = TN%>%
-  mutate('Activity_Start_Date'=format(x8, format = '%m/%d/%Y')) %>%
-  mutate('Analysis_Time'=format(x6, format = '%I:%M:%S %p'))%>%
-  mutate('Preparation_Time'=format(x7, format = '%I:%M:%S %p'))%>%
-  mutate(Value_Qualifier = ifelse(Value_Qualifier %in% c("T", "TI"), "U", 
-                                ifelse(Value_Qualifier == "QTI", "QU", Value_Qualifier)))
+  mutate('Activity_Start_Date'=format(x5, format = '%m/%d/%Y')) %>%
+  mutate('Analysis_Time'=format(x2, format = '%I:%M:%S %p'))%>%
+  mutate('Preparation_Time'=format(x3, format = '%I:%M:%S %p'))%>%
+  mutate('Value_Qualifier' = ifelse(Value_Qualifier %in% c("T", "TI"), "U", 
+                                    ifelse(Value_Qualifier == "QTI", "QU", Value_Qualifier)))%>%
+  mutate('Org_Result_Value' = ifelse(Org_Result_Value <20, 20, Org_Result_Value))
+
+
 #join with Secchi for start time
 
 TN_Time = full_join(TN_t, Secchi_Join, 
@@ -237,12 +231,12 @@ TN_WIN$Lab_Sample_ID = paste0(TN_WIN$Activity_ID)
 TN_Print <- TN_WIN[,c("Project_ID","Sampling_Agency_Name","Matrix",
                       "Monitoring_Location_ID","Activity_ID","ADAPT Analyte ID","Org Analyte Name",
                       "Activity Type","Sample Collection Type","Sample Collection Equipment",
-                      "Activity Depth","Activity Depth Unit","Total Depth",
+                      "Activity Depth","Activity Depth Unit","Total_Depth",
                       "Total Depth Unit","Analysis Method","Sample Fraction",
                       "Preparation_Date_Time","Preparation Time Zone","Analysis_Date_Time",
                       "Analysis Time Zone","Activity_Date_Time","Activity Time Zone",
-                      "Org Result Value","Org Result Unit","Org MDL",
-                      "Org PQL","Org Detection Unit","Value Qualifier",
+                      "Org_Result_Value","Org Result Unit","Org MDL",
+                      "Org PQL","Org Detection Unit","Value_Qualifier",
                       "Result Comments","Result Value Type Name","Dilution",
                       "Lab_ID","Lab_Accreditation_Authority","Lab_Sample_ID")]
 
@@ -286,9 +280,9 @@ CHL_cor_t = CHL_cor%>%
   mutate('Analysis_Time'=format(x10, format = '%I:%M:%S %p'))%>%
   mutate('Preparation_Time'=format(x101, format = '%I:%M:%S %p'))%>%
   mutate(Value_Qualifier = ifelse(Value_Qualifier %in% c("T", "TI"), "U", 
-                                  ifelse(Value_Qualifier == "QTI", "QU", Value_Qualifier)))
+                                  ifelse(Value_Qualifier == "QTI", "QU", Value_Qualifier)))%>%
+  mutate('Org_Result_Value' = ifelse(Org_Result_Value <1, 1, Org_Result_Value))
 
-  
 #Add columns
   
 CHL_cor_WIN <- CHL_cor_t 
@@ -308,16 +302,16 @@ CHL_cor_WIN <- CHL_cor_t
   
   #Reorder columns
   CHL_cor_Print <- CHL_cor_WIN[,c("Project_ID","Sampling_Agency_Name","Matrix",
-                        "Monitoring_Location_ID","Activity_ID","ADAPT Analyte ID","Org Analyte Name",
-                        "Activity Type","Sample Collection Type","Sample Collection Equipment",
-                        "Activity Depth","Activity Depth Unit","Total Depth",
-                        "Total Depth Unit","Analysis Method","Sample Fraction",
-                        "Preparation_Date_Time","Preparation Time Zone","Analysis_Date_Time",
-                        "Analysis Time Zone","Activity_Date_Time","Activity Time Zone",
-                        "Org Result Value","Org Result Unit","Org MDL",
-                        "Org PQL","Org Detection Unit","Value Qualifier",
-                        "Result Comments","Result Value Type Name","Dilution",
-                        "Lab_ID","Lab_Accreditation_Authority","Lab_Sample_ID")]
+                                  "Monitoring_Location_ID","Activity_ID","ADAPT Analyte ID","Org Analyte Name",
+                                  "Activity Type","Sample Collection Type","Sample Collection Equipment",
+                                  "Activity Depth","Activity Depth Unit","Total_Depth",
+                                  "Total Depth Unit","Analysis Method","Sample Fraction",
+                                  "Preparation_Date_Time","Preparation Time Zone","Analysis_Date_Time",
+                                  "Analysis Time Zone","Activity_Date_Time","Activity Time Zone",
+                                  "Org_Result_Value","Org Result Unit","Org MDL",
+                                  "Org PQL","Org Detection Unit","Value_Qualifier",
+                                  "Result Comments","Result Value Type Name","Dilution",
+                                  "Lab_ID","Lab_Accreditation_Authority","Lab_Sample_ID")]
   
   
   
@@ -354,11 +348,12 @@ CHL_cor_WIN <- CHL_cor_t
   
   
   CHL_un_t = CHL_un%>%
-    mutate('Activity_Start_Time'=format(x102, format = '%I:%M:%S %p')) %>%
-    mutate('Analysis_Time'=format(x103, format = '%I:%M:%S %p'))%>%
-    mutate('Preparation_Time'=format(x104, format = '%I:%M:%S %p'))%>%
+    mutate('Activity_Start_Time'=format(x9, format = '%I:%M:%S %p')) %>%
+    mutate('Analysis_Time'=format(x10, format = '%I:%M:%S %p'))%>%
+    mutate('Preparation_Time'=format(x101, format = '%I:%M:%S %p'))%>%
     mutate(Value_Qualifier = ifelse(Value_Qualifier %in% c("T", "TI"), "U", 
-                                    ifelse(Value_Qualifier == "QTI", "QU", Value_Qualifier)))
+                                    ifelse(Value_Qualifier == "QTI", "QU", Value_Qualifier)))%>%
+    mutate('Org_Result_Value' = ifelse(Org_Result_Value <1, 1, Org_Result_Value))
   
   
   #Add columns
@@ -381,16 +376,16 @@ CHL_cor_WIN <- CHL_cor_t
   
   #Reorder columns
   CHL_un_Print <- CHL_un_WIN[,c("Project_ID","Sampling_Agency_Name","Matrix",
-                                  "Monitoring_Location_ID","Activity_ID","ADAPT Analyte ID","Org Analyte Name",
-                                  "Activity Type","Sample Collection Type","Sample Collection Equipment",
-                                  "Activity Depth","Activity Depth Unit","Total Depth",
-                                  "Total Depth Unit","Analysis Method","Sample Fraction",
-                                  "Preparation_Date_Time","Preparation Time Zone","Analysis_Date_Time",
-                                  "Analysis Time Zone","Activity_Date_Time","Activity Time Zone",
-                                  "Org Result Value","Org Result Unit","Org MDL",
-                                  "Org PQL","Org Detection Unit","Value Qualifier",
-                                  "Result Comments","Result Value Type Name","Dilution",
-                                  "Lab_ID","Lab_Accreditation_Authority","Lab_Sample_ID")]
+                                "Monitoring_Location_ID","Activity_ID","ADAPT Analyte ID","Org Analyte Name",
+                                "Activity Type","Sample Collection Type","Sample Collection Equipment",
+                                "Activity Depth","Activity Depth Unit","Total_Depth",
+                                "Total Depth Unit","Analysis Method","Sample Fraction",
+                                "Preparation_Date_Time","Preparation Time Zone","Analysis_Date_Time",
+                                "Analysis Time Zone","Activity_Date_Time","Activity Time Zone",
+                                "Org_Result_Value","Org Result Unit","Org MDL",
+                                "Org PQL","Org Detection Unit","Value_Qualifier",
+                                "Result Comments","Result Value Type Name","Dilution",
+                                "Lab_ID","Lab_Accreditation_Authority","Lab_Sample_ID")]
   
   
   
@@ -402,7 +397,7 @@ CHL_cor_WIN <- CHL_cor_t
   
   
   
-#Mutate Library for all columns
+### Mutate Library for potential future uses ----
 
 #mutate('ADAPT Analyte ID' = Secchi_t$ADAPT_Analyte_ID) %>%
 #mutate('Org Analyte Name' = paste("Depth, Secchi Disk Depth")) %>%
