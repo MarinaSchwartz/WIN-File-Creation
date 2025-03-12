@@ -1,0 +1,544 @@
+﻿ADAPT Analyte ID,Org Analyte Name,Activity Type,Sample Collection Type,Sample Collection Equipment,Activity Depth,Activity Depth Unit,Analysis Method,Preparation Date,Preparation Time,Preparation Time Zone,Analysis Date,Analysis Time,Analysis Time Zone,County,Lake,Station,Activity Start Date,Activity Time Zone,Org Result Value,Org Result Unit,Org MDL,Org PQL,Org Detection Unit,Value Qualifier,Result Value Type Name,Dilution
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/05/2024,10:00:00 AM,EST,03/05/2024,12:08:00 PM,EST,Alachua,Alice,1,01/25/2024,EST,27,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/05/2024,10:00:00 AM,EST,03/05/2024,12:08:00 PM,EST,Alachua,Blues Creek-1,1,01/26/2024,EST,47,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/05/2024,10:00:00 AM,EST,03/05/2024,12:08:00 PM,EST,Alachua,Blues Creek-2,1,01/26/2024,EST,214,PCU,1,1,PCU,Q,Actual,2
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/05/2024,10:00:00 AM,EST,03/05/2024,12:08:00 PM,EST,Alachua,Blues Creek-3,1,01/26/2024,EST,212,PCU,1,1,PCU,Q,Actual,2
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/05/2024,10:00:00 AM,EST,03/05/2024,12:08:00 PM,EST,Alachua,Cellon Creek-1,1,01/24/2024,EST,112,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/05/2024,10:00:00 AM,EST,03/05/2024,12:08:00 PM,EST,Alachua,Cellon Creek-2,1,01/24/2024,EST,164,PCU,1,1,PCU,Q,Actual,2
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/05/2024,10:00:00 AM,EST,03/05/2024,12:08:00 PM,EST,Alachua,Cellon Creek-3,1,01/24/2024,EST,186,PCU,1,1,PCU,Q,Actual,2
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/05/2024,10:00:00 AM,EST,03/05/2024,12:08:00 PM,EST,Alachua,Cellon Creek-4,1,01/24/2024,EST,191,PCU,1,1,PCU,Q,Actual,2
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/06/2024,9:53:00 AM,EST,02/06/2024,12:02:00 PM,EST,Alachua,Elizabeth,1,10/30/2023,,109,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,12/21/2023,10:30:00 AM,EST,12/21/2023,11:30:00 AM,EST,Alachua,Hogtown Creek-1,1,10/01/2023,,17,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,12/21/2023,10:30:00 AM,EST,12/21/2023,11:30:00 AM,EST,Alachua,Hogtown Creek-2,1,10/01/2023,,20,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/05/2024,10:00:00 AM,EST,03/05/2024,12:08:00 PM,EST,Alachua,Kingswood,1,01/25/2024,EST,180,PCU,1,1,PCU,Q,Actual,2
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,12/21/2023,10:30:00 AM,EST,12/21/2023,11:30:00 AM,EST,Alachua,Little Santa Fe,2,11/28/2023,,41,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/05/2024,9:38:00 AM,EST,02/05/2024,11:57:00 AM,EST,Alachua,Little Santa Fe,2,12/12/2023,,38,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/05/2024,10:00:00 AM,EST,03/05/2024,12:08:00 PM,EST,Alachua,Little Santa Fe,1,01/31/2024,EST,57,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,12/21/2023,10:30:00 AM,EST,12/21/2023,11:30:00 AM,EST,Alachua,Lochloosa,1,10/17/2023,,71,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,12/21/2023,10:30:00 AM,EST,12/21/2023,11:30:00 AM,EST,Alachua,Melrose Bay,2,11/28/2023,,23,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/05/2024,9:38:00 AM,EST,02/05/2024,11:57:00 AM,EST,Alachua,Melrose Bay,2,12/12/2023,,21,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/05/2024,10:00:00 AM,EST,03/05/2024,12:08:00 PM,EST,Alachua,Melrose Bay,1,01/31/2024,EST,26,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,12/21/2023,10:30:00 AM,EST,12/21/2023,11:30:00 AM,EST,Alachua,Newnan,1,10/16/2023,,77,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,12/21/2023,10:30:00 AM,EST,12/21/2023,11:30:00 AM,EST,Alachua,Santa Fe,2,11/28/2023,,36,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/05/2024,9:38:00 AM,EST,02/05/2024,11:57:00 AM,EST,Alachua,Santa Fe,2,12/12/2023,,23,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/05/2024,10:00:00 AM,EST,03/05/2024,12:08:00 PM,EST,Alachua,Santa Fe,1,01/31/2024,EST,26,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,12/21/2023,10:30:00 AM,EST,12/21/2023,11:30:00 AM,EST,Alachua,Santa Fe-barricade,1,11/28/2023,,34,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/05/2024,9:38:00 AM,EST,02/05/2024,11:57:00 AM,EST,Alachua,Santa Fe-barricade,1,12/12/2023,,34,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/05/2024,10:00:00 AM,EST,03/05/2024,12:08:00 PM,EST,Alachua,Santa Fe-barricade,1,01/31/2024,EST,33,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,12/21/2023,10:30:00 AM,EST,12/21/2023,11:30:00 AM,EST,Alachua,Santa Fe-canal mouth,1,11/28/2023,,26,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/05/2024,9:38:00 AM,EST,02/05/2024,11:57:00 AM,EST,Alachua,Santa Fe-canal mouth,1,12/12/2023,,236,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/05/2024,10:00:00 AM,EST,03/05/2024,12:08:00 PM,EST,Alachua,Santa Fe-canal mouth,1,01/31/2024,EST,26,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,12/21/2023,10:30:00 AM,EST,12/21/2023,11:30:00 AM,EST,Alachua,Santa Fe-Painter Canal,1,11/28/2023,,33,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/05/2024,9:38:00 AM,EST,02/05/2024,11:57:00 AM,EST,Alachua,Santa Fe-Painter Canal,1,12/12/2023,,34,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/05/2024,10:00:00 AM,EST,03/05/2024,12:08:00 PM,EST,Alachua,Santa Fe-Painter Canal,1,01/31/2024,EST,34,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/05/2024,10:00:00 AM,EST,03/05/2024,12:08:00 PM,EST,Alachua,Turkey Creek-1,1,01/26/2024,EST,155,PCU,1,1,PCU,Q,Actual,2
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/05/2024,10:00:00 AM,EST,03/05/2024,12:08:00 PM,EST,Alachua,Turkey Creek-2,1,01/26/2024,EST,137,PCU,1,1,PCU,Q,Actual,2
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/09/2024,10:04:00 AM,EST,01/09/2024,12:38:00 PM,EST,Bay,Beatty Bayou-1,1,10/26/2023,,13,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/05/2024,9:38:00 AM,EST,02/05/2024,11:57:00 AM,EST,Bay,Burnt Mill Lower,1,10/16/2023,,18,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/05/2024,9:38:00 AM,EST,02/05/2024,11:57:00 AM,EST,Bay,Burnt Mill Upper,1,10/16/2023,,73,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/05/2024,9:38:00 AM,EST,02/05/2024,11:57:00 AM,EST,Bay,Callaway Bayou-2,1,10/31/2023,,13,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/05/2024,9:38:00 AM,EST,02/05/2024,11:57:00 AM,EST,Bay,Crooked Lower,1,10/16/2023,,10,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/05/2024,9:38:00 AM,EST,02/05/2024,11:57:00 AM,EST,Bay,Crooked Upper,1,10/16/2023,,26,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/05/2024,9:38:00 AM,EST,02/05/2024,11:57:00 AM,EST,Bay,Crooked Upper-2,1,10/16/2023,,29,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,12/21/2023,10:30:00 AM,EST,12/21/2023,11:30:00 AM,EST,Bay,Deer Point,1,07/18/2023,,63,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/05/2024,9:38:00 AM,EST,02/05/2024,11:57:00 AM,EST,Bay,Deer Point,1,10/18/2023,,57,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/05/2024,9:38:00 AM,EST,02/05/2024,11:57:00 AM,EST,Bay,Deer Point,2,10/18/2023,,29,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/05/2024,9:38:00 AM,EST,02/05/2024,11:57:00 AM,EST,Bay,Deer Point,3,10/18/2023,,40,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/09/2024,10:04:00 AM,EST,01/09/2024,12:38:00 PM,EST,Bay,East Bay-1,1,10/31/2023,,17,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/09/2024,10:04:00 AM,EST,01/09/2024,12:38:00 PM,EST,Bay,East Bay-2,1,10/31/2023,,17,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/09/2024,10:04:00 AM,EST,01/09/2024,12:38:00 PM,EST,Bay,East Bay-3,1,10/31/2023,,16,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/09/2024,10:04:00 AM,EST,01/09/2024,12:38:00 PM,EST,Bay,East Bay-4,1,10/31/2023,,12,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/09/2024,10:04:00 AM,EST,01/09/2024,12:38:00 PM,EST,Bay,East Bay-5,1,10/31/2023,,9,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/09/2024,10:04:00 AM,EST,01/09/2024,12:38:00 PM,EST,Bay,Fannin Bayou-1,1,10/26/2023,,11,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/09/2024,10:04:00 AM,EST,01/09/2024,12:38:00 PM,EST,Bay,Goose Bayou-1,1,10/26/2023,,8,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/09/2024,10:04:00 AM,EST,01/09/2024,12:38:00 PM,EST,Bay,Grand Lagoon-1,1,10/10/2023,,22,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/09/2024,10:04:00 AM,EST,01/09/2024,12:38:00 PM,EST,Bay,Grand Lagoon-2,1,10/10/2023,,17,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/09/2024,10:04:00 AM,EST,01/09/2024,12:38:00 PM,EST,Bay,Grand Lagoon-3,1,10/10/2023,,17,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/09/2024,10:04:00 AM,EST,01/09/2024,12:38:00 PM,EST,Bay,Grand Lagoon-4,1,10/10/2023,,9,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/09/2024,10:04:00 AM,EST,01/09/2024,12:38:00 PM,EST,Bay,Grand Lagoon-5,1,10/10/2023,,6,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/09/2024,10:04:00 AM,EST,01/09/2024,12:38:00 PM,EST,Bay,Johnson Bayou-1,1,10/04/2023,,11,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/05/2024,9:38:00 AM,EST,02/05/2024,11:57:00 AM,EST,Bay,Laird Bayou-1,1,10/31/2023,,10,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/05/2024,9:38:00 AM,EST,02/05/2024,11:57:00 AM,EST,Bay,Laird Bayou-2,1,10/31/2023,,13,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/05/2024,9:38:00 AM,EST,02/05/2024,11:57:00 AM,EST,Bay,Laird Bayou-3,1,10/31/2023,,15,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,12/21/2023,10:30:00 AM,EST,12/21/2023,11:30:00 AM,EST,Bay,Lullwater,1,07/17/2023,,64,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/09/2024,10:04:00 AM,EST,01/09/2024,12:38:00 PM,EST,Bay,Lullwater,1,10/30/2023,,34,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,12/21/2023,10:30:00 AM,EST,12/21/2023,11:30:00 AM,EST,Bay,Marin,1,07/26/2023,,3,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/05/2024,9:38:00 AM,EST,02/05/2024,11:57:00 AM,EST,Bay,Marin,1,10/23/2023,,4,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/05/2024,9:38:00 AM,EST,02/05/2024,11:57:00 AM,EST,Bay,Marin,2,10/23/2023,,4,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/05/2024,9:38:00 AM,EST,02/05/2024,11:57:00 AM,EST,Bay,Marin,3,10/23/2023,,2,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,12/21/2023,10:30:00 AM,EST,12/21/2023,11:30:00 AM,EST,Bay,Martin-1,1,07/06/2023,,2,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/09/2024,10:04:00 AM,EST,01/09/2024,12:38:00 PM,EST,Bay,Martin-1,1,10/04/2023,,17,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/09/2024,10:04:00 AM,EST,01/09/2024,12:38:00 PM,EST,Bay,Massalina Bayou-1,1,10/18/2023,,9,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/09/2024,10:04:00 AM,EST,01/09/2024,12:38:00 PM,EST,Bay,Mill Bayou-1,1,10/26/2023,,11,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/09/2024,10:04:00 AM,EST,01/09/2024,12:38:00 PM,EST,Bay,North Bay-1,1,10/26/2023,,11,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/09/2024,10:04:00 AM,EST,01/09/2024,12:38:00 PM,EST,Bay,North Bay-2,1,10/26/2023,,11,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/09/2024,10:04:00 AM,EST,01/09/2024,12:38:00 PM,EST,Bay,North Bay-3,1,10/26/2023,,36,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/09/2024,10:04:00 AM,EST,01/09/2024,12:38:00 PM,EST,Bay,North Bay-4,1,10/26/2023,,8,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/05/2024,9:38:00 AM,EST,02/05/2024,11:57:00 AM,EST,Bay,Parker Bayou-1,1,10/31/2023,,8,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/05/2024,9:38:00 AM,EST,02/05/2024,11:57:00 AM,EST,Bay,Pitts Bayou-1,1,10/31/2023,,7,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/05/2024,9:38:00 AM,EST,02/05/2024,11:57:00 AM,EST,Bay,Posten Bayou-1,1,10/26/2023,,10,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,12/21/2023,10:30:00 AM,EST,12/21/2023,11:30:00 AM,EST,Bay,Powell,1,07/18/2023,,209,PCU,1,1,PCU,Q,Actual,2
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/05/2024,9:38:00 AM,EST,02/05/2024,11:57:00 AM,EST,Bay,Powell,1,10/17/2023,,16,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,12/21/2023,10:30:00 AM,EST,12/21/2023,11:30:00 AM,EST,Bay,Powell Creek East-1,1,07/18/2023,,218,PCU,1,1,PCU,Q,Actual,2
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/05/2024,9:38:00 AM,EST,02/05/2024,11:57:00 AM,EST,Bay,Powell Creek East-1,1,10/17/2023,,16,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,12/21/2023,10:30:00 AM,EST,12/21/2023,11:30:00 AM,EST,Bay,Powell Creek East-2,1,07/18/2023,,235,PCU,1,1,PCU,Q,Actual,2
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/05/2024,9:38:00 AM,EST,02/05/2024,11:57:00 AM,EST,Bay,Powell Creek East-2,1,10/17/2023,,19,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/09/2024,10:04:00 AM,EST,01/09/2024,12:38:00 PM,EST,Bay,Pretty Bayou-1,1,10/26/2023,,11,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/09/2024,10:04:00 AM,EST,01/09/2024,12:38:00 PM,EST,Bay,Robinson Bayou-1,1,10/26/2023,,13,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/09/2024,10:04:00 AM,EST,01/09/2024,12:38:00 PM,EST,Bay,St. Andrew Bay-1,1,10/18/2023,,7,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/09/2024,10:04:00 AM,EST,01/09/2024,12:38:00 PM,EST,Bay,St. Andrew Bay-2,1,10/18/2023,,30,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/09/2024,10:04:00 AM,EST,01/09/2024,12:38:00 PM,EST,Bay,St. Andrew Bay-3,1,10/18/2023,,7,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/09/2024,10:04:00 AM,EST,01/09/2024,12:38:00 PM,EST,Bay,St. Andrew Bay-6,1,10/18/2023,,4,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/09/2024,10:04:00 AM,EST,01/09/2024,12:38:00 PM,EST,Bay,St. Andrew Bay-7,1,10/18/2023,,6,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/09/2024,10:04:00 AM,EST,01/09/2024,12:38:00 PM,EST,Bay,St. Andrew Bay-12,1,10/18/2023,,7,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/09/2024,10:04:00 AM,EST,01/09/2024,12:38:00 PM,EST,Bay,Upper Goose Bayou-1,1,10/26/2023,,26,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/09/2024,10:04:00 AM,EST,01/09/2024,12:38:00 PM,EST,Bay,Warren Bayou-1,1,10/27/2023,,9,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/09/2024,10:04:00 AM,EST,01/09/2024,12:38:00 PM,EST,Bay,Watson Bayou-1,1,10/18/2023,,8,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/09/2024,10:04:00 AM,EST,01/09/2024,12:38:00 PM,EST,Bay,West Bay-1,1,10/27/2023,,10,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/09/2024,10:04:00 AM,EST,01/09/2024,12:38:00 PM,EST,Bay,West Bay-2,1,10/27/2023,,9,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/09/2024,10:04:00 AM,EST,01/09/2024,12:38:00 PM,EST,Bay,West Bay-3,1,10/27/2023,,30,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/09/2024,10:04:00 AM,EST,01/09/2024,12:38:00 PM,EST,Bay,West Bay-4,1,10/27/2023,,8,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/09/2024,10:04:00 AM,EST,01/09/2024,12:38:00 PM,EST,Bay,West Bay-5,1,10/27/2023,,8,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/09/2024,10:04:00 AM,EST,01/09/2024,12:38:00 PM,EST,Bay,West Bay-12,1,10/27/2023,,11,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,12/21/2023,10:30:00 AM,EST,12/21/2023,11:30:00 AM,EST,Bradford,Rowell,3,10/29/2023,,93,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,12/21/2023,10:30:00 AM,EST,12/21/2023,11:30:00 AM,EST,Bradford,Sampson,1,10/29/2023,,45,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/05/2024,9:38:00 AM,EST,02/05/2024,11:57:00 AM,EST,Brevard,Blue Trail-1,1,10/10/2023,,24,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/05/2024,9:38:00 AM,EST,02/05/2024,11:57:00 AM,EST,Brevard,Clear,1,10/28/2023,,31,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/05/2024,9:38:00 AM,EST,02/05/2024,11:57:00 AM,EST,Brevard,Fox,1,10/22/2023,,356,PCU,1,1,PCU,Q,Actual,4
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/05/2024,9:38:00 AM,EST,02/05/2024,11:57:00 AM,EST,Brevard,IRL Max Brewer Bridge-1,1,10/15/2023,,22,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/05/2024,9:38:00 AM,EST,02/05/2024,11:57:00 AM,EST,Brevard,IRL Max Brewer Bridge-3,1,10/15/2023,,17,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/05/2024,9:38:00 AM,EST,02/05/2024,11:57:00 AM,EST,Brevard,IRL Max Brewer Bridge-4,1,10/15/2023,,52,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/05/2024,9:38:00 AM,EST,02/05/2024,11:57:00 AM,EST,Brevard,Washington,1,10/24/2023,,297,PCU,1,1,PCU,Q,Actual,4
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/05/2024,9:38:00 AM,EST,02/05/2024,11:57:00 AM,EST,Charlotte,L-4,1,10/30/2023,,71,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/05/2024,9:38:00 AM,EST,02/05/2024,11:57:00 AM,EST,Charlotte,L-6,1,10/30/2023,,20,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/05/2024,9:38:00 AM,EST,02/05/2024,11:57:00 AM,EST,Charlotte,LC-1,1,10/27/2023,,138,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/05/2024,9:38:00 AM,EST,02/05/2024,11:57:00 AM,EST,Charlotte,LC-2,1,10/27/2023,,124,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/05/2024,9:38:00 AM,EST,02/05/2024,11:57:00 AM,EST,Charlotte,LC-3,1,10/27/2023,,149,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/05/2024,9:38:00 AM,EST,02/05/2024,11:57:00 AM,EST,Charlotte,Oakland Hills End,1,10/23/2023,,55,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/05/2024,9:38:00 AM,EST,02/05/2024,11:57:00 AM,EST,Charlotte,Pine Valley End,1,10/22/2023,,46,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/05/2024,9:38:00 AM,EST,02/05/2024,11:57:00 AM,EST,Charlotte,Redfish,1,10/15/2023,,27,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/05/2024,9:38:00 AM,EST,02/05/2024,11:57:00 AM,EST,Charlotte,Sturgeon,1,10/14/2023,,18,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/05/2024,9:38:00 AM,EST,02/05/2024,11:57:00 AM,EST,Charlotte,Sunapee,1,10/14/2023,,31,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/05/2024,9:38:00 AM,EST,02/05/2024,11:57:00 AM,EST,Charlotte,WF-1,1,10/19/2023,,66,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/05/2024,9:38:00 AM,EST,02/05/2024,11:57:00 AM,EST,Charlotte,WF-2,1,10/19/2023,,93,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/05/2024,9:38:00 AM,EST,02/05/2024,11:57:00 AM,EST,Charlotte,WF-3,1,10/19/2023,,88,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/05/2024,9:38:00 AM,EST,02/05/2024,11:57:00 AM,EST,Charlotte,WF-4,1,10/19/2023,,53,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/05/2024,9:38:00 AM,EST,02/05/2024,11:57:00 AM,EST,Charlotte,WF-5,1,10/27/2023,,102,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/05/2024,9:38:00 AM,EST,02/05/2024,11:57:00 AM,EST,Charlotte,WF-6,1,10/19/2023,,133,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/05/2024,9:38:00 AM,EST,02/05/2024,11:57:00 AM,EST,Charlotte,White Marsh Inflow,1,10/30/2023,,55,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/05/2024,9:38:00 AM,EST,02/05/2024,11:57:00 AM,EST,Citrus,Crystal River-1,1,10/24/2023,,12,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/05/2024,9:38:00 AM,EST,02/05/2024,11:57:00 AM,EST,Citrus,Crystal River-2,1,10/24/2023,,6,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/05/2024,9:38:00 AM,EST,02/05/2024,11:57:00 AM,EST,Citrus,Crystal River-5,1,10/24/2023,,4,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/05/2024,10:00:00 AM,EST,03/05/2024,12:08:00 PM,EST,Citrus,Crystal River-6,1,10/30/2023,EST,12,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/05/2024,9:38:00 AM,EST,02/05/2024,11:57:00 AM,EST,Citrus,Crystal River-7,1,10/24/2023,,4,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/05/2024,10:00:00 AM,EST,03/05/2024,12:08:00 PM,EST,Citrus,Fort Cooper,1,01/17/2024,EST,17,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/05/2024,9:38:00 AM,EST,02/05/2024,11:57:00 AM,EST,Citrus,Little Henderson,1,10/23/2023,,26,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/05/2024,9:38:00 AM,EST,02/05/2024,11:57:00 AM,EST,Citrus,Magnolia Creek-1,1,10/19/2023,,13,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/05/2024,10:00:00 AM,EST,03/05/2024,12:08:00 PM,EST,Citrus,Magnolia Creek-1,1,01/18/2024,EST,6,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/05/2024,9:38:00 AM,EST,02/05/2024,11:57:00 AM,EST,Citrus,Magnolia Creek-2,1,10/19/2023,,13,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/05/2024,10:00:00 AM,EST,03/05/2024,12:08:00 PM,EST,Citrus,Magnolia Creek-2,1,01/18/2024,EST,6,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/05/2024,9:38:00 AM,EST,02/05/2024,11:57:00 AM,EST,Citrus,Magnolia Creek-3,1,10/19/2023,,12,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/05/2024,10:00:00 AM,EST,03/05/2024,12:08:00 PM,EST,Citrus,Magnolia Creek-3,1,01/18/2024,EST,6,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/05/2024,9:38:00 AM,EST,02/05/2024,11:57:00 AM,EST,Citrus,Magnolia Creek-4,1,10/19/2023,,10,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/05/2024,10:00:00 AM,EST,03/05/2024,12:08:00 PM,EST,Citrus,Magnolia Creek-4,1,01/18/2024,EST,8,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/05/2024,10:00:00 AM,EST,03/05/2024,12:08:00 PM,EST,Citrus,Magnolia Creek-mullet hole,1,10/19/2023,EST,13,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/05/2024,10:00:00 AM,EST,03/05/2024,12:08:00 PM,EST,Citrus,Magnolia Creek-mullet hole,1,01/18/2024,EST,10,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/05/2024,10:00:00 AM,EST,03/05/2024,12:08:00 PM,EST,Clay,Asbury North,1,07/26/2023,EST,11,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/05/2024,10:00:00 AM,EST,03/05/2024,12:08:00 PM,EST,Clay,Asbury North,1,10/18/2023,EST,11,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/05/2024,10:00:00 AM,EST,03/05/2024,12:08:00 PM,EST,Clay,Asbury South,1,04/22/2023,EST,11,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/05/2024,10:00:00 AM,EST,03/05/2024,12:08:00 PM,EST,Clay,Asbury South,1,07/29/2023,EST,11,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/05/2024,10:00:00 AM,EST,03/05/2024,12:08:00 PM,EST,Clay,Deer,1,10/13/2023,EST,2,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/05/2024,10:00:00 AM,EST,03/05/2024,12:08:00 PM,EST,Clay,Gold Head Branch-1,1,10/13/2023,EST,24,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/05/2024,10:00:00 AM,EST,03/05/2024,12:08:00 PM,EST,Clay,Johnson,1,10/13/2023,EST,7,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/11/2024,11:30:00 AM,EDT,03/11/2024,12:43:00 PM,EDT,Clay,Kingsley,1,07/29/2023,EST,10,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/11/2024,11:30:00 AM,EDT,03/11/2024,12:43:00 PM,EDT,Clay,Kingsley,1,10/15/2023,EST,9,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/05/2024,9:38:00 AM,EST,02/05/2024,11:57:00 AM,EST,Clay,Lily,1,10/23/2023,,11,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/05/2024,10:00:00 AM,EST,03/05/2024,12:08:00 PM,EST,Clay,Little Johnson,1,10/13/2023,EST,22,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/05/2024,10:00:00 AM,EST,03/05/2024,12:08:00 PM,EST,Clay,Sheelar,1,10/13/2023,EST,3,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/05/2024,9:38:00 AM,EST,02/05/2024,11:57:00 AM,EST,Collier,Eagle,1,10/19/2023,,11,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/05/2024,9:38:00 AM,EST,02/05/2024,11:57:00 AM,EST,Collier,Harveys,1,10/02/2023,,40,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/05/2024,10:00:00 AM,EST,03/05/2024,12:08:00 PM,EST,Collier,IFAS Collier Pond,1,10/13/2023,EST,13,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/05/2024,9:38:00 AM,EST,02/05/2024,11:57:00 AM,EST,Collier,Islandwalk,1,10/06/2023,,28,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/05/2024,9:38:00 AM,EST,02/05/2024,11:57:00 AM,EST,Collier,Saddlebrook,1,10/12/2023,,45,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,12/21/2023,10:30:00 AM,EST,12/21/2023,11:30:00 AM,EST,Columbia,Jeffery,1,04/18/2023,,51,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,12/21/2023,10:30:00 AM,EST,12/21/2023,11:30:00 AM,EST,Columbia,Jeffery,1,07/28/2023,,47,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,12/21/2023,10:30:00 AM,EST,12/21/2023,11:30:00 AM,EST,Columbia,Lower Ichetucknee River-1,1,10/03/2023,,3,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,12/21/2023,10:30:00 AM,EST,12/21/2023,11:30:00 AM,EST,Columbia,Lower Ichetucknee River-2,1,10/03/2023,,0,PCU,1,1,PCU,QTI,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,12/21/2023,10:30:00 AM,EST,12/21/2023,11:30:00 AM,EST,Columbia,Lower Ichetucknee River-3,1,10/03/2023,,0,PCU,1,1,PCU,QTI,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,12/21/2023,10:30:00 AM,EST,12/21/2023,11:30:00 AM,EST,Columbia,Rum Island Spring-1,1,07/27/2023,,4,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,12/21/2023,10:30:00 AM,EST,12/21/2023,11:30:00 AM,EST,Columbia,Rum Island Spring-1,1,10/26/2023,,3,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/06/2024,9:53:00 AM,EST,02/06/2024,12:02:00 PM,EST,Flagler,Cheyenne Cove,1,10/19/2023,,131,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/06/2024,9:53:00 AM,EST,02/06/2024,12:02:00 PM,EST,Flagler,Disston,1,10/21/2023,,399,PCU,1,1,PCU,Q,Actual,4
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/03/2024,9:51:00 AM,EDT,01/03/2024,12:09:00 PM,EDT,Franklin,Alligator Harbor-1,1,10/27/2023,,11,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/03/2024,9:51:00 AM,EDT,01/03/2024,12:09:00 PM,EDT,Franklin,Alligator Harbor-2,1,10/27/2023,,11,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/03/2024,9:51:00 AM,EDT,01/03/2024,12:09:00 PM,EDT,Franklin,Alligator Harbor-3,1,10/27/2023,,19,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/03/2024,9:51:00 AM,EDT,01/03/2024,12:09:00 PM,EDT,Franklin,Alligator Harbor-4,1,10/27/2023,,10,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/03/2024,9:51:00 AM,EDT,01/03/2024,12:09:00 PM,EDT,Franklin,Alligator Harbor-5,1,10/27/2023,,8,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/03/2024,9:51:00 AM,EDT,01/03/2024,12:09:00 PM,EDT,Franklin,Alligator Harbor-6,1,10/27/2023,,15,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/03/2024,9:51:00 AM,EDT,01/03/2024,12:09:00 PM,EDT,Franklin,Alligator Harbor-7,1,10/27/2023,,8,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/06/2024,9:53:00 AM,EST,02/06/2024,12:02:00 PM,EST,Gadsden,Talquin,1,10/15/2023,,33,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,12/21/2023,10:30:00 AM,EST,12/21/2023,11:30:00 AM,EST,Gilchrist,Gilchrist Blue Spring Run-1,1,07/27/2023,,3,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,12/21/2023,10:30:00 AM,EST,12/21/2023,11:30:00 AM,EST,Gilchrist,Gilchrist Blue Spring Run-1,1,10/26/2023,,3,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,12/21/2023,10:30:00 AM,EST,12/21/2023,11:30:00 AM,EST,Gilchrist,Ginnie Spring Run-1,1,07/27/2023,,62,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,12/21/2023,10:30:00 AM,EST,12/21/2023,11:30:00 AM,EST,Gilchrist,Ginnie Spring Run-1,1,10/26/2023,,0,PCU,1,1,PCU,QTI,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/03/2024,9:51:00 AM,EDT,01/03/2024,12:09:00 PM,EDT,Gulf,St. Joseph Bay-1,1,10/17/2023,,11,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/03/2024,9:51:00 AM,EDT,01/03/2024,12:09:00 PM,EDT,Gulf,St. Joseph Bay-2,1,10/17/2023,,8,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/03/2024,9:51:00 AM,EDT,01/03/2024,12:09:00 PM,EDT,Gulf,St. Joseph Bay-3,1,10/17/2023,,11,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/03/2024,9:51:00 AM,EDT,01/03/2024,12:09:00 PM,EDT,Gulf,St. Joseph Bay-4,1,10/17/2023,,7,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/03/2024,9:51:00 AM,EDT,01/03/2024,12:09:00 PM,EDT,Gulf,St. Joseph Bay-5,1,10/17/2023,,7,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/03/2024,9:51:00 AM,EDT,01/03/2024,12:09:00 PM,EDT,Gulf,St. Joseph Bay-6,1,10/17/2023,,15,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/03/2024,9:51:00 AM,EDT,01/03/2024,12:09:00 PM,EDT,Gulf,St. Joseph Bay-7,1,10/17/2023,,10,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/03/2024,9:51:00 AM,EDT,01/03/2024,12:09:00 PM,EDT,Gulf,St. Joseph Bay-8,1,10/17/2023,,37,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/03/2024,9:51:00 AM,EDT,01/03/2024,12:09:00 PM,EDT,Gulf,St. Joseph Bay-9,1,10/17/2023,,7,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/06/2024,9:53:00 AM,EST,02/06/2024,12:02:00 PM,EST,Hernando,Mountain,1,10/30/2023,,46,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/06/2024,9:53:00 AM,EST,02/06/2024,12:02:00 PM,EST,Hernando,Weeki Wachee-1,1,10/26/2023,,5,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/06/2024,9:53:00 AM,EST,02/06/2024,12:02:00 PM,EST,Hernando,Weeki Wachee-2,1,10/26/2023,,3,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/06/2024,9:53:00 AM,EST,02/06/2024,12:02:00 PM,EST,Hernando,Weeki Wachee-3,1,10/26/2023,,6,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/05/2024,10:00:00 AM,EST,03/05/2024,12:08:00 PM,EST,Highlands,Annie,1,10/17/2023,EST,135,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/05/2024,10:00:00 AM,EST,03/05/2024,12:08:00 PM,EST,Highlands,Catfish Creek-1,1,10/20/2023,EST,120,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/05/2024,10:00:00 AM,EST,03/05/2024,12:08:00 PM,EST,Highlands,Catfish Creek-2,1,10/20/2023,EST,98,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/05/2024,10:00:00 AM,EST,03/05/2024,12:08:00 PM,EST,Highlands,Catfish Creek-3,1,10/20/2023,EST,87,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/05/2024,10:00:00 AM,EST,03/05/2024,12:08:00 PM,EST,Highlands,Dinner,1,10/26/2023,EST,15,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/05/2024,10:00:00 AM,EST,03/05/2024,12:08:00 PM,EST,Highlands,Jackson,1,10/13/2023,EST,14,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/05/2024,10:00:00 AM,EST,03/05/2024,12:08:00 PM,EST,Highlands,Josephine Center,1,10/30/2023,EST,209,PCU,1,1,PCU,Q,Actual,2
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/05/2024,10:00:00 AM,EST,03/05/2024,12:08:00 PM,EST,Highlands,Josephine East,1,10/30/2023,EST,118,PCU,1,1,PCU,Q,Actual,2
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/05/2024,10:00:00 AM,EST,03/05/2024,12:08:00 PM,EST,Highlands,Josephine West,1,10/30/2023,EST,240,PCU,1,1,PCU,Q,Actual,2
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/05/2024,10:00:00 AM,EST,03/05/2024,12:08:00 PM,EST,Highlands,June,1,10/20/2023,EST,16,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/05/2024,10:00:00 AM,EST,03/05/2024,12:08:00 PM,EST,Highlands,June North,1,10/20/2023,EST,15,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/05/2024,10:00:00 AM,EST,03/05/2024,12:08:00 PM,EST,Highlands,Lillian,1,10/27/2023,EST,13,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/05/2024,10:00:00 AM,EST,03/05/2024,12:08:00 PM,EST,Highlands,Red Beach,1,10/20/2023,EST,53,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/03/2024,9:51:00 AM,EDT,01/03/2024,12:09:00 PM,EDT,Hillsborough,Boot,1,01/11/2022,,22,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/03/2024,9:51:00 AM,EDT,01/03/2024,12:09:00 PM,EDT,Hillsborough,Boot,1,10/29/2023,,14,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/06/2024,9:53:00 AM,EST,02/06/2024,12:02:00 PM,EST,Hillsborough,Cedar West,2,10/25/2023,,23,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,12/21/2023,10:30:00 AM,EST,12/21/2023,11:30:00 AM,EST,Hillsborough,Dosson,1,10/02/2023,,74,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/11/2024,11:30:00 AM,EDT,03/11/2024,12:43:00 PM,EDT,Hillsborough,Dosson,1,01/03/2024,EST,71,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/06/2024,9:53:00 AM,EST,02/06/2024,12:02:00 PM,EST,Hillsborough,Elizabeth,1,10/30/2023,,33,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,12/21/2023,10:30:00 AM,EST,12/21/2023,11:30:00 AM,EST,Hillsborough,Estes,1,10/04/2023,,79,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/06/2024,10:06:00 AM,EST,03/06/2024,11:46:00 AM,EST,Hillsborough,Estes,1,01/03/2024,EST,33,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/03/2024,9:51:00 AM,EDT,01/03/2024,12:09:00 PM,EDT,Hillsborough,Forest,1,10/10/2023,,21,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/06/2024,9:53:00 AM,EST,02/06/2024,12:02:00 PM,EST,Hillsborough,Grady,1,10/24/2023,,75,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/06/2024,10:06:00 AM,EST,03/06/2024,11:46:00 AM,EST,Hillsborough,Holly 2,1,10/15/2023,EST,39,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/06/2024,10:06:00 AM,EST,03/06/2024,11:46:00 AM,EST,Hillsborough,Island Ford,1,01/01/2024,EST,23,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/03/2024,9:51:00 AM,EDT,01/03/2024,12:09:00 PM,EDT,Hillsborough,LeClare,1,10/22/2023,,18,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/06/2024,9:53:00 AM,EST,02/06/2024,12:02:00 PM,EST,Hillsborough,Lykes Lane Pond,1,10/22/2023,,32,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/03/2024,9:51:00 AM,EDT,01/03/2024,12:09:00 PM,EDT,Hillsborough,North Pond,1,10/06/2023,,22,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/06/2024,9:53:00 AM,EST,02/06/2024,12:02:00 PM,EST,Hillsborough,Silver,1,10/22/2023,,23,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/06/2024,10:06:00 AM,EST,03/06/2024,11:46:00 AM,EST,Hillsborough,Twin,1,10/21/2023,EST,26,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/03/2024,9:51:00 AM,EDT,01/03/2024,12:09:00 PM,EDT,Hillsborough,West Meadows-3,1,10/06/2023,,33,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/03/2024,9:51:00 AM,EDT,01/03/2024,12:09:00 PM,EDT,Hillsborough,West Meadows-15,1,10/06/2023,,14,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/06/2024,9:53:00 AM,EST,02/06/2024,12:02:00 PM,EST,Hillsborough,Zambito,1,10/22/2023,,40,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/06/2024,9:53:00 AM,EST,02/06/2024,12:02:00 PM,EST,Hillsborough,Zambito East,1,10/22/2023,,44,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/09/2024,10:04:00 AM,EST,01/09/2024,12:38:00 PM,EST,Holmes,CBA Pea River-1,1,10/10/2023,,9,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/09/2024,10:04:00 AM,EST,01/09/2024,12:38:00 PM,EST,Holmes,CBA River-7,1,10/10/2023,,6,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/09/2024,10:04:00 AM,EST,01/09/2024,12:38:00 PM,EST,Holmes,CBA River-8,1,10/10/2023,,7,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/06/2024,9:53:00 AM,EST,02/06/2024,12:02:00 PM,EST,Indian River,Blue Cypress,1,10/24/2023,,316,PCU,1,1,PCU,Q,Actual,4
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/06/2024,9:53:00 AM,EST,02/06/2024,12:02:00 PM,EST,Jackson,Silver,1,10/06/2023,,5,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/03/2024,9:51:00 AM,EDT,01/03/2024,12:09:00 PM,EDT,Lake,Bay,1,07/15/2023,,109,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/03/2024,9:51:00 AM,EDT,01/03/2024,12:09:00 PM,EDT,Lake,Bay,1,10/15/2023,,93,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/06/2024,9:53:00 AM,EST,02/06/2024,12:02:00 PM,EST,Lake,Bear,1,10/03/2023,,58,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/06/2024,9:53:00 AM,EST,02/06/2024,12:02:00 PM,EST,Lake,Bear,1,10/31/2023,,52,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/09/2024,10:04:00 AM,EST,01/09/2024,12:38:00 PM,EST,Lake,Bugg Springs,1,10/14/2023,,6,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/09/2024,10:04:00 AM,EST,01/09/2024,12:38:00 PM,EST,Lake,Bugg Springs,2,10/14/2023,,9,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/11/2024,11:30:00 AM,EDT,03/11/2024,12:43:00 PM,EDT,Lake,Bugg Springs,1,01/14/2024,EST,11,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/11/2024,11:30:00 AM,EDT,03/11/2024,12:43:00 PM,EDT,Lake,Bugg Springs,2,01/14/2024,EST,9,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/06/2024,9:53:00 AM,EST,02/06/2024,12:02:00 PM,EST,Lake,Crown,1,10/31/2023,,17,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/11/2024,11:30:00 AM,EDT,03/11/2024,12:43:00 PM,EDT,Lake,Dora West,1,01/26/2024,EST,27,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/11/2024,11:30:00 AM,EDT,03/11/2024,12:43:00 PM,EDT,Lake,Dorr,1,01/30/2024,EST,78,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/03/2024,9:51:00 AM,EDT,01/03/2024,12:09:00 PM,EDT,Lake,Eustis,1,10/10/2023,,16,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/11/2024,11:30:00 AM,EDT,03/11/2024,12:43:00 PM,EDT,Lake,Eustis,1,01/18/2024,EST,24,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/06/2024,9:53:00 AM,EST,02/06/2024,12:02:00 PM,EST,Lake,Florence,1,10/07/2023,,9,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/11/2024,11:30:00 AM,EDT,03/11/2024,12:43:00 PM,EDT,Lake,Grasshopper,1,01/30/2024,EST,85,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/03/2024,9:51:00 AM,EDT,01/03/2024,12:09:00 PM,EDT,Lake,Harris East,1,10/09/2023,,26,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/11/2024,11:30:00 AM,EDT,03/11/2024,12:43:00 PM,EDT,Lake,Harris East,1,01/30/2024,EST,25,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/11/2024,11:30:00 AM,EDT,03/11/2024,12:43:00 PM,EDT,Lake,Harris West,1,01/25/2024,EST,26,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/06/2024,9:53:00 AM,EST,02/06/2024,12:02:00 PM,EST,Lake,Hiawatha,1,10/05/2023,,118,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/06/2024,9:53:00 AM,EST,02/06/2024,12:02:00 PM,EST,Lake,Jewel,1,10/31/2023,,40,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/06/2024,9:53:00 AM,EST,02/06/2024,12:02:00 PM,EST,Lake,Lorraine,1,10/29/2023,,52,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/11/2024,11:30:00 AM,EDT,03/11/2024,12:43:00 PM,EDT,Lake,Lorraine,1,01/31/2024,EST,53,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/06/2024,9:53:00 AM,EST,02/06/2024,12:02:00 PM,EST,Lake,Louisa,1,10/02/2023,,292,PCU,1,1,PCU,Q,Actual,4
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/06/2024,9:53:00 AM,EST,02/06/2024,12:02:00 PM,EST,Lake,Louisa,1,10/31/2023,,281,PCU,1,1,PCU,Q,Actual,4
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/06/2024,9:53:00 AM,EST,02/06/2024,12:02:00 PM,EST,Lake,Palatlakaha,1,10/05/2023,,328,PCU,1,1,PCU,Q,Actual,4
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/06/2024,9:53:00 AM,EST,02/06/2024,12:02:00 PM,EST,Lake,Royal,1,10/31/2023,,17,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/11/2024,11:30:00 AM,EDT,03/11/2024,12:43:00 PM,EDT,Lake,Sellers,1,01/30/2024,EST,9,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/06/2024,9:53:00 AM,EST,02/06/2024,12:02:00 PM,EST,Lake,Wildcat,1,10/30/2023,,50,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/11/2024,11:30:00 AM,EDT,03/11/2024,12:43:00 PM,EDT,Lake,Wildcat,1,01/29/2024,EST,58,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/06/2024,9:53:00 AM,EST,02/06/2024,12:02:00 PM,EST,Lake,Winona,1,10/05/2023,,78,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/06/2024,9:53:00 AM,EST,02/06/2024,12:02:00 PM,EST,Leon,Blue Heron,1,10/30/2023,,10,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/06/2024,9:53:00 AM,EST,02/06/2024,12:02:00 PM,EST,Leon,Munson,4,10/07/2023,,17,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,12/21/2023,10:30:00 AM,EST,12/21/2023,11:30:00 AM,EST,Levy,Cedar Key-1,1,10/31/2023,,31,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,12/21/2023,10:30:00 AM,EST,12/21/2023,11:30:00 AM,EST,Levy,Cedar Key-2,1,10/31/2023,,25,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,12/21/2023,10:30:00 AM,EST,12/21/2023,11:30:00 AM,EST,Levy,Cedar Key-4,1,10/31/2023,,23,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/06/2024,9:53:00 AM,EST,02/06/2024,12:02:00 PM,EST,Liberty,Mystic,1,10/09/2023,,6,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/06/2024,9:53:00 AM,EST,02/06/2024,12:02:00 PM,EST,Marion,Charles,1,10/30/2023,,301,PCU,1,1,PCU,Q,Actual,4
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/06/2024,10:06:00 AM,EST,03/06/2024,11:46:00 AM,EST,Marion,Deerback,1,10/31/2023,EST,19,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/06/2024,9:53:00 AM,EST,02/06/2024,12:02:00 PM,EST,Marion,Halfmoon,1,10/30/2023,,40,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/11/2024,11:30:00 AM,EDT,03/11/2024,12:43:00 PM,EDT,Marion,Halfmoon,1,01/29/2024,EST,42,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/06/2024,9:53:00 AM,EST,02/06/2024,12:02:00 PM,EST,Marion,Lou,1,10/30/2023,,147,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/11/2024,11:30:00 AM,EDT,03/11/2024,12:43:00 PM,EDT,Marion,Lou,1,01/29/2024,EST,136,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/06/2024,10:06:00 AM,EST,03/06/2024,11:46:00 AM,EST,Marion,Rainbow River-2,1,10/22/2023,EST,1,PCU,1,1,PCU,QU,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/06/2024,10:06:00 AM,EST,03/06/2024,11:46:00 AM,EST,Marion,Rainbow River-3,1,10/22/2023,EST,2,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/06/2024,10:06:00 AM,EST,03/06/2024,11:46:00 AM,EST,Marion,Silver River-1,1,10/17/2023,EST,1,PCU,1,1,PCU,QU,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/06/2024,10:06:00 AM,EST,03/06/2024,11:46:00 AM,EST,Marion,Silver River-2,1,10/17/2023,EST,0,PCU,1,1,PCU,QTI,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/06/2024,10:06:00 AM,EST,03/06/2024,11:46:00 AM,EST,Marion,Silver River-3,1,10/17/2023,EST,0,PCU,1,1,PCU,QTI,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/06/2024,10:06:00 AM,EST,03/06/2024,11:46:00 AM,EST,Marion,Silver River-4,1,10/17/2023,EST,2,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/06/2024,10:06:00 AM,EST,03/06/2024,11:46:00 AM,EST,Marion,Sunset Harbor,1,10/22/2023,EST,8,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/06/2024,10:06:00 AM,EST,03/06/2024,11:46:00 AM,EST,Marion,Withlacoochee River-Dunnellon,1,12/29/2023,EST,1,PCU,1,1,PCU,QU,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/03/2024,9:51:00 AM,EDT,01/03/2024,12:09:00 PM,EDT,Miami-Dade,Lakeridge,1,10/15/2023,,6,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/03/2024,9:51:00 AM,EDT,01/03/2024,12:09:00 PM,EDT,Miami-Dade,Oakland,1,10/10/2023,,6,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/03/2024,9:51:00 AM,EDT,01/03/2024,12:09:00 PM,EDT,Miami-Dade,Saga,1,10/14/2023,,24,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/06/2024,9:53:00 AM,EST,02/06/2024,12:02:00 PM,EST,Monroe,Cudjoe-3,1,10/22/2023,,11,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/06/2024,9:53:00 AM,EST,02/06/2024,12:02:00 PM,EST,Monroe,Cudjoe-4,1,10/22/2023,,6,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/06/2024,9:53:00 AM,EST,02/06/2024,12:02:00 PM,EST,Monroe,Cudjoe-5,1,10/22/2023,,6,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/06/2024,9:53:00 AM,EST,02/06/2024,12:02:00 PM,EST,Monroe,Cudjoe-7,1,10/22/2023,,7,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/06/2024,9:53:00 AM,EST,02/06/2024,12:02:00 PM,EST,Monroe,Cudjoe-8,1,10/21/2023,,6,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/06/2024,9:53:00 AM,EST,02/06/2024,12:02:00 PM,EST,Monroe,Cudjoe-9,1,10/21/2023,,6,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/06/2024,9:53:00 AM,EST,02/06/2024,12:02:00 PM,EST,Monroe,Cudjoe-10,1,10/21/2023,,6,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/06/2024,9:53:00 AM,EST,02/06/2024,12:02:00 PM,EST,Monroe,Cudjoe-11,1,10/21/2023,,8,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/06/2024,9:53:00 AM,EST,02/06/2024,12:02:00 PM,EST,Monroe,Cudjoe-12,1,10/21/2023,,6,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/06/2024,9:53:00 AM,EST,02/06/2024,12:02:00 PM,EST,Monroe,Cudjoe-13,1,10/21/2023,,8,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/06/2024,9:53:00 AM,EST,02/06/2024,12:02:00 PM,EST,Monroe,Tarpon Basin-1,1,10/27/2023,,12,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/06/2024,9:53:00 AM,EST,02/06/2024,12:02:00 PM,EST,Monroe,Tarpon Basin-2,1,10/27/2023,,9,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/06/2024,9:53:00 AM,EST,02/06/2024,12:02:00 PM,EST,Monroe,Tarpon Basin-3,1,10/27/2023,,10,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/08/2024,9:39:00 AM,EST,02/08/2024,12:09:00 PM,EST,Orange,Adair,1,10/08/2023,,25,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/08/2024,9:39:00 AM,EST,02/08/2024,12:09:00 PM,EST,Orange,Cane,1,10/07/2023,,15,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/08/2024,9:39:00 AM,EST,02/08/2024,12:09:00 PM,EST,Orange,Claire,1,10/18/2023,,67,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/08/2024,9:39:00 AM,EST,02/08/2024,12:09:00 PM,EST,Orange,Clear,1,10/30/2023,,15,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/08/2024,9:39:00 AM,EST,02/08/2024,12:09:00 PM,EST,Orange,Conway South,1,10/29/2023,,10,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/08/2024,9:39:00 AM,EST,02/08/2024,12:09:00 PM,EST,Orange,Crystal,1,10/29/2023,,26,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/08/2024,9:39:00 AM,EST,02/08/2024,12:09:00 PM,EST,Orange,Cypress,1,10/22/2023,,32,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/08/2024,9:39:00 AM,EST,02/08/2024,12:09:00 PM,EST,Orange,Down,1,10/22/2023,,8,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/08/2024,9:39:00 AM,EST,02/08/2024,12:09:00 PM,EST,Orange,East,1,10/10/2023,,196,PCU,1,1,PCU,Q,Actual,2
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/08/2024,9:39:00 AM,EST,02/08/2024,12:09:00 PM,EST,Orange,Fairview,1,10/15/2023,,11,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/08/2024,9:39:00 AM,EST,02/08/2024,12:09:00 PM,EST,Orange,Fairview South,1,10/15/2023,,18,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/08/2024,9:39:00 AM,EST,02/08/2024,12:09:00 PM,EST,Orange,Formosa,1,10/07/2023,,13,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/08/2024,9:39:00 AM,EST,02/08/2024,12:09:00 PM,EST,Orange,Giles,1,10/05/2023,,13,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/08/2024,9:39:00 AM,EST,02/08/2024,12:09:00 PM,EST,Orange,Hickorynut,2,10/30/2023,,43,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/08/2024,9:39:00 AM,EST,02/08/2024,12:09:00 PM,EST,Orange,Hickorynut South,2,10/30/2023,,45,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,12/21/2023,10:30:00 AM,EST,12/21/2023,11:30:00 AM,EST,Orange,Holden,1,07/21/2023,,5,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,12/21/2023,10:30:00 AM,EST,12/21/2023,11:30:00 AM,EST,Orange,Holden Canal-1,1,07/21/2023,,9,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/08/2024,9:39:00 AM,EST,02/08/2024,12:09:00 PM,EST,Orange,Irma,1,10/09/2023,,26,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,12/21/2023,10:30:00 AM,EST,12/21/2023,11:30:00 AM,EST,Orange,Lee,1,07/27/2023,,22,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/08/2024,9:39:00 AM,EST,02/08/2024,12:09:00 PM,EST,Orange,Lee,1,10/18/2023,,31,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/08/2024,9:39:00 AM,EST,02/08/2024,12:09:00 PM,EST,Orange,Little Hickorynut,2,10/30/2023,,37,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,12/21/2023,10:30:00 AM,EST,12/21/2023,11:30:00 AM,EST,Orange,Lockhart,1,07/21/2023,,16,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/08/2024,9:39:00 AM,EST,02/08/2024,12:09:00 PM,EST,Orange,Lockhart,1,10/31/2023,,13,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/08/2024,9:39:00 AM,EST,02/08/2024,12:09:00 PM,EST,Orange,O'Dell,1,10/21/2023,,67,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/03/2024,9:51:00 AM,EDT,01/03/2024,12:09:00 PM,EDT,Orange,Ola,1,10/12/2023,,18,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/11/2024,11:30:00 AM,EDT,03/11/2024,12:43:00 PM,EDT,Orange,Ola,1,01/16/2024,EST,12,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/08/2024,9:39:00 AM,EST,02/08/2024,12:09:00 PM,EST,Orange,Olivia,1,10/16/2023,,21,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/08/2024,9:39:00 AM,EST,02/08/2024,12:09:00 PM,EST,Orange,Olympia,1,10/19/2023,,13,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/08/2024,9:39:00 AM,EST,02/08/2024,12:09:00 PM,EST,Orange,Pineloch,1,10/14/2023,,13,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/08/2024,9:39:00 AM,EST,02/08/2024,12:09:00 PM,EST,Orange,Rose,1,10/19/2023,,43,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/08/2024,9:39:00 AM,EST,02/08/2024,12:09:00 PM,EST,Orange,Sloat,1,04/08/2023,,31,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/08/2024,9:39:00 AM,EST,02/08/2024,12:09:00 PM,EST,Orange,Waumpi,1,10/19/2023,,24,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,12/21/2023,10:30:00 AM,EST,12/21/2023,11:30:00 AM,EST,Orange,Waunatta,1,07/24/2023,,19,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/11/2024,11:30:00 AM,EDT,03/11/2024,12:43:00 PM,EDT,Orange,Waunatta,1,10/24/2023,EST,24,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/08/2024,9:39:00 AM,EST,02/08/2024,12:09:00 PM,EST,Osceola,Alligator,3,10/15/2023,,73,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/08/2024,9:39:00 AM,EST,02/08/2024,12:09:00 PM,EST,Osceola,Alligator Canal-1,1,10/15/2023,,51,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/08/2024,9:39:00 AM,EST,02/08/2024,12:09:00 PM,EST,Osceola,Alligator Canal-2,1,10/15/2023,,83,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/08/2024,9:39:00 AM,EST,02/08/2024,12:09:00 PM,EST,Osceola,Bellalago,1,10/18/2023,,35,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/08/2024,9:39:00 AM,EST,02/08/2024,12:09:00 PM,EST,Osceola,Brick,2,10/08/2023,,69,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/08/2024,9:39:00 AM,EST,02/08/2024,12:09:00 PM,EST,Osceola,Center,1,10/18/2023,,428,PCU,1,1,PCU,Q,Actual,4
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/08/2024,9:39:00 AM,EST,02/08/2024,12:09:00 PM,EST,Osceola,Coon,1,10/18/2023,,343,PCU,1,1,PCU,Q,Actual,4
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/08/2024,9:39:00 AM,EST,02/08/2024,12:09:00 PM,EST,Osceola,Fish,2,10/21/2023,,67,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/08/2024,9:39:00 AM,EST,02/08/2024,12:09:00 PM,EST,Osceola,Tohopekaliga-Middle,1,10/18/2023,,65,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/03/2024,9:51:00 AM,EDT,01/03/2024,12:09:00 PM,EDT,Palm Beach,Westwood,1,07/31/2023,,15,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/06/2024,9:53:00 AM,EST,02/06/2024,12:02:00 PM,EST,Palm Beach,Westwood,1,10/31/2023,,12,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/03/2024,9:51:00 AM,EDT,01/03/2024,12:09:00 PM,EDT,Pasco,Bird,1,10/05/2023,,42,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/09/2024,10:04:00 AM,EST,01/09/2024,12:38:00 PM,EST,Pasco,Jovita,1,10/24/2023,,11,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/06/2024,9:53:00 AM,EST,02/06/2024,12:02:00 PM,EST,Pinellas,Autumn,1,10/21/2023,,46,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/06/2024,9:53:00 AM,EST,02/06/2024,12:02:00 PM,EST,Pinellas,Bellevue,1,10/19/2023,,22,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/06/2024,9:53:00 AM,EST,02/06/2024,12:02:00 PM,EST,Pinellas,Chautauqua 2,1,10/22/2023,,33,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/06/2024,9:53:00 AM,EST,02/06/2024,12:02:00 PM,EST,Pinellas,Crescent,2,10/28/2023,,23,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/06/2024,10:06:00 AM,EST,03/06/2024,11:46:00 AM,EST,Pinellas,Hewitt,1,10/28/2023,EST,9,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/06/2024,9:53:00 AM,EST,02/06/2024,12:02:00 PM,EST,Pinellas,Meadow West,1,10/15/2023,,26,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/06/2024,10:06:00 AM,EST,03/06/2024,11:46:00 AM,EST,Pinellas,Saundra,1,10/10/2023,EST,34,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/06/2024,9:53:00 AM,EST,02/06/2024,12:02:00 PM,EST,Pinellas,Seminole,1,10/30/2023,,46,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/06/2024,9:53:00 AM,EST,02/06/2024,12:02:00 PM,EST,Pinellas,Winston,1,10/14/2023,,26,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/06/2024,9:53:00 AM,EST,02/06/2024,12:02:00 PM,EST,Polk,Crooked,1,10/28/2023,,21,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/06/2024,9:53:00 AM,EST,02/06/2024,12:02:00 PM,EST,Polk,Crooked-Babson Park,1,10/28/2023,,21,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/06/2024,9:53:00 AM,EST,02/06/2024,12:02:00 PM,EST,Polk,Crooked-Seminole Rd. drain,1,10/28/2023,,23,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/06/2024,9:53:00 AM,EST,02/06/2024,12:02:00 PM,EST,Polk,Saddlebag,1,10/28/2023,,17,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/07/2024,9:36:00 AM,EST,02/08/2024,12:12:00 PM,EST,Putnam,Anderson Cue,1,10/25/2023,,8,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/07/2024,9:36:00 AM,EST,02/09/2024,12:12:00 PM,EST,Putnam,Anderson Cue,2,10/25/2023,,8,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/07/2024,9:36:00 AM,EST,02/10/2024,12:12:00 PM,EST,Putnam,Anderson Cue,3,10/25/2023,,10,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/03/2024,9:51:00 AM,EDT,01/03/2024,12:09:00 PM,EDT,Putnam,Anderson Cue,1,11/28/2023,,17,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/03/2024,9:51:00 AM,EDT,01/03/2024,12:09:00 PM,EDT,Putnam,Anderson Cue,2,11/28/2023,,13,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/03/2024,9:51:00 AM,EDT,01/03/2024,12:09:00 PM,EDT,Putnam,Anderson Cue,3,11/28/2023,,14,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/07/2024,9:36:00 AM,EST,02/11/2024,12:12:00 PM,EST,Putnam,Anderson Cue,1,01/04/2024,,24,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/07/2024,9:36:00 AM,EST,02/12/2024,12:12:00 PM,EST,Putnam,Anderson Cue,2,01/04/2024,,16,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/07/2024,9:36:00 AM,EST,02/13/2024,12:12:00 PM,EST,Putnam,Anderson Cue,3,01/04/2024,,16,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/06/2024,10:06:00 AM,EST,03/06/2024,11:46:00 AM,EST,Putnam,Anderson Cue,1,01/30/2024,EST,12,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/06/2024,10:06:00 AM,EST,03/06/2024,11:46:00 AM,EST,Putnam,Anderson Cue,2,01/30/2024,EST,12,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/06/2024,10:06:00 AM,EST,03/06/2024,11:46:00 AM,EST,Putnam,Anderson Cue,3,01/30/2024,EST,13,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/07/2024,9:36:00 AM,EST,02/14/2024,12:12:00 PM,EST,Putnam,Annie,1,10/14/2023,,16,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/07/2024,9:36:00 AM,EST,02/15/2024,12:12:00 PM,EST,Putnam,Barco,1,10/25/2023,,10,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/07/2024,9:36:00 AM,EST,02/16/2024,12:12:00 PM,EST,Putnam,Barco,2,10/25/2023,,7,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/07/2024,9:36:00 AM,EST,02/18/2024,12:12:00 PM,EST,Putnam,Barco,3,10/25/2023,,7,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/03/2024,9:51:00 AM,EDT,01/03/2024,12:09:00 PM,EDT,Putnam,Barco,1,11/28/2023,,6,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/03/2024,9:51:00 AM,EDT,01/03/2024,12:09:00 PM,EDT,Putnam,Barco,2,11/28/2023,,6,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/03/2024,9:51:00 AM,EDT,01/03/2024,12:09:00 PM,EDT,Putnam,Barco,3,11/28/2023,,6,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/07/2024,9:36:00 AM,EST,02/19/2024,12:12:00 PM,EST,Putnam,Barco,1,01/04/2024,,6,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/07/2024,9:36:00 AM,EST,02/20/2024,12:12:00 PM,EST,Putnam,Barco,2,01/04/2024,,6,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/07/2024,9:36:00 AM,EST,02/21/2024,12:12:00 PM,EST,Putnam,Barco,3,01/04/2024,,6,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/06/2024,10:06:00 AM,EST,03/06/2024,11:46:00 AM,EST,Putnam,Barco,1,01/30/2024,EST,7,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/06/2024,10:06:00 AM,EST,03/06/2024,11:46:00 AM,EST,Putnam,Barco,2,01/30/2024,EST,5,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/06/2024,10:06:00 AM,EST,03/06/2024,11:46:00 AM,EST,Putnam,Barco,3,01/30/2024,EST,5,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/06/2024,10:06:00 AM,EST,03/06/2024,11:46:00 AM,EST,Putnam,Blue,1,01/18/2024,EST,12,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,12/21/2023,10:30:00 AM,EST,12/21/2023,11:30:00 AM,EST,Putnam,Broward,1,07/17/2023,,19,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/07/2024,9:36:00 AM,EST,02/22/2024,12:12:00 PM,EST,Putnam,Broward,1,10/19/2023,,23,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,12/21/2023,10:30:00 AM,EST,12/21/2023,11:30:00 AM,EST,Putnam,Camp Branch-1,1,07/18/2023,,161,PCU,1,1,PCU,Q,Actual,2
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/07/2024,9:36:00 AM,EST,02/23/2024,12:12:00 PM,EST,Putnam,Camp Branch-1,1,10/31/2023,,107,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,12/21/2023,10:30:00 AM,EST,12/21/2023,11:30:00 AM,EST,Putnam,Camp Branch-2,1,07/18/2023,,344,PCU,1,1,PCU,Q,Actual,4
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/07/2024,9:36:00 AM,EST,02/24/2024,12:12:00 PM,EST,Putnam,Camp Branch-2,1,10/31/2023,,108,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,12/21/2023,10:30:00 AM,EST,12/21/2023,11:30:00 AM,EST,Putnam,Camp Branch-3,1,07/18/2023,,341,PCU,1,1,PCU,Q,Actual,4
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/07/2024,9:36:00 AM,EST,02/25/2024,12:12:00 PM,EST,Putnam,Camp Branch-3,1,10/31/2023,,100,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,12/21/2023,10:30:00 AM,EST,12/21/2023,11:30:00 AM,EST,Putnam,Camp Branch-4,1,07/18/2023,,95,PCU,1,1,PCU,Q,Actual,2
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/07/2024,9:36:00 AM,EST,02/26/2024,12:12:00 PM,EST,Putnam,Camp Branch-4,1,10/31/2023,,107,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/07/2024,9:36:00 AM,EST,02/28/2024,12:12:00 PM,EST,Putnam,Enslow,1,10/24/2023,,27,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/07/2024,9:36:00 AM,EST,02/29/2024,12:12:00 PM,EST,Putnam,Enslow,2,10/24/2023,,26,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/07/2024,9:36:00 AM,EST,03/01/2024,12:12:00 PM,EST,Putnam,Enslow,3,10/24/2023,,27,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/03/2024,9:51:00 AM,EDT,01/03/2024,12:09:00 PM,EDT,Putnam,Enslow,1,11/28/2023,,30,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/03/2024,9:51:00 AM,EDT,01/03/2024,12:09:00 PM,EDT,Putnam,Enslow,2,11/28/2023,,28,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/03/2024,9:51:00 AM,EDT,01/03/2024,12:09:00 PM,EDT,Putnam,Enslow,3,11/28/2023,,31,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/07/2024,9:36:00 AM,EST,03/02/2024,12:12:00 PM,EST,Putnam,Enslow,1,01/03/2024,,29,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/07/2024,9:36:00 AM,EST,03/03/2024,12:12:00 PM,EST,Putnam,Enslow,2,01/03/2024,,26,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/07/2024,9:36:00 AM,EST,03/04/2024,12:12:00 PM,EST,Putnam,Enslow,3,01/03/2024,,26,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/06/2024,10:06:00 AM,EST,03/06/2024,11:46:00 AM,EST,Putnam,Enslow,1,02/01/2024,EST,28,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/06/2024,10:06:00 AM,EST,03/06/2024,11:46:00 AM,EST,Putnam,Enslow,2,02/01/2024,EST,25,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/06/2024,10:06:00 AM,EST,03/06/2024,11:46:00 AM,EST,Putnam,Enslow,3,02/01/2024,EST,24,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/06/2024,10:06:00 AM,EST,03/06/2024,11:46:00 AM,EST,Putnam,Fanny,1,01/13/2024,EST,7,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/07/2024,9:36:00 AM,EST,03/05/2024,12:12:00 PM,EST,Putnam,Goose,1,10/25/2023,,255,PCU,1,1,PCU,Q,Actual,4
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/07/2024,9:36:00 AM,EST,03/06/2024,12:12:00 PM,EST,Putnam,Goose,2,10/25/2023,,255,PCU,1,1,PCU,Q,Actual,4
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/07/2024,9:36:00 AM,EST,03/07/2024,12:12:00 PM,EST,Putnam,Goose,3,10/25/2023,,237,PCU,1,1,PCU,Q,Actual,4
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/03/2024,9:51:00 AM,EDT,01/03/2024,12:09:00 PM,EDT,Putnam,Goose,1,11/29/2023,,236,PCU,1,1,PCU,Q,Actual,4
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/03/2024,9:51:00 AM,EDT,01/03/2024,12:09:00 PM,EDT,Putnam,Goose,2,11/29/2023,,250,PCU,1,1,PCU,Q,Actual,4
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/03/2024,9:51:00 AM,EDT,01/03/2024,12:09:00 PM,EDT,Putnam,Goose,3,11/29/2023,,247,PCU,1,1,PCU,Q,Actual,4
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/07/2024,9:36:00 AM,EST,03/09/2024,12:12:00 PM,EST,Putnam,Goose,1,01/04/2024,,261,PCU,1,1,PCU,Q,Actual,4
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/07/2024,9:36:00 AM,EST,03/10/2024,12:12:00 PM,EST,Putnam,Goose,2,01/04/2024,,267,PCU,1,1,PCU,Q,Actual,4
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/07/2024,9:36:00 AM,EST,03/11/2024,12:12:00 PM,EST,Putnam,Goose,3,01/04/2024,,270,PCU,1,1,PCU,Q,Actual,4
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/06/2024,10:06:00 AM,EST,03/06/2024,11:46:00 AM,EST,Putnam,Goose,1,02/01/2024,EST,259,PCU,1,1,PCU,Q,Actual,4
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/06/2024,10:06:00 AM,EST,03/06/2024,11:46:00 AM,EST,Putnam,Goose,2,02/01/2024,EST,256,PCU,1,1,PCU,Q,Actual,4
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/06/2024,10:06:00 AM,EST,03/06/2024,11:46:00 AM,EST,Putnam,Goose,3,02/01/2024,EST,254,PCU,1,1,PCU,Q,Actual,4
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/07/2024,9:36:00 AM,EST,03/12/2024,12:12:00 PM,EST,Putnam,McCloud,1,10/25/2023,,13,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/07/2024,9:36:00 AM,EST,03/13/2024,12:12:00 PM,EST,Putnam,McCloud,2,10/25/2023,,12,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/07/2024,9:36:00 AM,EST,03/14/2024,12:12:00 PM,EST,Putnam,McCloud,3,10/25/2023,,11,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/03/2024,9:51:00 AM,EDT,01/03/2024,12:09:00 PM,EDT,Putnam,McCloud,1,11/28/2023,,13,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/03/2024,9:51:00 AM,EDT,01/03/2024,12:09:00 PM,EDT,Putnam,McCloud,2,11/28/2023,,11,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/03/2024,9:51:00 AM,EDT,01/03/2024,12:09:00 PM,EDT,Putnam,McCloud,3,11/28/2023,,13,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/07/2024,9:36:00 AM,EST,03/15/2024,12:12:00 PM,EST,Putnam,McCloud,1,01/04/2024,,18,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/07/2024,9:36:00 AM,EST,03/16/2024,12:12:00 PM,EST,Putnam,McCloud,2,01/04/2024,,16,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/07/2024,9:36:00 AM,EST,03/17/2024,12:12:00 PM,EST,Putnam,McCloud,3,01/04/2024,,13,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/06/2024,10:06:00 AM,EST,03/06/2024,11:46:00 AM,EST,Putnam,McCloud,1,01/30/2024,EST,17,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/06/2024,10:06:00 AM,EST,03/06/2024,11:46:00 AM,EST,Putnam,McCloud,2,01/30/2024,EST,17,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/06/2024,10:06:00 AM,EST,03/06/2024,11:46:00 AM,EST,Putnam,McCloud,3,01/30/2024,EST,16,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/07/2024,9:36:00 AM,EST,03/19/2024,12:12:00 PM,EST,Putnam,Ross,1,10/24/2023,,395,PCU,1,1,PCU,Q,Actual,4
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/07/2024,9:36:00 AM,EST,03/20/2024,12:12:00 PM,EST,Putnam,Ross,2,10/24/2023,,416,PCU,1,1,PCU,Q,Actual,4
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/07/2024,9:36:00 AM,EST,03/21/2024,12:12:00 PM,EST,Putnam,Ross,3,10/24/2023,,413,PCU,1,1,PCU,Q,Actual,4
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/03/2024,9:51:00 AM,EDT,01/03/2024,12:09:00 PM,EDT,Putnam,Ross,1,11/29/2023,,487,PCU,1,1,PCU,Q,Actual,4
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/03/2024,9:51:00 AM,EDT,01/03/2024,12:09:00 PM,EDT,Putnam,Ross,2,11/29/2023,,388,PCU,1,1,PCU,Q,Actual,4
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/03/2024,9:51:00 AM,EDT,01/03/2024,12:09:00 PM,EDT,Putnam,Ross,3,11/29/2023,,391,PCU,1,1,PCU,Q,Actual,4
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/07/2024,9:36:00 AM,EST,03/22/2024,12:12:00 PM,EST,Putnam,Ross,1,01/04/2024,,347,PCU,1,1,PCU,Q,Actual,4
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/07/2024,9:36:00 AM,EST,03/23/2024,12:12:00 PM,EST,Putnam,Ross,2,01/04/2024,,350,PCU,1,1,PCU,Q,Actual,4
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/07/2024,9:36:00 AM,EST,03/24/2024,12:12:00 PM,EST,Putnam,Ross,3,01/04/2024,,335,PCU,1,1,PCU,Q,Actual,4
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/06/2024,10:06:00 AM,EST,03/06/2024,11:46:00 AM,EST,Putnam,Ross,1,01/30/2024,EST,290,PCU,1,1,PCU,Q,Actual,4
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/06/2024,10:06:00 AM,EST,03/06/2024,11:46:00 AM,EST,Putnam,Ross,2,01/30/2024,EST,282,PCU,1,1,PCU,Q,Actual,4
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/06/2024,10:06:00 AM,EST,03/06/2024,11:46:00 AM,EST,Putnam,Ross,3,01/30/2024,EST,293,PCU,1,1,PCU,Q,Actual,4
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/07/2024,9:36:00 AM,EST,03/25/2024,12:12:00 PM,EST,Putnam,Rowan,1,10/24/2023,,172,PCU,1,1,PCU,Q,Actual,2
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/07/2024,9:36:00 AM,EST,03/26/2024,12:12:00 PM,EST,Putnam,Rowan,2,10/24/2023,,168,PCU,1,1,PCU,Q,Actual,2
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/07/2024,9:36:00 AM,EST,03/27/2024,12:12:00 PM,EST,Putnam,Rowan,3,10/24/2023,,169,PCU,1,1,PCU,Q,Actual,2
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/03/2024,9:51:00 AM,EDT,01/03/2024,12:09:00 PM,EDT,Putnam,Rowan,1,11/29/2023,,160,PCU,1,1,PCU,Q,Actual,2
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/03/2024,9:51:00 AM,EDT,01/03/2024,12:09:00 PM,EDT,Putnam,Rowan,2,11/29/2023,,157,PCU,1,1,PCU,Q,Actual,2
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/03/2024,9:51:00 AM,EDT,01/03/2024,12:09:00 PM,EDT,Putnam,Rowan,3,11/29/2023,,150,PCU,1,1,PCU,Q,Actual,2
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/07/2024,9:36:00 AM,EST,03/29/2024,12:12:00 PM,EST,Putnam,Rowan,1,01/04/2024,,141,PCU,1,1,PCU,Q,Actual,2
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/07/2024,9:36:00 AM,EST,03/30/2024,12:12:00 PM,EST,Putnam,Rowan,2,01/04/2024,,147,PCU,1,1,PCU,Q,Actual,2
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/07/2024,9:36:00 AM,EST,03/31/2024,12:12:00 PM,EST,Putnam,Rowan,3,01/04/2024,,147,PCU,1,1,PCU,Q,Actual,2
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/06/2024,10:06:00 AM,EST,03/06/2024,11:46:00 AM,EST,Putnam,Rowan,1,01/30/2024,EST,131,PCU,1,1,PCU,Q,Actual,2
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/06/2024,10:06:00 AM,EST,03/06/2024,11:46:00 AM,EST,Putnam,Rowan,2,01/30/2024,EST,130,PCU,1,1,PCU,Q,Actual,2
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/06/2024,10:06:00 AM,EST,03/06/2024,11:46:00 AM,EST,Putnam,Rowan,3,01/30/2024,EST,135,PCU,1,1,PCU,Q,Actual,2
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/07/2024,9:36:00 AM,EST,04/01/2024,12:12:00 PM,EST,Putnam,Suggs,1,10/24/2023,,214,PCU,1,1,PCU,Q,Actual,4
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/07/2024,9:36:00 AM,EST,04/02/2024,12:12:00 PM,EST,Putnam,Suggs,2,10/24/2023,,211,PCU,1,1,PCU,Q,Actual,4
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/07/2024,9:36:00 AM,EST,04/03/2024,12:12:00 PM,EST,Putnam,Suggs,3,10/24/2023,,202,PCU,1,1,PCU,Q,Actual,4
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/03/2024,9:51:00 AM,EDT,01/03/2024,12:09:00 PM,EDT,Putnam,Suggs,1,11/29/2023,,192,PCU,1,1,PCU,Q,Actual,4
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/03/2024,9:51:00 AM,EDT,01/03/2024,12:09:00 PM,EDT,Putnam,Suggs,2,11/29/2023,,189,PCU,1,1,PCU,Q,Actual,4
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/03/2024,9:51:00 AM,EDT,01/03/2024,12:09:00 PM,EDT,Putnam,Suggs,3,11/29/2023,,215,PCU,1,1,PCU,Q,Actual,4
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/07/2024,9:36:00 AM,EST,04/04/2024,12:12:00 PM,EST,Putnam,Suggs,1,01/04/2024,,229,PCU,1,1,PCU,Q,Actual,4
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/07/2024,9:36:00 AM,EST,04/05/2024,12:12:00 PM,EST,Putnam,Suggs,2,01/04/2024,,232,PCU,1,1,PCU,Q,Actual,4
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/07/2024,9:36:00 AM,EST,04/06/2024,12:12:00 PM,EST,Putnam,Suggs,3,01/04/2024,,202,PCU,1,1,PCU,Q,Actual,4
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/06/2024,10:06:00 AM,EST,03/06/2024,11:46:00 AM,EST,Putnam,Suggs,1,01/30/2024,EST,220,PCU,1,1,PCU,Q,Actual,4
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/06/2024,10:06:00 AM,EST,03/06/2024,11:46:00 AM,EST,Putnam,Suggs,2,01/30/2024,EST,217,PCU,1,1,PCU,Q,Actual,4
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/06/2024,10:06:00 AM,EST,03/06/2024,11:46:00 AM,EST,Putnam,Suggs,3,01/30/2024,EST,220,PCU,1,1,PCU,Q,Actual,4
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/07/2024,9:36:00 AM,EST,04/08/2024,12:12:00 PM,EST,Sarasota,HO6,1,10/17/2023,,73,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/07/2024,9:36:00 AM,EST,04/09/2024,12:12:00 PM,EST,Sarasota,HO24,1,10/17/2023,,34,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/07/2024,9:36:00 AM,EST,04/10/2024,12:12:00 PM,EST,Sarasota,Lake 37,2,10/06/2023,,19,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/07/2024,9:36:00 AM,EST,04/11/2024,12:12:00 PM,EST,Sarasota,Lake G-20,1,10/06/2023,,17,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/07/2024,9:36:00 AM,EST,04/12/2024,12:12:00 PM,EST,Sarasota,Lake M-9,1,10/06/2023,,65,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/07/2024,9:36:00 AM,EST,04/13/2024,12:12:00 PM,EST,Sarasota,Pinebrook South,1,10/13/2023,,27,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/07/2024,9:36:00 AM,EST,04/14/2024,12:12:00 PM,EST,Sarasota,Upper Myakka,1,10/30/2023,,186,PCU,1,1,PCU,Q,Actual,2
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/08/2024,9:39:00 AM,EST,02/08/2024,12:09:00 PM,EST,Seminole,Bear,1,10/21/2023,,14,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/08/2024,9:39:00 AM,EST,02/08/2024,12:09:00 PM,EST,Seminole,Clear,1,10/20/2023,,87,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/08/2024,9:39:00 AM,EST,02/08/2024,12:09:00 PM,EST,Seminole,Concord,1,10/30/2023,,20,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/08/2024,9:39:00 AM,EST,02/08/2024,12:09:00 PM,EST,Seminole,Crescent,1,10/08/2023,,32,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/08/2024,9:39:00 AM,EST,02/08/2024,12:09:00 PM,EST,Seminole,Crystal Bowl,1,10/28/2023,,18,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/08/2024,9:39:00 AM,EST,02/08/2024,12:09:00 PM,EST,Seminole,Cub,1,07/31/2023,,17,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/08/2024,9:39:00 AM,EST,02/08/2024,12:09:00 PM,EST,Seminole,Cub,1,10/27/2023,,19,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/08/2024,9:39:00 AM,EST,02/08/2024,12:09:00 PM,EST,Seminole,East,1,10/10/2023,,78,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/08/2024,9:39:00 AM,EST,02/08/2024,12:09:00 PM,EST,Seminole,Jesup,1,10/14/2023,,70,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/08/2024,9:39:00 AM,EST,02/08/2024,12:09:00 PM,EST,Seminole,Jesup North,1,10/13/2023,,258,PCU,1,1,PCU,Q,Actual,2
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/08/2024,9:39:00 AM,EST,02/08/2024,12:09:00 PM,EST,Seminole,Little Bear,1,10/17/2023,,18,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/11/2024,11:30:00 AM,EDT,03/11/2024,12:43:00 PM,EDT,Seminole,Little Bear,1,01/30/2024,EST,20,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/07/2024,9:36:00 AM,EST,04/15/2024,12:12:00 PM,EST,Seminole,Little Mary,1,10/31/2023,,39,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/08/2024,9:39:00 AM,EST,02/08/2024,12:09:00 PM,EST,Seminole,Mary,1,10/29/2023,,27,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/08/2024,9:39:00 AM,EST,02/08/2024,12:09:00 PM,EST,Seminole,Miami Springs-1,1,10/24/2023,,5,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/08/2024,9:39:00 AM,EST,02/08/2024,12:09:00 PM,EST,Seminole,Miami Springs-2,1,10/24/2023,,5,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/08/2024,9:39:00 AM,EST,02/08/2024,12:09:00 PM,EST,Seminole,Miami Springs-3,1,10/24/2023,,4,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/08/2024,9:39:00 AM,EST,02/08/2024,12:09:00 PM,EST,Seminole,Quail Pond,1,10/30/2023,,24,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/08/2024,9:39:00 AM,EST,02/08/2024,12:09:00 PM,EST,Seminole,Rock,1,10/31/2023,,35,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/08/2024,9:39:00 AM,EST,02/08/2024,12:09:00 PM,EST,Seminole,Secret,1,10/30/2023,,23,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/08/2024,9:39:00 AM,EST,02/08/2024,12:09:00 PM,EST,Seminole,Silver,1,10/26/2023,,14,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/08/2024,9:39:00 AM,EST,02/08/2024,12:09:00 PM,EST,Seminole,Springwood,1,10/20/2023,,24,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/08/2024,9:39:00 AM,EST,02/08/2024,12:09:00 PM,EST,Seminole,Triplet Middle,1,10/30/2023,,70,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/08/2024,9:39:00 AM,EST,02/08/2024,12:09:00 PM,EST,Seminole,Triplet North,1,10/30/2023,,58,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/08/2024,9:39:00 AM,EST,02/08/2024,12:09:00 PM,EST,Seminole,Triplet South,1,10/30/2023,,87,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/08/2024,9:39:00 AM,EST,02/08/2024,12:09:00 PM,EST,Seminole,Wekiva,1,10/23/2023,,29,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/06/2024,9:53:00 AM,EST,02/06/2024,12:02:00 PM,EST,Volusia,Blue Spring-1,1,10/16/2023,,216,PCU,1,1,PCU,Q,Actual,2
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/06/2024,9:53:00 AM,EST,02/06/2024,12:02:00 PM,EST,Volusia,Blue Spring-2,1,10/16/2023,,225,PCU,1,1,PCU,Q,Actual,2
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/06/2024,9:53:00 AM,EST,02/06/2024,12:02:00 PM,EST,Volusia,Blue Spring-3,1,10/16/2023,,225,PCU,1,1,PCU,Q,Actual,2
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/06/2024,10:06:00 AM,EST,03/06/2024,11:46:00 AM,EST,Volusia,Halifax River-1,1,01/01/2024,EST,76,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/06/2024,10:06:00 AM,EST,03/06/2024,11:46:00 AM,EST,Volusia,Halifax River-2,1,01/01/2024,EST,79,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,03/06/2024,10:06:00 AM,EST,03/06/2024,11:46:00 AM,EST,Volusia,Halifax River-3,1,01/01/2024,EST,82,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/07/2024,9:36:00 AM,EST,04/16/2024,12:12:00 PM,EST,Volusia,Helen,1,10/02/2023,,21,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/07/2024,9:36:00 AM,EST,04/17/2024,12:12:00 PM,EST,Volusia,Mamie,1,10/02/2023,,33,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/07/2024,9:36:00 AM,EST,04/18/2024,12:12:00 PM,EST,Volusia,North Talmadge,1,10/09/2023,,95,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,12/21/2023,10:30:00 AM,EST,12/21/2023,11:30:00 AM,EST,Volusia,Waterford,1,07/17/2023,,27,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/06/2024,9:53:00 AM,EST,02/06/2024,12:02:00 PM,EST,Volusia,Waterford,1,10/18/2023,,37,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/09/2024,10:04:00 AM,EST,01/09/2024,12:38:00 PM,EST,Walton,Allen,1,10/31/2023,,277,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/09/2024,10:04:00 AM,EST,01/09/2024,12:38:00 PM,EST,Walton,Alligator,1,10/31/2023,,28,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/08/2024,9:39:00 AM,EST,02/08/2024,12:09:00 PM,EST,Walton,Big Red Fish,2,10/28/2023,,34,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/09/2024,10:04:00 AM,EST,01/09/2024,12:38:00 PM,EST,Walton,Camp Creek,1,10/13/2023,,28,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/08/2024,9:39:00 AM,EST,02/08/2024,12:09:00 PM,EST,Walton,Campbell,1,10/25/2023,,9,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/09/2024,10:04:00 AM,EST,01/09/2024,12:38:00 PM,EST,Walton,CBA Destin-5,1,10/29/2023,,8,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/09/2024,10:04:00 AM,EST,01/09/2024,12:38:00 PM,EST,Walton,CBA Destin-6,1,10/29/2023,,9,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/09/2024,10:04:00 AM,EST,01/09/2024,12:38:00 PM,EST,Walton,CBA Destin-7,1,10/06/2023,,6,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/09/2024,10:04:00 AM,EST,01/09/2024,12:38:00 PM,EST,Walton,CBA Destin-8,1,10/06/2023,,7,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/08/2024,9:39:00 AM,EST,02/08/2024,12:09:00 PM,EST,Walton,CBA Freeport-7,1,10/19/2023,,12,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/08/2024,9:39:00 AM,EST,02/08/2024,12:09:00 PM,EST,Walton,CBA Freeport-9,1,10/19/2023,,12,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/08/2024,9:39:00 AM,EST,02/08/2024,12:09:00 PM,EST,Walton,CBA Freeport-10,1,10/19/2023,,13,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/09/2024,10:04:00 AM,EST,01/09/2024,12:38:00 PM,EST,Walton,CBA River-3,1,10/10/2023,,8,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/09/2024,10:04:00 AM,EST,01/09/2024,12:38:00 PM,EST,Walton,CBA River-4,1,10/26/2023,,22,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/09/2024,10:04:00 AM,EST,01/09/2024,12:38:00 PM,EST,Walton,CBA River-5,1,10/26/2023,,21,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,02/08/2024,9:39:00 AM,EST,02/08/2024,12:09:00 PM,EST,Walton,Deer,1,10/22/2023,,44,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/09/2024,10:04:00 AM,EST,01/09/2024,12:38:00 PM,EST,Walton,Oyster,1,10/06/2023,,76,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,12/21/2023,10:30:00 AM,EST,12/21/2023,11:30:00 AM,EST,Walton,Peach Creek-1,1,01/23/2023,,184,PCU,1,1,PCU,Q,Actual,2
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,12/21/2023,10:30:00 AM,EST,12/21/2023,11:30:00 AM,EST,Walton,Peach Creek-2,1,01/23/2023,,192,PCU,1,1,PCU,Q,Actual,2
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,12/21/2023,10:30:00 AM,EST,12/21/2023,11:30:00 AM,EST,Walton,Peach Creek-3,1,01/23/2023,,166,PCU,1,1,PCU,Q,Actual,2
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,12/21/2023,10:30:00 AM,EST,12/21/2023,11:30:00 AM,EST,Walton,Powell,1,07/18/2023,,115,PCU,1,1,PCU,Q,Actual,2
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/09/2024,10:04:00 AM,EST,01/09/2024,12:38:00 PM,EST,Walton,Powell,1,10/17/2023,,14,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,12/21/2023,10:30:00 AM,EST,12/21/2023,11:30:00 AM,EST,Walton,Spring,1,07/04/2023,,12,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,12/21/2023,10:30:00 AM,EST,12/21/2023,11:30:00 AM,EST,Walton,Spring,1,07/29/2023,,11,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/09/2024,10:04:00 AM,EST,01/09/2024,12:38:00 PM,EST,Walton,Stallworth,1,10/03/2023,,47,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/09/2024,10:04:00 AM,EST,01/09/2024,12:38:00 PM,EST,Walton,Stallworth,1,10/30/2023,,38,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/09/2024,10:04:00 AM,EST,01/09/2024,12:38:00 PM,EST,Walton,Tresca,1,10/03/2023,,85,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/09/2024,10:04:00 AM,EST,01/09/2024,12:38:00 PM,EST,Walton,Western,1,10/05/2023,,37,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/09/2024,10:04:00 AM,EST,01/09/2024,12:38:00 PM,EST,Walton,Western Northeast,1,10/28/2023,,39,PCU,1,1,PCU,Q,Actual,1
+FL-PHYS-012,Color- True,Sample,Direct Grab,Water Bottle,0.3,m,SM 2120 C,01/09/2024,10:04:00 AM,EST,01/09/2024,12:38:00 PM,EST,Washington,CBA Holmes Creek-1,1,10/10/2023,,27,PCU,1,1,PCU,Q,Actual,1

@@ -1,9 +1,10 @@
 # Project Notes ----
 
 #Before running this code:
-    #delete rows with field blanks (sort by station column) 
-    #copy the new version of Stacked files to Data/Project Coast folder
+    #Delete rows with field blanks (sort by station column) 
+    #Replace column names with previous file
     #Make sure all Site names are UPPERS and all time zones are EST (or code this in)
+    #Copy the new version of Stacked files to Data/Project Coast folder
     #Change output file names to new upload date
 
 #Sampling Agency Names : University of Florida (Soil and Water Sciences Department)
@@ -17,7 +18,7 @@ library(readxl)
 library(dplyr)
 library(readr)
 library(lubridate)
-
+library(purrr)
 
 
 ### Data Import ---- 
@@ -104,7 +105,7 @@ Secchi_WIN <- Secchi_t
  Secchi_Join <- Secchi_t[,c("County", "Site", "Activity_Start_Date", "Activity_Start_Time", "Station")]
 
 ##Change date to avoid overwriting older files##
-write.table(Secchi_Print, file = "Output/Secchi_Upload_5-9-24.txt", sep = "|", na = "", row.names = FALSE, quote = FALSE)
+write.table(Secchi_Print, file = "Output/Secchi_May24.txt", sep = "|", na = "", row.names = FALSE, quote = FALSE)
 
 
 
@@ -174,7 +175,7 @@ TP_Print <- TP_WIN[,c("Project_ID","Sampling_Agency_Name","Matrix",
 
 
 ##Change date to avoid overwriting older files##
-write.table(TP_Print, file = "Output/TP_Upload_5-9-24.txt", sep = "|", na = "", row.names = FALSE, quote = FALSE)
+write.table(TP_Print, file = "Output/TP_May24.txt", sep = "|", na = "", row.names = FALSE, quote = FALSE)
 
 
 
@@ -243,7 +244,7 @@ TN_Print <- TN_WIN[,c("Project_ID","Sampling_Agency_Name","Matrix",
 
 
 ##Change date to avoid overwriting older files##
-write.table(TN_Print, file = "Output/TN_Upload_5-9-24.txt", sep = "|", na = "", row.names = FALSE, quote = FALSE)
+write.table(TN_Print, file = "Output/TN_May24.txt", sep = "|", na = "", row.names = FALSE, quote = FALSE)
 
 ### CHL cor ----
 
@@ -316,7 +317,7 @@ CHL_cor_WIN <- CHL_cor_t
   
   
   ##Change date to avoid overwriting older files##
-  write.table(CHL_cor_Print, file = "Output/CHL_cor_Upload_5-9-24.txt", sep = "|", na = "", row.names = FALSE, quote = FALSE)
+  write.table(CHL_cor_Print, file = "Output/CHL_cor_May24.txt", sep = "|", na = "", row.names = FALSE, quote = FALSE)
 
 ### CHL un ----
   
@@ -390,7 +391,7 @@ CHL_cor_WIN <- CHL_cor_t
   
   
   ##Change date to avoid overwriting older files##
-  write.table(CHL_un_Print, file = "Output/CHL_un_Upload_5-9-24.txt", sep = "|", na = "", row.names = FALSE, quote = FALSE)
+  write.table(CHL_un_Print, file = "Output/CHL_un_May24.txt", sep = "|", na = "", row.names = FALSE, quote = FALSE)
 
   
   

@@ -1,0 +1,544 @@
+﻿ADAPT Analyte ID,Org Analyte Name,Activity Type,Sample Collection Type,Sample Collection Equipment,Activity Depth,Activity Depth Unit,Analysis Method,Analysis Date,Analysis Time,Analysis Time Zone,County,Lake,Station,Activity Start Date,Org Result Value,Org Result Unit,Value Qualifier,Result Value Type Name,Dilution
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/05/2024,8:18:00 AM,EST,Alachua,Alice,1,01/25/2024,242.9,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/05/2024,8:18:00 AM,EST,Alachua,Blues Creek-1,1,01/26/2024,176,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/05/2024,8:18:00 AM,EST,Alachua,Blues Creek-2,1,01/26/2024,99,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/05/2024,8:18:00 AM,EST,Alachua,Blues Creek-3,1,01/26/2024,100,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/05/2024,8:18:00 AM,EST,Alachua,Cellon Creek-1,1,01/24/2024,238,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/05/2024,8:18:00 AM,EST,Alachua,Cellon Creek-2,1,01/24/2024,227,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/05/2024,8:18:00 AM,EST,Alachua,Cellon Creek-3,1,01/24/2024,307,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/05/2024,8:18:00 AM,EST,Alachua,Cellon Creek-4,1,01/24/2024,333,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/06/2024,8:13:00 AM,EST,Alachua,Elizabeth,1,10/30/2023,60.2,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,12/21/2023,9:30:00 AM,EST,Alachua,Hogtown Creek-1,1,10/01/2023,277.6,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,12/21/2023,9:30:00 AM,EST,Alachua,Hogtown Creek-2,1,10/01/2023,268,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/05/2024,8:18:00 AM,EST,Alachua,Kingswood,1,01/25/2024,97,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,12/21/2023,9:30:00 AM,EST,Alachua,Little Santa Fe,2,11/28/2023,76,uS/cm,,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/05/2024,7:55:00 AM,EST,Alachua,Little Santa Fe,2,12/12/2023,73.8,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/05/2024,8:18:00 AM,EST,Alachua,Little Santa Fe,1,01/31/2024,70,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,12/21/2023,9:30:00 AM,EST,Alachua,Lochloosa,1,10/17/2023,113,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,12/21/2023,9:30:00 AM,EST,Alachua,Melrose Bay,2,11/28/2023,73,uS/cm,,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/05/2024,7:55:00 AM,EST,Alachua,Melrose Bay,2,12/12/2023,71.8,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/05/2024,8:18:00 AM,EST,Alachua,Melrose Bay,1,01/31/2024,74,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,12/21/2023,9:30:00 AM,EST,Alachua,Newnan,1,10/16/2023,84,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,12/21/2023,9:30:00 AM,EST,Alachua,Santa Fe,2,11/28/2023,94,uS/cm,,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/05/2024,7:55:00 AM,EST,Alachua,Santa Fe,2,12/12/2023,71.2,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/05/2024,8:18:00 AM,EST,Alachua,Santa Fe,1,01/31/2024,70,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,12/21/2023,9:30:00 AM,EST,Alachua,Santa Fe-barricade,1,11/28/2023,73,uS/cm,,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/05/2024,7:55:00 AM,EST,Alachua,Santa Fe-barricade,1,12/12/2023,71,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/05/2024,8:18:00 AM,EST,Alachua,Santa Fe-barricade,1,01/31/2024,70,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,12/21/2023,9:30:00 AM,EST,Alachua,Santa Fe-canal mouth,1,11/28/2023,74,uS/cm,,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/05/2024,7:55:00 AM,EST,Alachua,Santa Fe-canal mouth,1,12/12/2023,74.9,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/05/2024,8:18:00 AM,EST,Alachua,Santa Fe-canal mouth,1,01/31/2024,71,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,12/21/2023,9:30:00 AM,EST,Alachua,Santa Fe-Painter Canal,1,11/28/2023,72,uS/cm,,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/05/2024,7:55:00 AM,EST,Alachua,Santa Fe-Painter Canal,1,12/12/2023,70.9,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/05/2024,8:18:00 AM,EST,Alachua,Santa Fe-Painter Canal,1,01/31/2024,71.1,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/05/2024,8:18:00 AM,EST,Alachua,Turkey Creek-1,1,01/26/2024,150.4,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/05/2024,8:18:00 AM,EST,Alachua,Turkey Creek-2,1,01/26/2024,133.1,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/09/2024,8:13:00 AM,EST,Bay,Beatty Bayou-1,1,10/26/2023,35.53,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/05/2024,7:55:00 AM,EST,Bay,Burnt Mill Lower,1,10/16/2023,39.93,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/05/2024,7:55:00 AM,EST,Bay,Burnt Mill Upper,1,10/16/2023,13.33,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/05/2024,7:55:00 AM,EST,Bay,Callaway Bayou-2,1,10/31/2023,41.37,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/05/2024,7:55:00 AM,EST,Bay,Crooked Lower,1,10/16/2023,43.39,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/05/2024,7:55:00 AM,EST,Bay,Crooked Upper,1,10/16/2023,8.24,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/05/2024,7:55:00 AM,EST,Bay,Crooked Upper-2,1,10/16/2023,8.27,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,12/21/2023,9:30:00 AM,EST,Bay,Deer Point,1,07/18/2023,72,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/05/2024,7:55:00 AM,EST,Bay,Deer Point,1,10/18/2023,90.7,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/05/2024,7:55:00 AM,EST,Bay,Deer Point,2,10/18/2023,84.9,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/05/2024,7:55:00 AM,EST,Bay,Deer Point,3,10/18/2023,81.3,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/09/2024,8:13:00 AM,EST,Bay,East Bay-1,1,10/31/2023,40.33,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/09/2024,8:13:00 AM,EST,Bay,East Bay-2,1,10/31/2023,40.69,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/09/2024,8:13:00 AM,EST,Bay,East Bay-3,1,10/31/2023,41.74,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/09/2024,8:13:00 AM,EST,Bay,East Bay-4,1,10/31/2023,43.44,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/09/2024,8:13:00 AM,EST,Bay,East Bay-5,1,10/31/2023,47.02,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/09/2024,8:13:00 AM,EST,Bay,Fannin Bayou-1,1,10/26/2023,43.31,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/09/2024,8:13:00 AM,EST,Bay,Goose Bayou-1,1,10/26/2023,46.3,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/09/2024,8:13:00 AM,EST,Bay,Grand Lagoon-1,1,10/10/2023,41.13,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/09/2024,8:13:00 AM,EST,Bay,Grand Lagoon-2,1,10/10/2023,40.58,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/09/2024,8:13:00 AM,EST,Bay,Grand Lagoon-3,1,10/10/2023,39.96,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/09/2024,8:13:00 AM,EST,Bay,Grand Lagoon-4,1,10/10/2023,46.79,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/09/2024,8:13:00 AM,EST,Bay,Grand Lagoon-5,1,10/10/2023,49.11,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/09/2024,8:13:00 AM,EST,Bay,Johnson Bayou-1,1,10/04/2023,46.34,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/05/2024,7:55:00 AM,EST,Bay,Laird Bayou-1,1,10/31/2023,42.86,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/05/2024,7:55:00 AM,EST,Bay,Laird Bayou-2,1,10/31/2023,38.5,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/05/2024,7:55:00 AM,EST,Bay,Laird Bayou-3,1,10/31/2023,33.44,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,12/21/2023,9:30:00 AM,EST,Bay,Lullwater,1,07/17/2023,270,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/09/2024,8:13:00 AM,EST,Bay,Lullwater,1,10/30/2023,534,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,12/21/2023,9:30:00 AM,EST,Bay,Marin,1,07/26/2023,74,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/05/2024,7:55:00 AM,EST,Bay,Marin,1,10/23/2023,82.4,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/05/2024,7:55:00 AM,EST,Bay,Marin,2,10/23/2023,75.2,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/05/2024,7:55:00 AM,EST,Bay,Marin,3,10/23/2023,73.3,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,12/21/2023,9:30:00 AM,EST,Bay,Martin-1,1,07/06/2023,458,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/09/2024,8:13:00 AM,EST,Bay,Martin-1,1,10/04/2023,1857,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/09/2024,8:13:00 AM,EST,Bay,Massalina Bayou-1,1,10/18/2023,46.25,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/09/2024,8:13:00 AM,EST,Bay,Mill Bayou-1,1,10/26/2023,39.01,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/09/2024,8:13:00 AM,EST,Bay,North Bay-1,1,10/26/2023,45.11,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/09/2024,8:13:00 AM,EST,Bay,North Bay-2,1,10/26/2023,42.44,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/09/2024,8:13:00 AM,EST,Bay,North Bay-3,1,10/26/2023,45.9,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/09/2024,8:13:00 AM,EST,Bay,North Bay-4,1,10/26/2023,46.86,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/05/2024,7:55:00 AM,EST,Bay,Parker Bayou-1,1,10/31/2023,45.5,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/05/2024,7:55:00 AM,EST,Bay,Pitts Bayou-1,1,10/31/2023,43.83,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/05/2024,7:55:00 AM,EST,Bay,Posten Bayou-1,1,10/26/2023,45.11,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,12/21/2023,9:30:00 AM,EST,Bay,Powell,1,07/18/2023,12,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/05/2024,7:55:00 AM,EST,Bay,Powell,1,10/17/2023,39.87,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,12/21/2023,9:30:00 AM,EST,Bay,Powell Creek East-1,1,07/18/2023,1275,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/05/2024,7:55:00 AM,EST,Bay,Powell Creek East-1,1,10/17/2023,40.3,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,12/21/2023,9:30:00 AM,EST,Bay,Powell Creek East-2,1,07/18/2023,180,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/05/2024,7:55:00 AM,EST,Bay,Powell Creek East-2,1,10/17/2023,35.66,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/09/2024,8:13:00 AM,EST,Bay,Pretty Bayou-1,1,10/26/2023,45.58,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/09/2024,8:13:00 AM,EST,Bay,Robinson Bayou-1,1,10/26/2023,43.99,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/09/2024,8:13:00 AM,EST,Bay,St. Andrew Bay-1,1,10/18/2023,45.32,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/09/2024,8:13:00 AM,EST,Bay,St. Andrew Bay-2,1,10/18/2023,49.04,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/09/2024,8:13:00 AM,EST,Bay,St. Andrew Bay-3,1,10/18/2023,46.85,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/09/2024,8:13:00 AM,EST,Bay,St. Andrew Bay-6,1,10/18/2023,46.83,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/09/2024,8:13:00 AM,EST,Bay,St. Andrew Bay-7,1,10/18/2023,49.12,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/09/2024,8:13:00 AM,EST,Bay,St. Andrew Bay-12,1,10/18/2023,48.6,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/09/2024,8:13:00 AM,EST,Bay,Upper Goose Bayou-1,1,10/26/2023,46.29,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/09/2024,8:13:00 AM,EST,Bay,Warren Bayou-1,1,10/27/2023,44.04,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/09/2024,8:13:00 AM,EST,Bay,Watson Bayou-1,1,10/18/2023,45.89,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/09/2024,8:13:00 AM,EST,Bay,West Bay-1,1,10/27/2023,41.75,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/09/2024,8:13:00 AM,EST,Bay,West Bay-2,1,10/27/2023,43.1,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/09/2024,8:13:00 AM,EST,Bay,West Bay-3,1,10/27/2023,43.7,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/09/2024,8:13:00 AM,EST,Bay,West Bay-4,1,10/27/2023,43.9,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/09/2024,8:13:00 AM,EST,Bay,West Bay-5,1,10/27/2023,44.7,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/09/2024,8:13:00 AM,EST,Bay,West Bay-12,1,10/27/2023,42.65,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,12/21/2023,9:30:00 AM,EST,Bradford,Rowell,3,10/29/2023,130,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,12/21/2023,9:30:00 AM,EST,Bradford,Sampson,1,10/29/2023,110,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/05/2024,7:55:00 AM,EST,Brevard,Blue Trail-1,1,10/10/2023,28.07,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/05/2024,7:55:00 AM,EST,Brevard,Clear,1,10/28/2023,356,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/05/2024,7:55:00 AM,EST,Brevard,Fox,1,10/22/2023,260.9,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/05/2024,7:55:00 AM,EST,Brevard,IRL Max Brewer Bridge-1,1,10/15/2023,35.59,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/05/2024,7:55:00 AM,EST,Brevard,IRL Max Brewer Bridge-3,1,10/15/2023,35.01,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/05/2024,7:55:00 AM,EST,Brevard,IRL Max Brewer Bridge-4,1,10/15/2023,5.72,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/05/2024,7:55:00 AM,EST,Brevard,Washington,1,10/24/2023,280.6,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/05/2024,7:55:00 AM,EST,Charlotte,L-4,1,10/30/2023,282.4,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/05/2024,7:55:00 AM,EST,Charlotte,L-6,1,10/30/2023,661,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/05/2024,7:55:00 AM,EST,Charlotte,LC-1,1,10/27/2023,31.45,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/05/2024,7:55:00 AM,EST,Charlotte,LC-2,1,10/27/2023,36.5,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/05/2024,7:55:00 AM,EST,Charlotte,LC-3,1,10/27/2023,34.16,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/05/2024,7:55:00 AM,EST,Charlotte,Oakland Hills End,1,10/23/2023,827,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/05/2024,7:55:00 AM,EST,Charlotte,Pine Valley End,1,10/22/2023,1013,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/05/2024,7:55:00 AM,EST,Charlotte,Redfish,1,10/15/2023,228.2,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/05/2024,7:55:00 AM,EST,Charlotte,Sturgeon,1,10/14/2023,229.1,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/05/2024,7:55:00 AM,EST,Charlotte,Sunapee,1,10/14/2023,212.8,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/05/2024,7:55:00 AM,EST,Charlotte,WF-1,1,10/19/2023,452,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/05/2024,7:55:00 AM,EST,Charlotte,WF-2,1,10/19/2023,586,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/05/2024,7:55:00 AM,EST,Charlotte,WF-3,1,10/19/2023,444.2,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/05/2024,7:55:00 AM,EST,Charlotte,WF-4,1,10/19/2023,651,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/05/2024,7:55:00 AM,EST,Charlotte,WF-5,1,10/27/2023,249.1,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/05/2024,7:55:00 AM,EST,Charlotte,WF-6,1,10/19/2023,594,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/05/2024,7:55:00 AM,EST,Charlotte,White Marsh Inflow,1,10/30/2023,939,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/05/2024,7:55:00 AM,EST,Citrus,Crystal River-1,1,10/24/2023,23.78,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/05/2024,7:55:00 AM,EST,Citrus,Crystal River-2,1,10/24/2023,3059,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/05/2024,7:55:00 AM,EST,Citrus,Crystal River-5,1,10/24/2023,4264,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/05/2024,8:18:00 AM,EST,Citrus,Crystal River-6,1,10/30/2023,5.31,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/05/2024,7:55:00 AM,EST,Citrus,Crystal River-7,1,10/24/2023,9.67,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/05/2024,8:18:00 AM,EST,Citrus,Fort Cooper,1,01/17/2024,234.6,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/05/2024,7:55:00 AM,EST,Citrus,Little Henderson,1,10/23/2023,166.66,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/05/2024,7:55:00 AM,EST,Citrus,Magnolia Creek-1,1,10/19/2023,513,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/05/2024,8:18:00 AM,EST,Citrus,Magnolia Creek-1,1,01/18/2024,335.1,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/05/2024,7:55:00 AM,EST,Citrus,Magnolia Creek-2,1,10/19/2023,604,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/05/2024,8:18:00 AM,EST,Citrus,Magnolia Creek-2,1,01/18/2024,330.5,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/05/2024,7:55:00 AM,EST,Citrus,Magnolia Creek-3,1,10/19/2023,565,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/05/2024,8:18:00 AM,EST,Citrus,Magnolia Creek-3,1,01/18/2024,345.3,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/05/2024,7:55:00 AM,EST,Citrus,Magnolia Creek-4,1,10/19/2023,384.7,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/05/2024,8:18:00 AM,EST,Citrus,Magnolia Creek-4,1,01/18/2024,364.2,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/05/2024,8:18:00 AM,EST,Citrus,Magnolia Creek-mullet hole,1,10/19/2023,9.19,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/05/2024,8:18:00 AM,EST,Citrus,Magnolia Creek-mullet hole,1,01/18/2024,7.91,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/05/2024,8:18:00 AM,EST,Clay,Asbury North,1,07/26/2023,136.6,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/05/2024,8:18:00 AM,EST,Clay,Asbury North,1,10/18/2023,142.8,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/05/2024,8:18:00 AM,EST,Clay,Asbury South,1,04/22/2023,127.5,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/05/2024,8:18:00 AM,EST,Clay,Asbury South,1,07/29/2023,126.6,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/05/2024,8:18:00 AM,EST,Clay,Deer,1,10/13/2023,21.68,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/05/2024,8:18:00 AM,EST,Clay,Gold Head Branch-1,1,10/13/2023,36.69,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/05/2024,8:18:00 AM,EST,Clay,Johnson,1,10/13/2023,24.86,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/11/2024,10:22:00 AM,EDT,Clay,Kingsley,1,07/29/2023,87.8,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/11/2024,10:22:00 AM,EDT,Clay,Kingsley,1,10/15/2023,86.7,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/05/2024,7:55:00 AM,EST,Clay,Lily,1,10/23/2023,60.6,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/05/2024,8:18:00 AM,EST,Clay,Little Johnson,1,10/13/2023,19.74,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/05/2024,8:18:00 AM,EST,Clay,Sheelar,1,10/13/2023,27.48,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/05/2024,7:55:00 AM,EST,Collier,Eagle,1,10/19/2023,346.1,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/05/2024,7:55:00 AM,EST,Collier,Harveys,1,10/02/2023,1041,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/05/2024,8:18:00 AM,EST,Collier,IFAS Collier Pond,1,10/13/2023,252.8,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/05/2024,7:55:00 AM,EST,Collier,Islandwalk,1,10/06/2023,391.7,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/05/2024,7:55:00 AM,EST,Collier,Saddlebrook,1,10/12/2023,266.4,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,12/21/2023,9:30:00 AM,EST,Columbia,Jeffery,1,04/18/2023,80,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,12/21/2023,9:30:00 AM,EST,Columbia,Jeffery,1,07/28/2023,79,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,12/21/2023,9:30:00 AM,EST,Columbia,Lower Ichetucknee River-1,1,10/03/2023,267,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,12/21/2023,9:30:00 AM,EST,Columbia,Lower Ichetucknee River-2,1,10/03/2023,275,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,12/21/2023,9:30:00 AM,EST,Columbia,Lower Ichetucknee River-3,1,10/03/2023,271,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,12/21/2023,9:30:00 AM,EST,Columbia,Rum Island Spring-1,1,07/27/2023,354,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,12/21/2023,9:30:00 AM,EST,Columbia,Rum Island Spring-1,1,10/26/2023,362,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/06/2024,8:13:00 AM,EST,Flagler,Cheyenne Cove,1,10/19/2023,24.38,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/06/2024,8:13:00 AM,EST,Flagler,Disston,1,10/21/2023,78.4,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/03/2024,8:00:00 AM,EDT,Franklin,Alligator Harbor-1,1,10/27/2023,48.5,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/03/2024,8:00:00 AM,EDT,Franklin,Alligator Harbor-2,1,10/27/2023,50.8,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/03/2024,8:00:00 AM,EDT,Franklin,Alligator Harbor-3,1,10/27/2023,49,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/03/2024,8:00:00 AM,EDT,Franklin,Alligator Harbor-4,1,10/27/2023,46.29,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/03/2024,8:00:00 AM,EDT,Franklin,Alligator Harbor-5,1,10/27/2023,34.02,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/03/2024,8:00:00 AM,EDT,Franklin,Alligator Harbor-6,1,10/27/2023,45.11,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/03/2024,8:00:00 AM,EDT,Franklin,Alligator Harbor-7,1,10/27/2023,48.46,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/06/2024,8:13:00 AM,EST,Gadsden,Talquin,1,10/15/2023,74.8,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,12/21/2023,9:30:00 AM,EST,Gilchrist,Gilchrist Blue Spring Run-1,1,07/27/2023,282,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,12/21/2023,9:30:00 AM,EST,Gilchrist,Gilchrist Blue Spring Run-1,1,10/26/2023,338,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,12/21/2023,9:30:00 AM,EST,Gilchrist,Ginnie Spring Run-1,1,07/27/2023,278,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,12/21/2023,9:30:00 AM,EST,Gilchrist,Ginnie Spring Run-1,1,10/26/2023,308,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/03/2024,8:00:00 AM,EDT,Gulf,St. Joseph Bay-1,1,10/17/2023,48.18,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/03/2024,8:00:00 AM,EDT,Gulf,St. Joseph Bay-2,1,10/17/2023,45.84,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/03/2024,8:00:00 AM,EDT,Gulf,St. Joseph Bay-3,1,10/17/2023,46.96,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/03/2024,8:00:00 AM,EDT,Gulf,St. Joseph Bay-4,1,10/17/2023,47.2,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/03/2024,8:00:00 AM,EDT,Gulf,St. Joseph Bay-5,1,10/17/2023,48.39,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/03/2024,8:00:00 AM,EDT,Gulf,St. Joseph Bay-6,1,10/17/2023,29.02,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/03/2024,8:00:00 AM,EDT,Gulf,St. Joseph Bay-7,1,10/17/2023,45.35,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/03/2024,8:00:00 AM,EDT,Gulf,St. Joseph Bay-8,1,10/17/2023,35.18,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/03/2024,8:00:00 AM,EDT,Gulf,St. Joseph Bay-9,1,10/17/2023,47.47,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/06/2024,8:13:00 AM,EST,Hernando,Mountain,1,10/30/2023,125.5,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/06/2024,8:13:00 AM,EST,Hernando,Weeki Wachee-1,1,10/26/2023,302.5,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/06/2024,8:13:00 AM,EST,Hernando,Weeki Wachee-2,1,10/26/2023,280.1,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/06/2024,8:13:00 AM,EST,Hernando,Weeki Wachee-3,1,10/26/2023,2247,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/05/2024,8:18:00 AM,EST,Highlands,Annie,1,10/17/2023,39.5,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/05/2024,8:18:00 AM,EST,Highlands,Catfish Creek-1,1,10/20/2023,130.2,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/05/2024,8:18:00 AM,EST,Highlands,Catfish Creek-2,1,10/20/2023,129.5,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/05/2024,8:18:00 AM,EST,Highlands,Catfish Creek-3,1,10/20/2023,124.8,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/05/2024,8:18:00 AM,EST,Highlands,Dinner,1,10/26/2023,154,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/05/2024,8:18:00 AM,EST,Highlands,Jackson,1,10/13/2023,135.1,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/05/2024,8:18:00 AM,EST,Highlands,Josephine Center,1,10/30/2023,83.7,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/05/2024,8:18:00 AM,EST,Highlands,Josephine East,1,10/30/2023,100.7,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/05/2024,8:18:00 AM,EST,Highlands,Josephine West,1,10/30/2023,84.1,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/05/2024,8:18:00 AM,EST,Highlands,June,1,10/20/2023,181.1,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/05/2024,8:18:00 AM,EST,Highlands,June North,1,10/20/2023,175.8,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/05/2024,8:18:00 AM,EST,Highlands,Lillian,1,10/27/2023,128.4,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/05/2024,8:18:00 AM,EST,Highlands,Red Beach,1,10/20/2023,119,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/03/2024,8:00:00 AM,EDT,Hillsborough,Boot,1,01/11/2022,223.2,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/03/2024,8:00:00 AM,EDT,Hillsborough,Boot,1,10/29/2023,235.7,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/06/2024,8:13:00 AM,EST,Hillsborough,Cedar West,2,10/25/2023,225.9,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,12/21/2023,9:30:00 AM,EST,Hillsborough,Dosson,1,10/02/2023,146,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/11/2024,10:22:00 AM,EDT,Hillsborough,Dosson,1,01/03/2024,149.6,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/06/2024,8:13:00 AM,EST,Hillsborough,Elizabeth,1,10/30/2023,165.2,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,12/21/2023,9:30:00 AM,EST,Hillsborough,Estes,1,10/04/2023,317,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/06/2024,8:10:00 AM,EST,Hillsborough,Estes,1,01/03/2024,258.8,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/03/2024,8:00:00 AM,EDT,Hillsborough,Forest,1,10/10/2023,147.7,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/06/2024,8:13:00 AM,EST,Hillsborough,Grady,1,10/24/2023,190.1,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/06/2024,8:10:00 AM,EST,Hillsborough,Holly 2,1,10/15/2023,105,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/06/2024,8:10:00 AM,EST,Hillsborough,Island Ford,1,01/01/2024,144.7,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/03/2024,8:00:00 AM,EDT,Hillsborough,LeClare,1,10/22/2023,197,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/06/2024,8:13:00 AM,EST,Hillsborough,Lykes Lane Pond,1,10/22/2023,40.49,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/03/2024,8:00:00 AM,EDT,Hillsborough,North Pond,1,10/06/2023,192.4,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/06/2024,8:13:00 AM,EST,Hillsborough,Silver,1,10/22/2023,224.2,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/06/2024,8:10:00 AM,EST,Hillsborough,Twin,1,10/21/2023,242.3,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/03/2024,8:00:00 AM,EDT,Hillsborough,West Meadows-3,1,10/06/2023,162.4,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/03/2024,8:00:00 AM,EDT,Hillsborough,West Meadows-15,1,10/06/2023,154.8,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/06/2024,8:13:00 AM,EST,Hillsborough,Zambito,1,10/22/2023,208,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/06/2024,8:13:00 AM,EST,Hillsborough,Zambito East,1,10/22/2023,208,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/09/2024,8:13:00 AM,EST,Holmes,CBA Pea River-1,1,10/10/2023,150.4,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/09/2024,8:13:00 AM,EST,Holmes,CBA River-7,1,10/10/2023,126.5,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/09/2024,8:13:00 AM,EST,Holmes,CBA River-8,1,10/10/2023,120.6,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/06/2024,8:13:00 AM,EST,Indian River,Blue Cypress,1,10/24/2023,119.5,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/06/2024,8:13:00 AM,EST,Jackson,Silver,1,10/06/2023,17.32,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/03/2024,8:00:00 AM,EDT,Lake,Bay,1,07/15/2023,119.6,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/03/2024,8:00:00 AM,EDT,Lake,Bay,1,10/15/2023,117,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/06/2024,8:13:00 AM,EST,Lake,Bear,1,10/03/2023,80,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/06/2024,8:13:00 AM,EST,Lake,Bear,1,10/31/2023,93.9,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/09/2024,8:13:00 AM,EST,Lake,Bugg Springs,1,10/14/2023,270.1,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/09/2024,8:13:00 AM,EST,Lake,Bugg Springs,2,10/14/2023,245,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/11/2024,10:22:00 AM,EDT,Lake,Bugg Springs,1,01/14/2024,242.3,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/11/2024,10:22:00 AM,EDT,Lake,Bugg Springs,2,01/14/2024,245.3,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/06/2024,8:13:00 AM,EST,Lake,Crown,1,10/31/2023,106.9,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/11/2024,10:22:00 AM,EDT,Lake,Dora West,1,01/26/2024,358.9,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/11/2024,10:22:00 AM,EDT,Lake,Dorr,1,01/30/2024,62.4,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/03/2024,8:00:00 AM,EDT,Lake,Eustis,1,10/10/2023,294.4,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/11/2024,10:22:00 AM,EDT,Lake,Eustis,1,01/18/2024,284.1,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/06/2024,8:13:00 AM,EST,Lake,Florence,1,10/07/2023,246.1,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/11/2024,10:22:00 AM,EDT,Lake,Grasshopper,1,01/30/2024,40,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/03/2024,8:00:00 AM,EDT,Lake,Harris East,1,10/09/2023,213.6,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/11/2024,10:22:00 AM,EDT,Lake,Harris East,1,01/30/2024,227.4,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/11/2024,10:22:00 AM,EDT,Lake,Harris West,1,01/25/2024,226.4,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/06/2024,8:13:00 AM,EST,Lake,Hiawatha,1,10/05/2023,94.2,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/06/2024,8:13:00 AM,EST,Lake,Jewel,1,10/31/2023,105.6,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/06/2024,8:13:00 AM,EST,Lake,Lorraine,1,10/29/2023,132,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/11/2024,10:22:00 AM,EDT,Lake,Lorraine,1,01/31/2024,139,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/06/2024,8:13:00 AM,EST,Lake,Louisa,1,10/02/2023,90.7,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/06/2024,8:13:00 AM,EST,Lake,Louisa,1,10/31/2023,74.7,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/06/2024,8:13:00 AM,EST,Lake,Palatlakaha,1,10/05/2023,92.9,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/06/2024,8:13:00 AM,EST,Lake,Royal,1,10/31/2023,91.1,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/11/2024,10:22:00 AM,EDT,Lake,Sellers,1,01/30/2024,39.8,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/06/2024,8:13:00 AM,EST,Lake,Wildcat,1,10/30/2023,44.85,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/11/2024,10:22:00 AM,EDT,Lake,Wildcat,1,01/29/2024,43.76,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/06/2024,8:13:00 AM,EST,Lake,Winona,1,10/05/2023,93.4,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/06/2024,8:13:00 AM,EST,Leon,Blue Heron,1,10/30/2023,69.1,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/06/2024,8:13:00 AM,EST,Leon,Munson,4,10/07/2023,110.2,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,12/21/2023,9:30:00 AM,EST,Levy,Cedar Key-1,1,10/31/2023,45,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,12/21/2023,9:30:00 AM,EST,Levy,Cedar Key-2,1,10/31/2023,43,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,12/21/2023,9:30:00 AM,EST,Levy,Cedar Key-4,1,10/31/2023,45,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/06/2024,8:13:00 AM,EST,Liberty,Mystic,1,10/09/2023,49.5,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/06/2024,8:13:00 AM,EST,Marion,Charles,1,10/30/2023,89.5,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/06/2024,8:10:00 AM,EST,Marion,Deerback,1,10/31/2023,43.61,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/06/2024,8:13:00 AM,EST,Marion,Halfmoon,1,10/30/2023,66.4,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/11/2024,10:22:00 AM,EDT,Marion,Halfmoon,1,01/29/2024,77.8,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/06/2024,8:13:00 AM,EST,Marion,Lou,1,10/30/2023,51.1,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/11/2024,10:22:00 AM,EDT,Marion,Lou,1,01/29/2024,49.5,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/06/2024,8:10:00 AM,EST,Marion,Rainbow River-2,1,10/22/2023,282.5,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/06/2024,8:10:00 AM,EST,Marion,Rainbow River-3,1,10/22/2023,281.5,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/06/2024,8:10:00 AM,EST,Marion,Silver River-1,1,10/17/2023,374.4,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/06/2024,8:10:00 AM,EST,Marion,Silver River-2,1,10/17/2023,458.3,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/06/2024,8:10:00 AM,EST,Marion,Silver River-3,1,10/17/2023,421.7,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/06/2024,8:10:00 AM,EST,Marion,Silver River-4,1,10/17/2023,413.8,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/06/2024,8:10:00 AM,EST,Marion,Sunset Harbor,1,10/22/2023,225.8,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/06/2024,8:10:00 AM,EST,Marion,Withlacoochee River-Dunnellon,1,12/29/2023,283,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/03/2024,8:00:00 AM,EDT,Miami-Dade,Lakeridge,1,10/15/2023,160.7,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/03/2024,8:00:00 AM,EDT,Miami-Dade,Oakland,1,10/10/2023,203.3,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/03/2024,8:00:00 AM,EDT,Miami-Dade,Saga,1,10/14/2023,1312,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/06/2024,8:13:00 AM,EST,Monroe,Cudjoe-3,1,10/22/2023,53.4,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/06/2024,8:13:00 AM,EST,Monroe,Cudjoe-4,1,10/22/2023,54.4,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/06/2024,8:13:00 AM,EST,Monroe,Cudjoe-5,1,10/22/2023,54,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/06/2024,8:13:00 AM,EST,Monroe,Cudjoe-7,1,10/22/2023,54.1,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/06/2024,8:13:00 AM,EST,Monroe,Cudjoe-8,1,10/21/2023,54.1,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/06/2024,8:13:00 AM,EST,Monroe,Cudjoe-9,1,10/21/2023,54.1,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/06/2024,8:13:00 AM,EST,Monroe,Cudjoe-10,1,10/21/2023,54,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/06/2024,8:13:00 AM,EST,Monroe,Cudjoe-11,1,10/21/2023,54.3,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/06/2024,8:13:00 AM,EST,Monroe,Cudjoe-12,1,10/21/2023,54.1,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/06/2024,8:13:00 AM,EST,Monroe,Cudjoe-13,1,10/21/2023,54,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/06/2024,8:13:00 AM,EST,Monroe,Tarpon Basin-1,1,10/27/2023,45.2,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/06/2024,8:13:00 AM,EST,Monroe,Tarpon Basin-2,1,10/27/2023,46.4,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/06/2024,8:13:00 AM,EST,Monroe,Tarpon Basin-3,1,10/27/2023,43.59,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/08/2024,8:00:00 AM,EST,Orange,Adair,1,10/08/2023,178.6,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/08/2024,8:00:00 AM,EST,Orange,Cane,1,10/07/2023,181.6,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/08/2024,8:00:00 AM,EST,Orange,Claire,1,10/18/2023,171.3,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/08/2024,8:00:00 AM,EST,Orange,Clear,1,10/30/2023,106.2,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/08/2024,8:00:00 AM,EST,Orange,Conway South,1,10/29/2023,210.5,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/08/2024,8:00:00 AM,EST,Orange,Crystal,1,10/29/2023,161.5,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/08/2024,8:00:00 AM,EST,Orange,Cypress,1,10/22/2023,257.6,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/08/2024,8:00:00 AM,EST,Orange,Down,1,10/22/2023,283.7,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/08/2024,8:00:00 AM,EST,Orange,East,1,10/10/2023,102.1,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/08/2024,8:00:00 AM,EST,Orange,Fairview,1,10/15/2023,147.3,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/08/2024,8:00:00 AM,EST,Orange,Fairview South,1,10/15/2023,170.1,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/08/2024,8:00:00 AM,EST,Orange,Formosa,1,10/07/2023,190.3,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/08/2024,8:00:00 AM,EST,Orange,Giles,1,10/05/2023,163.9,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/08/2024,8:00:00 AM,EST,Orange,Hickorynut,2,10/30/2023,161.2,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/08/2024,8:00:00 AM,EST,Orange,Hickorynut South,2,10/30/2023,83.6,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,12/21/2023,9:30:00 AM,EST,Orange,Holden,1,07/21/2023,184,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,12/21/2023,9:30:00 AM,EST,Orange,Holden Canal-1,1,07/21/2023,172,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/08/2024,8:00:00 AM,EST,Orange,Irma,1,10/09/2023,126.6,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,12/21/2023,9:30:00 AM,EST,Orange,Lee,1,07/27/2023,165,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/08/2024,8:00:00 AM,EST,Orange,Lee,1,10/18/2023,158.9,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/08/2024,8:00:00 AM,EST,Orange,Little Hickorynut,2,10/30/2023,161.3,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,12/21/2023,9:30:00 AM,EST,Orange,Lockhart,1,07/21/2023,140,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/08/2024,8:00:00 AM,EST,Orange,Lockhart,1,10/31/2023,138.7,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/08/2024,8:00:00 AM,EST,Orange,O'Dell,1,10/21/2023,240.3,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/03/2024,8:00:00 AM,EDT,Orange,Ola,1,10/12/2023,218.3,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/11/2024,10:22:00 AM,EDT,Orange,Ola,1,01/16/2024,220.3,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/08/2024,8:00:00 AM,EST,Orange,Olivia,1,10/16/2023,242.2,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/08/2024,8:00:00 AM,EST,Orange,Olympia,1,10/19/2023,206.5,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/08/2024,8:00:00 AM,EST,Orange,Pineloch,1,10/14/2023,182.4,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/08/2024,8:00:00 AM,EST,Orange,Rose,1,10/19/2023,171.1,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/08/2024,8:00:00 AM,EST,Orange,Sloat,1,04/08/2023,203.7,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/08/2024,8:00:00 AM,EST,Orange,Waumpi,1,10/19/2023,213,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,12/21/2023,9:30:00 AM,EST,Orange,Waunatta,1,07/24/2023,139,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/11/2024,10:22:00 AM,EDT,Orange,Waunatta,1,10/24/2023,161,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/08/2024,8:00:00 AM,EST,Osceola,Alligator,3,10/15/2023,131,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/08/2024,8:00:00 AM,EST,Osceola,Alligator Canal-1,1,10/15/2023,192.5,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/08/2024,8:00:00 AM,EST,Osceola,Alligator Canal-2,1,10/15/2023,141.9,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/08/2024,8:00:00 AM,EST,Osceola,Bellalago,1,10/18/2023,266.7,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/08/2024,8:00:00 AM,EST,Osceola,Brick,2,10/08/2023,162,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/08/2024,8:00:00 AM,EST,Osceola,Center,1,10/18/2023,108,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/08/2024,8:00:00 AM,EST,Osceola,Coon,1,10/18/2023,111.3,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/08/2024,8:00:00 AM,EST,Osceola,Fish,2,10/21/2023,202.3,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/08/2024,8:00:00 AM,EST,Osceola,Tohopekaliga-Middle,1,10/18/2023,162.2,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/03/2024,8:00:00 AM,EDT,Palm Beach,Westwood,1,07/31/2023,198.5,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/06/2024,8:13:00 AM,EST,Palm Beach,Westwood,1,10/31/2023,170,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/03/2024,8:00:00 AM,EDT,Pasco,Bird,1,10/05/2023,206,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/09/2024,8:13:00 AM,EST,Pasco,Jovita,1,10/24/2023,165.8,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/06/2024,8:13:00 AM,EST,Pinellas,Autumn,1,10/21/2023,616,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/06/2024,8:13:00 AM,EST,Pinellas,Bellevue,1,10/19/2023,309.3,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/06/2024,8:13:00 AM,EST,Pinellas,Chautauqua 2,1,10/22/2023,48.37,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/06/2024,8:13:00 AM,EST,Pinellas,Crescent,2,10/28/2023,400,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/06/2024,8:10:00 AM,EST,Pinellas,Hewitt,1,10/28/2023,686,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/06/2024,8:13:00 AM,EST,Pinellas,Meadow West,1,10/15/2023,415,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/06/2024,8:10:00 AM,EST,Pinellas,Saundra,1,10/10/2023,955,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/06/2024,8:13:00 AM,EST,Pinellas,Seminole,1,10/30/2023,1145,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/06/2024,8:13:00 AM,EST,Pinellas,Winston,1,10/14/2023,8.64,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/06/2024,8:13:00 AM,EST,Polk,Crooked,1,10/28/2023,84.5,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/06/2024,8:13:00 AM,EST,Polk,Crooked-Babson Park,1,10/28/2023,85.1,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/06/2024,8:13:00 AM,EST,Polk,Crooked-Seminole Rd. drain,1,10/28/2023,85.3,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/06/2024,8:13:00 AM,EST,Polk,Saddlebag,1,10/28/2023,157.7,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/07/2024,8:07:00 AM,EST,Putnam,Anderson Cue,1,10/25/2023,24.34,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/07/2024,8:07:00 AM,EST,Putnam,Anderson Cue,2,10/25/2023,24.45,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/07/2024,8:07:00 AM,EST,Putnam,Anderson Cue,3,10/25/2023,23.32,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/03/2024,8:00:00 AM,EDT,Putnam,Anderson Cue,1,11/28/2023,43.01,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/03/2024,8:00:00 AM,EDT,Putnam,Anderson Cue,2,11/28/2023,42.21,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/03/2024,8:00:00 AM,EDT,Putnam,Anderson Cue,3,11/28/2023,24.45,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/07/2024,8:07:00 AM,EST,Putnam,Anderson Cue,1,01/04/2024,23.16,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/07/2024,8:07:00 AM,EST,Putnam,Anderson Cue,2,01/04/2024,27.4,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/07/2024,8:07:00 AM,EST,Putnam,Anderson Cue,3,01/04/2024,31.63,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/06/2024,8:10:00 AM,EST,Putnam,Anderson Cue,1,01/30/2024,23.68,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/06/2024,8:10:00 AM,EST,Putnam,Anderson Cue,2,01/30/2024,23.29,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/06/2024,8:10:00 AM,EST,Putnam,Anderson Cue,3,01/30/2024,23.31,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/07/2024,8:07:00 AM,EST,Putnam,Annie,1,10/14/2023,51.9,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/07/2024,8:07:00 AM,EST,Putnam,Barco,1,10/25/2023,25.03,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/07/2024,8:07:00 AM,EST,Putnam,Barco,2,10/25/2023,25.81,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/07/2024,8:07:00 AM,EST,Putnam,Barco,3,10/25/2023,25.66,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/03/2024,8:00:00 AM,EDT,Putnam,Barco,1,11/28/2023,31.96,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/03/2024,8:00:00 AM,EDT,Putnam,Barco,2,11/28/2023,27.01,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/03/2024,8:00:00 AM,EDT,Putnam,Barco,3,11/28/2023,27.13,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/07/2024,8:07:00 AM,EST,Putnam,Barco,1,01/04/2024,26.54,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/07/2024,8:07:00 AM,EST,Putnam,Barco,2,01/04/2024,26.31,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/07/2024,8:07:00 AM,EST,Putnam,Barco,3,01/04/2024,26.15,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/06/2024,8:10:00 AM,EST,Putnam,Barco,1,01/30/2024,26.1,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/06/2024,8:10:00 AM,EST,Putnam,Barco,2,01/30/2024,29.98,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/06/2024,8:10:00 AM,EST,Putnam,Barco,3,01/30/2024,26.02,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/06/2024,8:10:00 AM,EST,Putnam,Blue,1,01/18/2024,30.18,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,12/21/2023,9:30:00 AM,EST,Putnam,Broward,1,07/17/2023,87,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/07/2024,8:07:00 AM,EST,Putnam,Broward,1,10/19/2023,74.6,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,12/21/2023,9:30:00 AM,EST,Putnam,Camp Branch-1,1,07/18/2023,178,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/07/2024,8:07:00 AM,EST,Putnam,Camp Branch-1,1,10/31/2023,366.7,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,12/21/2023,9:30:00 AM,EST,Putnam,Camp Branch-2,1,07/18/2023,151,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/07/2024,8:07:00 AM,EST,Putnam,Camp Branch-2,1,10/31/2023,338.2,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,12/21/2023,9:30:00 AM,EST,Putnam,Camp Branch-3,1,07/18/2023,138,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/07/2024,8:07:00 AM,EST,Putnam,Camp Branch-3,1,10/31/2023,347.3,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,12/21/2023,9:30:00 AM,EST,Putnam,Camp Branch-4,1,07/18/2023,243,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/07/2024,8:07:00 AM,EST,Putnam,Camp Branch-4,1,10/31/2023,331.2,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/07/2024,8:07:00 AM,EST,Putnam,Enslow,1,10/24/2023,45.35,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/07/2024,8:07:00 AM,EST,Putnam,Enslow,2,10/24/2023,19.71,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/07/2024,8:07:00 AM,EST,Putnam,Enslow,3,10/24/2023,19.6,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/03/2024,8:00:00 AM,EDT,Putnam,Enslow,1,11/28/2023,20.66,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/03/2024,8:00:00 AM,EDT,Putnam,Enslow,2,11/28/2023,19.69,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/03/2024,8:00:00 AM,EDT,Putnam,Enslow,3,11/28/2023,20.33,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/07/2024,8:07:00 AM,EST,Putnam,Enslow,1,01/03/2024,20.4,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/07/2024,8:07:00 AM,EST,Putnam,Enslow,2,01/03/2024,18.83,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/07/2024,8:07:00 AM,EST,Putnam,Enslow,3,01/03/2024,18.48,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/06/2024,8:10:00 AM,EST,Putnam,Enslow,1,02/01/2024,23.98,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/06/2024,8:10:00 AM,EST,Putnam,Enslow,2,02/01/2024,19.61,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/06/2024,8:10:00 AM,EST,Putnam,Enslow,3,02/01/2024,19.71,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/06/2024,8:10:00 AM,EST,Putnam,Fanny,1,01/13/2024,54,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/07/2024,8:07:00 AM,EST,Putnam,Goose,1,10/25/2023,55.2,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/07/2024,8:07:00 AM,EST,Putnam,Goose,2,10/25/2023,55.4,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/07/2024,8:07:00 AM,EST,Putnam,Goose,3,10/25/2023,54.8,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/03/2024,8:00:00 AM,EDT,Putnam,Goose,1,11/29/2023,56,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/03/2024,8:00:00 AM,EDT,Putnam,Goose,2,11/29/2023,57.1,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/03/2024,8:00:00 AM,EDT,Putnam,Goose,3,11/29/2023,58.3,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/07/2024,8:07:00 AM,EST,Putnam,Goose,1,01/04/2024,55,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/07/2024,8:07:00 AM,EST,Putnam,Goose,2,01/04/2024,57.6,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/07/2024,8:07:00 AM,EST,Putnam,Goose,3,01/04/2024,54.6,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/06/2024,8:10:00 AM,EST,Putnam,Goose,1,02/01/2024,56.2,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/06/2024,8:10:00 AM,EST,Putnam,Goose,2,02/01/2024,56.2,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/06/2024,8:10:00 AM,EST,Putnam,Goose,3,02/01/2024,56.4,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/07/2024,8:07:00 AM,EST,Putnam,McCloud,1,10/25/2023,21.26,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/07/2024,8:07:00 AM,EST,Putnam,McCloud,2,10/25/2023,23.4,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/07/2024,8:07:00 AM,EST,Putnam,McCloud,3,10/25/2023,23.69,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/03/2024,8:00:00 AM,EDT,Putnam,McCloud,1,11/28/2023,24.2,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/03/2024,8:00:00 AM,EDT,Putnam,McCloud,2,11/28/2023,24.01,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/03/2024,8:00:00 AM,EDT,Putnam,McCloud,3,11/28/2023,24.44,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/07/2024,8:07:00 AM,EST,Putnam,McCloud,1,01/04/2024,24.05,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/07/2024,8:07:00 AM,EST,Putnam,McCloud,2,01/04/2024,28.3,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/07/2024,8:07:00 AM,EST,Putnam,McCloud,3,01/04/2024,23.71,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/06/2024,8:10:00 AM,EST,Putnam,McCloud,1,01/30/2024,24.28,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/06/2024,8:10:00 AM,EST,Putnam,McCloud,2,01/30/2024,25.71,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/06/2024,8:10:00 AM,EST,Putnam,McCloud,3,01/30/2024,23.81,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/07/2024,8:07:00 AM,EST,Putnam,Ross,1,10/24/2023,57,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/07/2024,8:07:00 AM,EST,Putnam,Ross,2,10/24/2023,58.3,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/07/2024,8:07:00 AM,EST,Putnam,Ross,3,10/24/2023,56.4,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/03/2024,8:00:00 AM,EDT,Putnam,Ross,1,11/29/2023,58.1,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/03/2024,8:00:00 AM,EDT,Putnam,Ross,2,11/29/2023,59.1,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/03/2024,8:00:00 AM,EDT,Putnam,Ross,3,11/29/2023,59.3,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/07/2024,8:07:00 AM,EST,Putnam,Ross,1,01/04/2024,57.8,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/07/2024,8:07:00 AM,EST,Putnam,Ross,2,01/04/2024,57.6,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/07/2024,8:07:00 AM,EST,Putnam,Ross,3,01/04/2024,58.9,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/06/2024,8:10:00 AM,EST,Putnam,Ross,1,01/30/2024,58.3,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/06/2024,8:10:00 AM,EST,Putnam,Ross,2,01/30/2024,58.3,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/06/2024,8:10:00 AM,EST,Putnam,Ross,3,01/30/2024,58.2,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/07/2024,8:07:00 AM,EST,Putnam,Rowan,1,10/24/2023,43.06,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/07/2024,8:07:00 AM,EST,Putnam,Rowan,2,10/24/2023,43.53,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/07/2024,8:07:00 AM,EST,Putnam,Rowan,3,10/24/2023,44.92,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/03/2024,8:00:00 AM,EDT,Putnam,Rowan,1,11/29/2023,45.61,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/03/2024,8:00:00 AM,EDT,Putnam,Rowan,2,11/29/2023,45.65,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/03/2024,8:00:00 AM,EDT,Putnam,Rowan,3,11/29/2023,46.4,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/07/2024,8:07:00 AM,EST,Putnam,Rowan,1,01/04/2024,47.46,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/07/2024,8:07:00 AM,EST,Putnam,Rowan,2,01/04/2024,44.74,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/07/2024,8:07:00 AM,EST,Putnam,Rowan,3,01/04/2024,45.86,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/06/2024,8:10:00 AM,EST,Putnam,Rowan,1,01/30/2024,46.8,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/06/2024,8:10:00 AM,EST,Putnam,Rowan,2,01/30/2024,45.7,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/06/2024,8:10:00 AM,EST,Putnam,Rowan,3,01/30/2024,46.02,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/07/2024,8:07:00 AM,EST,Putnam,Suggs,1,10/24/2023,52,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/07/2024,8:07:00 AM,EST,Putnam,Suggs,2,10/24/2023,54,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/07/2024,8:07:00 AM,EST,Putnam,Suggs,3,10/24/2023,52.4,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/03/2024,8:00:00 AM,EDT,Putnam,Suggs,1,11/29/2023,54.5,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/03/2024,8:00:00 AM,EDT,Putnam,Suggs,2,11/29/2023,54.4,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/03/2024,8:00:00 AM,EDT,Putnam,Suggs,3,11/29/2023,54,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/07/2024,8:07:00 AM,EST,Putnam,Suggs,1,01/04/2024,70.3,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/07/2024,8:07:00 AM,EST,Putnam,Suggs,2,01/04/2024,54.2,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/07/2024,8:07:00 AM,EST,Putnam,Suggs,3,01/04/2024,53.6,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/06/2024,8:10:00 AM,EST,Putnam,Suggs,1,01/30/2024,56.9,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/06/2024,8:10:00 AM,EST,Putnam,Suggs,2,01/30/2024,58.2,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/06/2024,8:10:00 AM,EST,Putnam,Suggs,3,01/30/2024,56.1,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/07/2024,8:07:00 AM,EST,Sarasota,HO6,1,10/17/2023,420.2,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/07/2024,8:07:00 AM,EST,Sarasota,HO24,1,10/17/2023,566,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/07/2024,8:07:00 AM,EST,Sarasota,Lake 37,2,10/06/2023,265.4,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/07/2024,8:07:00 AM,EST,Sarasota,Lake G-20,1,10/06/2023,442.1,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/07/2024,8:07:00 AM,EST,Sarasota,Lake M-9,1,10/06/2023,663,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/07/2024,8:07:00 AM,EST,Sarasota,Pinebrook South,1,10/13/2023,782,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/07/2024,8:07:00 AM,EST,Sarasota,Upper Myakka,1,10/30/2023,334.6,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/08/2024,8:00:00 AM,EST,Seminole,Bear,1,10/21/2023,241,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/08/2024,8:00:00 AM,EST,Seminole,Clear,1,10/20/2023,61.3,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/08/2024,8:00:00 AM,EST,Seminole,Concord,1,10/30/2023,186.9,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/08/2024,8:00:00 AM,EST,Seminole,Crescent,1,10/08/2023,236.4,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/08/2024,8:00:00 AM,EST,Seminole,Crystal Bowl,1,10/28/2023,74.1,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/08/2024,8:00:00 AM,EST,Seminole,Cub,1,07/31/2023,232.65,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/08/2024,8:00:00 AM,EST,Seminole,Cub,1,10/27/2023,245.1,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/08/2024,8:00:00 AM,EST,Seminole,East,1,10/10/2023,177,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/08/2024,8:00:00 AM,EST,Seminole,Jesup,1,10/14/2023,640,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/08/2024,8:00:00 AM,EST,Seminole,Jesup North,1,10/13/2023,504,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/08/2024,8:00:00 AM,EST,Seminole,Little Bear,1,10/17/2023,240,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/11/2024,10:22:00 AM,EDT,Seminole,Little Bear,1,01/30/2024,244.3,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/07/2024,8:07:00 AM,EST,Seminole,Little Mary,1,10/31/2023,53.6,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/08/2024,8:00:00 AM,EST,Seminole,Mary,1,10/29/2023,165,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/08/2024,8:00:00 AM,EST,Seminole,Miami Springs-1,1,10/24/2023,264.1,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/08/2024,8:00:00 AM,EST,Seminole,Miami Springs-2,1,10/24/2023,231.9,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/08/2024,8:00:00 AM,EST,Seminole,Miami Springs-3,1,10/24/2023,248.2,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/08/2024,8:00:00 AM,EST,Seminole,Quail Pond,1,10/30/2023,198.1,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/08/2024,8:00:00 AM,EST,Seminole,Rock,1,10/31/2023,153.9,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/08/2024,8:00:00 AM,EST,Seminole,Secret,1,10/30/2023,180.7,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/08/2024,8:00:00 AM,EST,Seminole,Silver,1,10/26/2023,231.6,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/08/2024,8:00:00 AM,EST,Seminole,Springwood,1,10/20/2023,132.1,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/08/2024,8:00:00 AM,EST,Seminole,Triplet Middle,1,10/30/2023,155.5,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/08/2024,8:00:00 AM,EST,Seminole,Triplet North,1,10/30/2023,157.6,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/08/2024,8:00:00 AM,EST,Seminole,Triplet South,1,10/30/2023,162.1,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/08/2024,8:00:00 AM,EST,Seminole,Wekiva,1,10/23/2023,203.3,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/06/2024,8:13:00 AM,EST,Volusia,Blue Spring-1,1,10/16/2023,631,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/06/2024,8:13:00 AM,EST,Volusia,Blue Spring-2,1,10/16/2023,591,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/06/2024,8:13:00 AM,EST,Volusia,Blue Spring-3,1,10/16/2023,607,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/06/2024,8:10:00 AM,EST,Volusia,Halifax River-1,1,01/01/2024,24.42,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/06/2024,8:10:00 AM,EST,Volusia,Halifax River-2,1,01/01/2024,23.2,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,03/06/2024,8:10:00 AM,EST,Volusia,Halifax River-3,1,01/01/2024,21.71,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/07/2024,8:07:00 AM,EST,Volusia,Helen,1,10/02/2023,145.1,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/07/2024,8:07:00 AM,EST,Volusia,Mamie,1,10/02/2023,97.8,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/07/2024,8:07:00 AM,EST,Volusia,North Talmadge,1,10/09/2023,121.9,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,12/21/2023,9:30:00 AM,EST,Volusia,Waterford,1,07/17/2023,206,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/06/2024,8:13:00 AM,EST,Volusia,Waterford,1,10/18/2023,266.2,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/09/2024,8:13:00 AM,EST,Walton,Allen,1,10/31/2023,100.4,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/09/2024,8:13:00 AM,EST,Walton,Alligator,1,10/31/2023,16.33,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/08/2024,8:00:00 AM,EST,Walton,Big Red Fish,2,10/28/2023,24.46,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/09/2024,8:13:00 AM,EST,Walton,Camp Creek,1,10/13/2023,16.28,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/08/2024,8:00:00 AM,EST,Walton,Campbell,1,10/25/2023,86.2,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/09/2024,8:13:00 AM,EST,Walton,CBA Destin-5,1,10/29/2023,45.82,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/09/2024,8:13:00 AM,EST,Walton,CBA Destin-6,1,10/29/2023,44.6,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/09/2024,8:13:00 AM,EST,Walton,CBA Destin-7,1,10/06/2023,38.57,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/09/2024,8:13:00 AM,EST,Walton,CBA Destin-8,1,10/06/2023,42.95,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/08/2024,8:00:00 AM,EST,Walton,CBA Freeport-7,1,10/19/2023,16.87,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/08/2024,8:00:00 AM,EST,Walton,CBA Freeport-9,1,10/19/2023,20.33,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/08/2024,8:00:00 AM,EST,Walton,CBA Freeport-10,1,10/19/2023,34.38,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/09/2024,8:13:00 AM,EST,Walton,CBA River-3,1,10/10/2023,143.9,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/09/2024,8:13:00 AM,EST,Walton,CBA River-4,1,10/26/2023,6.16,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/09/2024,8:13:00 AM,EST,Walton,CBA River-5,1,10/26/2023,23.05,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,02/08/2024,8:00:00 AM,EST,Walton,Deer,1,10/22/2023,25.95,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/09/2024,8:13:00 AM,EST,Walton,Oyster,1,10/06/2023,22.74,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,12/21/2023,9:30:00 AM,EST,Walton,Peach Creek-1,1,01/23/2023,484,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,12/21/2023,9:30:00 AM,EST,Walton,Peach Creek-2,1,01/23/2023,564,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,12/21/2023,9:30:00 AM,EST,Walton,Peach Creek-3,1,01/23/2023,533,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,12/21/2023,9:30:00 AM,EST,Walton,Powell,1,07/18/2023,15,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/09/2024,8:13:00 AM,EST,Walton,Powell,1,10/17/2023,41.08,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,12/21/2023,9:30:00 AM,EST,Walton,Spring,1,07/04/2023,41,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,12/21/2023,9:30:00 AM,EST,Walton,Spring,1,07/29/2023,19,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/09/2024,8:13:00 AM,EST,Walton,Stallworth,1,10/03/2023,15.68,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/09/2024,8:13:00 AM,EST,Walton,Stallworth,1,10/30/2023,14.68,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/09/2024,8:13:00 AM,EST,Walton,Tresca,1,10/03/2023,225,uS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/09/2024,8:13:00 AM,EST,Walton,Western,1,10/05/2023,31.8,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/09/2024,8:13:00 AM,EST,Walton,Western Northeast,1,10/28/2023,30.74,mS/cm,Q,Actual,1
+1610,Specific Conductance,Sample,Direct Grab,Water Bottle,0.3,m,SM 2510 B,01/09/2024,8:13:00 AM,EST,Washington,CBA Holmes Creek-1,1,10/10/2023,177.7,uS/cm,Q,Actual,1
