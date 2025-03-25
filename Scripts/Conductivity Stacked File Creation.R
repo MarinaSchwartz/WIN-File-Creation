@@ -12,21 +12,21 @@ library(lubridate) # For date-time manipulation
 
 ### Read in Data ----
 
-folder_path <- "/Users/mevanskeene/Desktop/WIN Uploads 2025/TN"
+folder_path <- "/Users/mevanskeene/Desktop/WIN Uploads 2025/Cond"
 
-# Select .xlsx files
+# Exclude temp files (~$) and select .xlsm files
 file_list <- list.files(
   path = folder_path, 
-  pattern = "^[^~].*\\.xlsx$",  
+  pattern = "^[^~].*\\.xlsm$",  
   full.names = TRUE
 )
 
 # Function to read an Excel sheet with all columns as text
 read_as_text <- function(file) {
-  col_names <- read_excel(file, sheet = "Nitrogen-Total", n_max = 1) %>% names()
+  col_names <- read_excel(file, sheet = "Conductivity", n_max = 1) %>% names()
   
   # Read the entire sheet with all columns as text
-  df <- read_excel(file, sheet = "Nitrogen-Total", col_types = rep("text", length(col_names)))
+  df <- read_excel(file, sheet = "Conductivity", col_types = rep("text", length(col_names)))
   
   # Convert the prep time column 
   df$Preparation_Time <- as.character(df$Preparation_Time)  # Ensure time is a character
@@ -53,7 +53,7 @@ read_as_text <- function(file) {
   
   # Handle the Preparation_Date column
   
- # df$Preparation_Date <- as.character(df$Preparation_Date)  # Ensure it's a character
+  # df$Preparation_Date <- as.character(df$Preparation_Date)  # Ensure it's a character
   
   # Check if Preparation_Date is numeric (Excel serial date)
   if (any(grepl("^[0-9.]+$", df$Preparation_Date))) {
@@ -64,13 +64,13 @@ read_as_text <- function(file) {
     #df$Preparation_Date <- ifelse(df$Preparation_Date >= 60, df$Preparation_Date - 1, df$Preparation_Date)
     
     # Convert serial date to Date, applying the correct origin (1904-01-01)
-     df$Preparation_Date <- as.Date(df$Preparation_Date, origin = "1904-01-01")  # Correct origin
-     df$Preparation_Date <- format(df$Preparation_Date, "%m/%d/%Y")  # Format as MM/DD/YYYY
-    } else {
-   # If it's a text-based date, assume it is in 'MM/DD/YY' format and reformat it
-   df$Preparation_Date <- as.Date(df$Preparation_Date, format = "%m/%d/%y")  # Parse date
-   df$Preparation_Date <- format(df$Preparation_Date, "%m/%d/%Y")  # Format as MM/DD/YYYY
-    }
+    df$Preparation_Date <- as.Date(df$Preparation_Date, origin = "1904-01-01")  # Correct origin
+    df$Preparation_Date <- format(df$Preparation_Date, "%m/%d/%Y")  # Format as MM/DD/YYYY
+  } else {
+    # If it's a text-based date, assume it is in 'MM/DD/YY' format and reformat it
+    df$Preparation_Date <- as.Date(df$Preparation_Date, format = "%m/%d/%y")  # Parse date
+    df$Preparation_Date <- format(df$Preparation_Date, "%m/%d/%Y")  # Format as MM/DD/YYYY
+  }
   
   # Handle the Analysis_Date column
   
@@ -114,13 +114,11 @@ read_as_text <- function(file) {
     df$Activity_Start_Date <- format(df$Activity_Start_Date, "%m/%d/%Y")  # Format as MM/DD/YYYY
   }
   
-  # Round Abs and Result_Value to proper decimal places
+  # Round Result_Value to proper decimal places
   
-  df$'Abs' <- as.numeric(df$'Abs')
-  df$'Abs' <- round(df$'Abs', 5)
   
-  df$'Result_Value(ug/L)' <- as.numeric(df$'Result_Value(ug/L)')
-  df$'Result_Value(ug/L)' <- round(df$'Result_Value(ug/L)', 0)
+  df$'Result_Value' <- as.numeric(df$'Result_Value')
+  df$'Result_Value' <- round(df$'Result_Value', 2)
   
   return(df)
 }
@@ -130,5 +128,5 @@ combined_data <- file_list %>%
   map_df(read_as_text)
 
 
-write.table(combined_data, file = "Data/LW/TN_STACKED.csv", sep = ",", na = "", row.names = FALSE, quote = FALSE)
+write.table(combined_data, file = "Data/LW/Cond_STACKED.csv", sep = ",", na = "", row.names = FALSE, quote = FALSE)
 

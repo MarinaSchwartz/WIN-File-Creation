@@ -1,7 +1,7 @@
 ### Project Notes ----
-#To Make A stacked Project Coast R File Creation Code
-## After running code in TP STACKED written file Abs and Result Value columns need to be changed to numeric and decimals adjusted (abs = 0.0000 nad result value is whole numbers)
-## Before running WIN file creation code - remove all QAQC rows and non Project coast rows
+#Before running, change file path at start and end of code
+#This script is for making a stacked file for use in  File Creation Code
+#this is still writing dates YY not YYYY - can't solve here - fixed in Creation code
 
 ### WD and Packages ----
 
@@ -12,12 +12,12 @@ library(lubridate) # For date-time manipulation
 
 ### Read in Data ----
 
-folder_path <- "/Users/mevanskeene/Desktop/Project Coast/Project Coast WIN Upload 11-12-2024 UNFINISHED Sept data/TP"
+folder_path <- "/Users/mevanskeene/Desktop/WIN Uploads 2025/TP"
 
 # Exclude temp files (~$) and select .xlsm files
 file_list <- list.files(
   path = folder_path, 
-  pattern = "^[^~].*\\.xlsm$",  
+  pattern = "^[^~].*\\.xlsx$",  
   full.names = TRUE
 )
 
@@ -29,7 +29,11 @@ read_as_text <- function(file) {
   df <- read_excel(file, sheet = "Phosphorus-Total", col_types = rep("text", length(col_names)))
   
   # Convert the prep time column 
-  df$Preparation_Time <- as.character(df$Preparation_Time)  # Ensure time is a character
+  df$Preparation_Time <- as.character(df$Preparation_Time) # Ensure time is a character
+  
+  df <- df %>%
+    mutate(Result_Comments = trimws(as.character(Result_Comments))) %>%  # Ensure clean character values
+    filter(Result_Comments != "Redo" | is.na(Result_Comments))  # Keep NAs
   
   # If time is stored as numeric (fraction of a day), convert it back to time format
   if(any(grepl("^[0-9.]+$", df$Preparation_Time))) {  # Check if the column has numbers
@@ -120,12 +124,13 @@ read_as_text <- function(file) {
   return(df)
 }
 
- 
 
 # Read and combine all valid files
 combined_data <- file_list %>%
   map_df(read_as_text)
 
 
-write.table(combined_data, file = "/Users/mevanskeene/Desktop/Project Coast/Project Coast WIN Upload 11-12-2024 UNFINISHED Sept data/TP/TP_STACKED.csv", sep = ",", na = "", row.names = FALSE, quote = FALSE)
+
+
+write.table(combined_data, file = "Data/LW/TP_STACKED.csv", sep = ",", na = "", row.names = FALSE, quote = FALSE)
 

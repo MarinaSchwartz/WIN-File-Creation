@@ -29,6 +29,8 @@ LW,Alachua,Dean Pond,2,Ala-Dean Pond-2
 LW,Alachua,Dean Pond,3,Ala-Dean Pond-3
 LW,Alachua,Deep Spring Pond,1,Ala-DeepSpPd-1
 LW,Alachua,Deep Spring Pond,2,Ala-DeepSpPd-2
+LW,Alachua,Deer Run-1,1,Ala-DeerRun-1-1
+LW,Alachua,Deer Run-2,1,Ala-DeerRun-2-1
 LW,Alachua,Elizabeth,1,Ala-Elizabeth-1
 LW,Alachua,Elizabeth,2,Ala-Elizabeth-2
 LW,Alachua,Elizabeth,3,Ala-Elizabeth-3
@@ -145,6 +147,7 @@ LW,Alachua,Santa Fe River Sink-1,1,Ala-SaFeSink-1
 LW,Alachua,Santa Fe River Sink-2,1,Ala-SaFeSink-2
 LW,Alachua,Santa Fe-barricade,1,Ala-SantaFbar-1
 LW,Alachua,Santa Fe-Black Lake discharge,1,Ala-SantaFeBD-1
+LW,Alachua,Santa Fe-Blue Bayou,1,Ala-SantaBlue-1
 LW,Alachua,Santa Fe-canal barrier,1,Ala-SantaFecb-1
 LW,Alachua,Santa Fe-canal mouth,1,Ala-SantaFecm-1
 LW,Alachua,Santa Fe-Lil' Champ,1,Ala-SantaFeLC-1
@@ -792,6 +795,12 @@ LW,Clay,Deer,2,Cla-Deer-2
 LW,Clay,Doctors,1,Cla-Doctors-1
 LW,Clay,Doctors,2,Cla-Doctors-2
 LW,Clay,Doctors,3,Cla-Doctors-3
+LW,Clay,Flemingbrook 5,1,Cla-Fleming-5-1
+LW,Clay,Flemingbrook 5,2,Cla-Fleming-5-2
+LW,Clay,Flemingbrook 6,1,Cla-Fleming-6-1
+LW,Clay,Flemingbrook 6,2,Cla-Fleming-6-2
+LW,Clay,Fox Valley,1,Cla-FoxValley-1
+LW,Clay,Fox Valley,2,Cla-FoxValley-2
 LW,Clay,Gator Bone,1,Cla-GatorBon-1
 LW,Clay,Gator Bone,2,Cla-GatorBon-2
 LW,Clay,Geneva,1,Cla-Geneva-1
@@ -899,9 +908,9 @@ LW,Collier,Fakaunion,3,Col-Fa-aunion-3
 LW,Collier,Harveys,1,Col-Harveys-1
 LW,Collier,Harveys,2,Col-Harveys-2
 LW,Collier,Harveys,3,Col-Harveys-3
-LW,Collier,Henderson Creek,1,Col-He-Creek-1
-LW,Collier,Henderson Creek,2,Col-He-Creek-2
-LW,Collier,Henderson Creek,3,Col-He-Creek-3
+LW,Collier,Henderson Creek-1,1,Col-He-Creek-1-1
+LW,Collier,Henderson Creek-2,1,Col-He-Creek-2-1
+LW,Collier,Henderson Creek-3,1,Col-He-Creek-3-1
 LW,Collier,Heron Pointe,1,Col-HeronPte-1
 LW,Collier,Heron Pointe,2,Col-HeronPte-2
 LW,Collier,Heron Pointe,3,Col-HeronPte-3
@@ -1245,6 +1254,8 @@ LW,Gilchrist,Ginnie Spring Run-1,1,Gil-Ginnie-Spring-Run-1
 LW,Gilchrist,Suwannee River North-1,1,Gil-Su-North-1
 LW,Gilchrist,Suwannee River North-2,1,Gil-Su-North-2
 LW,Gilchrist,Suwannee River North-3,1,Gil-Su-North-3
+LW,Gulf,Airstrip-1,1,Gul-Airstrip-1
+LW,Gulf,Cattle Dip-1,1,Gul-Cattle-Dip-1
 LW,Gulf,Dead,1,Gul-Dead-1
 LW,Gulf,Dead,2,Gul-Dead-2
 LW,Gulf,Dead,3,Gul-Dead-3
@@ -1252,7 +1263,9 @@ LW,Gulf,Depot Creek-1,1,Gul-DepotCr-1
 LW,Gulf,Dove Field-1,1,Gul-DoveFd-1
 LW,Gulf,Money Bayou-1,1,Gul-MoneyBy-1
 LW,Gulf,Money Bayou-2,1,Gul-MoneyBy-2
+LW,Gulf,Pond Road-1,1,Gul-Pond-Road-1
 LW,Gulf,Simmons Bayou-1,1,Gul-SimmonsBy-1
+LW,Gulf,South Gate-1,1,Gul-South-Gate-1
 LW,Gulf,St. Joseph Bay-1,1,Gul-St-phBay-1
 LW,Gulf,St. Joseph Bay-2,1,Gul-St-phBay-2
 LW,Gulf,St. Joseph Bay-3,1,Gul-St-phBay-3
@@ -1278,28 +1291,32 @@ LW,Hamilton,Perch Pond,3,Ham-PerchPd-3
 LW,Hamilton,Timber,1,Ham-Timber-1
 LW,Hamilton,Timber,2,Ham-Timber-2
 LW,Hamilton,Timber,3,Ham-Timber-3
-LW,Hardee,Brushy Creek-SR64,1,Har-BrCr-SR64-1
-LW,Hardee,Brushy Creek-SR64,2,Har-BrCr-SR64-2
-LW,Hardee,Charlie Creek-SR64,1,Har-ChCr-SR64-1
-LW,Hardee,Charlie Creek-SR64,2,Har-ChCr-SR64-2
-LW,Hardee,Charlie Creek-SR66,1,Har-ChCr-SR66-1
-LW,Hardee,Charlie Creek-SR66,2,Har-ChCr-SR66-2
-LW,Hardee,Hickory Creek-CR661,1,Har-HkC-CR661-1
-LW,Hardee,Hickory Creek-CR661,2,Har-HkC-CR661-2
-LW,Hardee,Oak Creek-CR634,1,Har-OkC-CR634-1
-LW,Hardee,Oak Creek-CR634,2,Har-OkC-CR634-2
-LW,Hardee,Oak Creek-CR661,1,Har-OkC-CR661-1
-LW,Hardee,Oak Creek-CR661,2,Har-OkC-CR661-2
-LW,Hardee,Peace River-CLR,1,Har-PeacR-CRL-1
-LW,Hardee,Peace River-CLR,2,Har-PeacR-CRL-2
-LW,Hardee,Troublesome Creek-SR64,1,Har-TrCr-SR64-1
-LW,Hardee,Troublesome Creek-SR64,2,Har-TrCr-SR64-2
+LW,Hardee,Brushy Creek-SR64-1,1,Har-BrCr-SR64-1-1
+LW,Hardee,Brushy Creek-SR64-2,1,Har-BrCr-SR64-2-1
+LW,Hardee,Charlie Creek-SR64-1,1,Har-ChCr-SR64-1-1
+LW,Hardee,Charlie Creek-SR64-2,1,Har-ChCr-SR64-2-1
+LW,Hardee,Charlie Creek-SR66-1,1,Har-ChCr-SR66-1-1
+LW,Hardee,Charlie Creek-SR66-2,1,Har-ChCr-SR66-2-1
+LW,Hardee,Hickory Creek-CR661-1,1,Har-HkC-CR661-1-1
+LW,Hardee,Hickory Creek-CR661-2,1,Har-HkC-CR661-2-1
+LW,Hardee,Oak Creek-CR634-1,1,Har-OkC-CR634-1-1
+LW,Hardee,Oak Creek-CR634-2,1,Har-OkC-CR634-2-1
+LW,Hardee,Oak Creek-CR661-1,1,Har-OkC-CR661-1-1
+LW,Hardee,Oak Creek-CR661-2,1,Har-OkC-CR661-2-1
+LW,Hardee,Peace River-CLR-1,1,Har-PeacR-CRL-1-1
+LW,Hardee,Peace River-CLR-2,1,Har-PeacR-CRL-2-1
+LW,Hardee,Troublesome Creek-SR64-1,1,Har-TrCr-SR64-1-1
+LW,Hardee,Troublesome Creek-SR64-2,1,Har-TrCr-SR64-2-1
+LW,Hernando,Arepika Channel-1,1,Her-Arepika-Channel-1
 LW,Hernando,Bystre,1,Her-Bystre-1
 LW,Hernando,Bystre,2,Her-Bystre-2
 LW,Hernando,Bystre,3,Her-Bystre-3
+LW,Hernando,Chassahowitzka Channel-1,1,Her-Chassahowitzka-Channel-1
 LW,Hernando,Croaker,1,Her-Croaker-1
 LW,Hernando,Croaker,2,Her-Croaker-2
 LW,Hernando,Croaker,3,Her-Croaker-3
+LW,Hernando,Cutter Rock-1,1,Her-Cutter-Rock-1
+LW,Hernando,Hernando Beach Waters-1,1,Her-Hernando-Beach-Waters-1
 LW,Hernando,Hernando Beach-1,1,Her-Hernando-Beach-1
 LW,Hernando,Hernando Beach-2,1,Her-Hernando-Beach-2
 LW,Hernando,Hernando Beach-3,1,Her-Hernando-Beach-3
@@ -1325,6 +1342,8 @@ LW,Hernando,Mountain,3,Her-Mountain-3
 LW,Hernando,Neff,1,Her-Neff-1
 LW,Hernando,Neff,2,Her-Neff-2
 LW,Hernando,Neff,3,Her-Neff-3
+LW,Hernando,North Rack-1,1,Her-North-Rack-1
+LW,Hernando,Pine Island-1,1,Her-Pine-Island-1
 LW,Hernando,Sparkman,1,Her-Sparkm-1
 LW,Hernando,Sparkman,2,Her-Sparkm-2
 LW,Hernando,Sparkman,3,Her-Sparkm-3
@@ -1592,48 +1611,48 @@ LW,Highlands,Viola,3,Hig-Viola-3
 LW,Highlands,Wolf,1,Hig-Wolf-1
 LW,Highlands,Wolf,2,Hig-Wolf-2
 LW,Highlands,Wolf,3,Hig-Wolf-3
-LW,Hillsborough,Alafia River-201,1,Hil-Aliver201-1
-LW,Hillsborough,Alafia River-201,2,Hil-Aliver201-2
-LW,Hillsborough,Alafia River-201,3,Hil-Aliver201-3
-LW,Hillsborough,Alafia River-202,1,Hil-Aliver202-1
-LW,Hillsborough,Alafia River-202,2,Hil-Aliver202-2
-LW,Hillsborough,Alafia River-202,3,Hil-Aliver202-3
-LW,Hillsborough,Alafia River-203,1,Hil-Aliver203-1
-LW,Hillsborough,Alafia River-203,2,Hil-Aliver203-2
-LW,Hillsborough,Alafia River-203,3,Hil-Aliver203-3
-LW,Hillsborough,Alafia River-204,1,Hil-Aliver204-1
-LW,Hillsborough,Alafia River-204,2,Hil-Aliver204-2
-LW,Hillsborough,Alafia River-204,3,Hil-Aliver204-3
-LW,Hillsborough,Alafia River-208,1,Hil-Aliver208-1
-LW,Hillsborough,Alafia River-208,2,Hil-Aliver208-2
-LW,Hillsborough,Alafia River-208,3,Hil-Aliver208-3
-LW,Hillsborough,Alafia River-209,1,Hil-Aliver209-1
-LW,Hillsborough,Alafia River-209,2,Hil-Aliver209-2
-LW,Hillsborough,Alafia River-209,3,Hil-Aliver209-3
-LW,Hillsborough,Alafia River-210,1,Hil-Aliver210-1
-LW,Hillsborough,Alafia River-210,2,Hil-Aliver210-2
-LW,Hillsborough,Alafia River-210,3,Hil-Aliver210-3
-LW,Hillsborough,Alafia River-214,1,Hil-Aliver214-1
-LW,Hillsborough,Alafia River-214,2,Hil-Aliver214-2
-LW,Hillsborough,Alafia River-214,3,Hil-Aliver214-3
-LW,Hillsborough,Alafia River-215,1,Hil-Aliver215-1
-LW,Hillsborough,Alafia River-215,2,Hil-Aliver215-2
-LW,Hillsborough,Alafia River-215,3,Hil-Aliver215-3
-LW,Hillsborough,Alafia River-216,1,Hil-Aliver216-1
-LW,Hillsborough,Alafia River-216,2,Hil-Aliver216-2
-LW,Hillsborough,Alafia River-216,3,Hil-Aliver216-3
-LW,Hillsborough,Alafia River-220,1,Hil-Aliver220-1
-LW,Hillsborough,Alafia River-220,2,Hil-Aliver220-2
-LW,Hillsborough,Alafia River-220,3,Hil-Aliver220-3
-LW,Hillsborough,Alafia River-221,1,Hil-Aliver221-1
-LW,Hillsborough,Alafia River-221,2,Hil-Aliver221-2
-LW,Hillsborough,Alafia River-221,3,Hil-Aliver221-3
-LW,Hillsborough,Alafia River-223,1,Hil-Aliver223-1
-LW,Hillsborough,Alafia River-223,2,Hil-Aliver223-2
-LW,Hillsborough,Alafia River-223,3,Hil-Aliver223-3
-LW,Hillsborough,Alafia River-224,1,Hil-Aliver224-1
-LW,Hillsborough,Alafia River-224,2,Hil-Aliver224-2
-LW,Hillsborough,Alafia River-224,3,Hil-Aliver224-3
+LW,Hillsborough,Alafia River-201-1,1,Hil-Aliver201-1-1
+LW,Hillsborough,Alafia River-201-2,1,Hil-Aliver201-2-1
+LW,Hillsborough,Alafia River-201-3,1,Hil-Aliver201-3-1
+LW,Hillsborough,Alafia River-202-1,1,Hil-Aliver202-1-1
+LW,Hillsborough,Alafia River-202-2,1,Hil-Aliver202-2-1
+LW,Hillsborough,Alafia River-202-3,1,Hil-Aliver202-3-1
+LW,Hillsborough,Alafia River-203-1,1,Hil-Aliver203-1-1
+LW,Hillsborough,Alafia River-203-2,1,Hil-Aliver203-2-1
+LW,Hillsborough,Alafia River-203-3,1,Hil-Aliver203-3-1
+LW,Hillsborough,Alafia River-204-1,1,Hil-Aliver204-1-1
+LW,Hillsborough,Alafia River-204-2,1,Hil-Aliver204-2-1
+LW,Hillsborough,Alafia River-204-3,1,Hil-Aliver204-3-1
+LW,Hillsborough,Alafia River-208-1,1,Hil-Aliver208-1-1
+LW,Hillsborough,Alafia River-208-2,1,Hil-Aliver208-2-1
+LW,Hillsborough,Alafia River-208-3,1,Hil-Aliver208-3-1
+LW,Hillsborough,Alafia River-209-1,1,Hil-Aliver209-1-1
+LW,Hillsborough,Alafia River-209-2,1,Hil-Aliver209-2-1
+LW,Hillsborough,Alafia River-209-3,1,Hil-Aliver209-3-1
+LW,Hillsborough,Alafia River-210-1,1,Hil-Aliver210-1-1
+LW,Hillsborough,Alafia River-210-2,1,Hil-Aliver210-2-1
+LW,Hillsborough,Alafia River-210-3,1,Hil-Aliver210-3-1
+LW,Hillsborough,Alafia River-214-1,1,Hil-Aliver214-1-1
+LW,Hillsborough,Alafia River-214-2,1,Hil-Aliver214-2-1
+LW,Hillsborough,Alafia River-214-3,1,Hil-Aliver214-3-1
+LW,Hillsborough,Alafia River-215-1,1,Hil-Aliver215-1-1
+LW,Hillsborough,Alafia River-215-2,1,Hil-Aliver215-2-1
+LW,Hillsborough,Alafia River-215-3,1,Hil-Aliver215-3-1
+LW,Hillsborough,Alafia River-216-1,1,Hil-Aliver216-1-1
+LW,Hillsborough,Alafia River-216-2,1,Hil-Aliver216-2-1
+LW,Hillsborough,Alafia River-216-3,1,Hil-Aliver216-3-1
+LW,Hillsborough,Alafia River-220-1,1,Hil-Aliver220-1-1
+LW,Hillsborough,Alafia River-220-2,1,Hil-Aliver220-2-1
+LW,Hillsborough,Alafia River-220-3,1,Hil-Aliver220-3-1
+LW,Hillsborough,Alafia River-221-1,1,Hil-Aliver221-1-1
+LW,Hillsborough,Alafia River-221-2,1,Hil-Aliver221-2-1
+LW,Hillsborough,Alafia River-221-3,1,Hil-Aliver221-3-1
+LW,Hillsborough,Alafia River-223-1,1,Hil-Aliver223-1-1
+LW,Hillsborough,Alafia River-223-2,1,Hil-Aliver223-2-1
+LW,Hillsborough,Alafia River-223-3,1,Hil-Aliver223-3-1
+LW,Hillsborough,Alafia River-224-1,1,Hil-Aliver224-1-1
+LW,Hillsborough,Alafia River-224-2,1,Hil-Aliver224-2-1
+LW,Hillsborough,Alafia River-224-3,1,Hil-Aliver224-3-1
 LW,Hillsborough,Albright,1,Hil-Albright-1
 LW,Hillsborough,Albright,2,Hil-Albright-2
 LW,Hillsborough,Albright,3,Hil-Albright-3
@@ -1649,21 +1668,21 @@ LW,Hillsborough,Armistead,3,Hil-Armistead-3
 LW,Hillsborough,Avila,1,Hil-Avila-1
 LW,Hillsborough,Avila,2,Hil-Avila-2
 LW,Hillsborough,Avila,3,Hil-Avila-3
-LW,Hillsborough,Baker Creek-111,1,Hil-Bareek111-1
-LW,Hillsborough,Baker Creek-111,2,Hil-Bareek111-2
-LW,Hillsborough,Baker Creek-111,3,Hil-Bareek111-3
+LW,Hillsborough,Baker Creek-111-1,1,Hil-Bareek111-1-1
+LW,Hillsborough,Baker Creek-111-2,1,Hil-Bareek111-2-1
+LW,Hillsborough,Baker Creek-111-3,1,Hil-Bareek111-3-1
 LW,Hillsborough,Bay,1,Hil-Bay-1
 LW,Hillsborough,Bay,2,Hil-Bay-2
 LW,Hillsborough,Bay,3,Hil-Bay-3
 LW,Hillsborough,Belle Wildlife Pond,1,Hil-BelleWil-1
 LW,Hillsborough,Belle Wildlife Pond,2,Hil-BelleWil-2
 LW,Hillsborough,Belle Wildlife Pond,3,Hil-BelleWil-3
-LW,Hillsborough,Blackwater Creek-114,1,Hil-Blreek114-1
-LW,Hillsborough,Blackwater Creek-114,2,Hil-Blreek114-2
-LW,Hillsborough,Blackwater Creek-114,3,Hil-Blreek114-3
-LW,Hillsborough,Blackwater Creek-150,1,Hil-Blreek150-1
-LW,Hillsborough,Blackwater Creek-150,2,Hil-Blreek150-2
-LW,Hillsborough,Blackwater Creek-150,3,Hil-Blreek150-3
+LW,Hillsborough,Blackwater Creek-114-1,1,Hil-Blreek114-1-1
+LW,Hillsborough,Blackwater Creek-114-2,1,Hil-Blreek114-2-1
+LW,Hillsborough,Blackwater Creek-114-3,1,Hil-Blreek114-3-1
+LW,Hillsborough,Blackwater Creek-150-1,1,Hil-Blreek150-1-1
+LW,Hillsborough,Blackwater Creek-150-2,1,Hil-Blreek150-2-1
+LW,Hillsborough,Blackwater Creek-150-3,1,Hil-Blreek150-3-1
 LW,Hillsborough,Boot,1,Hil-Boot-1
 LW,Hillsborough,Boot,2,Hil-Boot-2
 LW,Hillsborough,Boot,3,Hil-Boot-3
@@ -1674,48 +1693,48 @@ LW,Hillsborough,Brant-bottom,2,
 LW,Hillsborough,Brant-middle,2,
 LW,Hillsborough,Brant-top,2,
 LW,Hillsborough,Brant-well,1,
-LW,Hillsborough,Breakenridge,1,Hil-Breakenridge-1
-LW,Hillsborough,Breakenridge,2,Hil-Breakenridge-2
-LW,Hillsborough,Breakenridge,3,Hil-Breakenridge-3
+LW,Hillsborough,Breckenridge,1,Hil-Breckenridge-1
+LW,Hillsborough,Breckenridge,2,Hil-Breckenridge-2
+LW,Hillsborough,Breckenridge,3,Hil-Breckenridge-3
 LW,Hillsborough,Brooker,1,Hil-Brooker-1
 LW,Hillsborough,Brooker,2,Hil-Brooker-2
 LW,Hillsborough,Brooker,3,Hil-Brooker-3
-LW,Hillsborough,Brooker Creek-330,1,Hil-Brreek330-1
-LW,Hillsborough,Brooker Creek-330,2,Hil-Brreek330-2
-LW,Hillsborough,Brooker Creek-330,3,Hil-Brreek330-3
-LW,Hillsborough,Brushy Creek-305,1,Hil-Creek-305-1
-LW,Hillsborough,Brushy Creek-305,2,Hil-Creek-305-2
-LW,Hillsborough,Brushy Creek-305,3,Hil-Creek-305-3
-LW,Hillsborough,Brushy Creek-307,1,Hil-Creek-307-1
-LW,Hillsborough,Brushy Creek-307,2,Hil-Creek-307-2
-LW,Hillsborough,Brushy Creek-307,3,Hil-Creek-307-3
-LW,Hillsborough,Brushy Creek-308,1,Hil-Creek-308-1
-LW,Hillsborough,Brushy Creek-308,2,Hil-Creek-308-2
-LW,Hillsborough,Brushy Creek-308,3,Hil-Creek-308-3
-LW,Hillsborough,Brushy Creek-309,1,Hil-Creek-309-1
-LW,Hillsborough,Brushy Creek-309,2,Hil-Creek-309-2
-LW,Hillsborough,Brushy Creek-309,3,Hil-Creek-309-3
-LW,Hillsborough,Brushy Creek-314,1,Hil-Creek-314-1
-LW,Hillsborough,Brushy Creek-314,2,Hil-Creek-314-2
-LW,Hillsborough,Brushy Creek-314,3,Hil-Creek-314-3
+LW,Hillsborough,Brooker Creek-330-1,1,Hil-Brreek330-1-1
+LW,Hillsborough,Brooker Creek-330-2,1,Hil-Brreek330-2-1
+LW,Hillsborough,Brooker Creek-330-3,1,Hil-Brreek330-3-1
+LW,Hillsborough,Brushy Creek-305-1,1,Hil-Creek-305-1-1
+LW,Hillsborough,Brushy Creek-305-2,1,Hil-Creek-305-2-1
+LW,Hillsborough,Brushy Creek-305-3,1,Hil-Creek-305-3-1
+LW,Hillsborough,Brushy Creek-307-1,1,Hil-Creek-307-1-1
+LW,Hillsborough,Brushy Creek-307-2,1,Hil-Creek-307-2-1
+LW,Hillsborough,Brushy Creek-307-3,1,Hil-Creek-307-3-1
+LW,Hillsborough,Brushy Creek-308-1,1,Hil-Creek-308-1-1
+LW,Hillsborough,Brushy Creek-308-2,1,Hil-Creek-308-2-1
+LW,Hillsborough,Brushy Creek-308-3,1,Hil-Creek-308-3-1
+LW,Hillsborough,Brushy Creek-309-1,1,Hil-Creek-309-1-1
+LW,Hillsborough,Brushy Creek-309-2,1,Hil-Creek-309-2-1
+LW,Hillsborough,Brushy Creek-309-3,1,Hil-Creek-309-3-1
+LW,Hillsborough,Brushy Creek-314-1,1,Hil-Creek-314-1-1
+LW,Hillsborough,Brushy Creek-314-2,1,Hil-Creek-314-2-1
+LW,Hillsborough,Brushy Creek-314-3,1,Hil-Creek-314-3-1
 LW,Hillsborough,Buck,1,Hil-Buck-1
 LW,Hillsborough,Buck,2,Hil-Buck-2
 LW,Hillsborough,Buck,3,Hil-Buck-3
-LW,Hillsborough,Bull Frog Creek-211,1,Hil-BFreek211-1
-LW,Hillsborough,Bull Frog Creek-211,2,Hil-BFreek211-2
-LW,Hillsborough,Bull Frog Creek-211,3,Hil-BFreek211-3
-LW,Hillsborough,Bull Frog Creek-241,1,Hil-BFreek241-1
-LW,Hillsborough,Bull Frog Creek-241,2,Hil-BFreek241-2
-LW,Hillsborough,Bull Frog Creek-241,3,Hil-BFreek241-3
-LW,Hillsborough,Bull Frog Creek-340,1,Hil-BFreek340-1
-LW,Hillsborough,Bull Frog Creek-340,2,Hil-BFreek340-2
-LW,Hillsborough,Bull Frog Creek-340,3,Hil-BFreek340-3
+LW,Hillsborough,Bull Frog Creek-211-1,1,Hil-BFreek211-1-1
+LW,Hillsborough,Bull Frog Creek-211-2,1,Hil-BFreek211-2-1
+LW,Hillsborough,Bull Frog Creek-211-3,1,Hil-BFreek211-3-1
+LW,Hillsborough,Bull Frog Creek-241-1,1,Hil-BFreek241-1-1
+LW,Hillsborough,Bull Frog Creek-241-2,1,Hil-BFreek241-2-1
+LW,Hillsborough,Bull Frog Creek-241-3,1,Hil-BFreek241-3-1
+LW,Hillsborough,Bull Frog Creek-340-1,1,Hil-BFreek340-1-1
+LW,Hillsborough,Bull Frog Creek-340-2,1,Hil-BFreek340-2-1
+LW,Hillsborough,Bull Frog Creek-340-3,1,Hil-BFreek340-3-1
 LW,Hillsborough,Burrell,1,Hil-Burrell-1
 LW,Hillsborough,Burrell,2,Hil-Burrell-2
 LW,Hillsborough,Burrell,3,Hil-Burrell-3
-LW,Hillsborough,Bypass Canal-140,1,Hil-Byp-C140-1
-LW,Hillsborough,Bypass Canal-140,2,Hil-Byp-C140-2
-LW,Hillsborough,Bypass Canal-140,3,Hil-Byp-C140-3
+LW,Hillsborough,Bypass Canal-140-1,1,Hil-Byp-C140-1-1
+LW,Hillsborough,Bypass Canal-140-2,1,Hil-Byp-C140-2-1
+LW,Hillsborough,Bypass Canal-140-3,1,Hil-Byp-C140-3-1
 LW,Hillsborough,Byrd,1,Hil-Byrd-1
 LW,Hillsborough,Byrd,2,Hil-Byrd-2
 LW,Hillsborough,Byrd,3,Hil-Byrd-3
@@ -1797,21 +1816,21 @@ LW,Hillsborough,Crum,3,Hil-Crum-3
 LW,Hillsborough,Crystal,1,Hil-Crystal-1
 LW,Hillsborough,Crystal,2,Hil-Crystal-2
 LW,Hillsborough,Crystal,3,Hil-Crystal-3
-LW,Hillsborough,Curiosity Creek-124,1,Hil-CurCrk124-1
-LW,Hillsborough,Curiosity Creek-124,2,Hil-CurCrk124-2
-LW,Hillsborough,Curiosity Creek-124,3,Hil-CurCrk124-3
-LW,Hillsborough,Curiosity Creek-143,1,Hil-CurCrk143-1
-LW,Hillsborough,Curiosity Creek-143,2,Hil-CurCrk143-2
-LW,Hillsborough,Curiosity Creek-143,3,Hil-CurCrk143-3
+LW,Hillsborough,Curiosity Creek-124-1,1,Hil-CurCrk124-1-1
+LW,Hillsborough,Curiosity Creek-124-2,1,Hil-CurCrk124-2-1
+LW,Hillsborough,Curiosity Creek-124-3,1,Hil-CurCrk124-3-1
+LW,Hillsborough,Curiosity Creek-143-1,1,Hil-CurCrk143-1-1
+LW,Hillsborough,Curiosity Creek-143-2,1,Hil-CurCrk143-2-1
+LW,Hillsborough,Curiosity Creek-143-3,1,Hil-CurCrk143-3-1
 LW,Hillsborough,Cypress,1,Hil-Cypress-1
 LW,Hillsborough,Cypress,2,Hil-Cypress-2
 LW,Hillsborough,Cypress,3,Hil-Cypress-3
-LW,Hillsborough,Cypress Creek-107,1,Hil-Cyreek107-1
-LW,Hillsborough,Cypress Creek-107,2,Hil-Cyreek107-2
-LW,Hillsborough,Cypress Creek-107,3,Hil-Cyreek107-3
-LW,Hillsborough,Cypress Creek-122,1,Hil-Cyreek122-1
-LW,Hillsborough,Cypress Creek-122,2,Hil-Cyreek122-2
-LW,Hillsborough,Cypress Creek-122,3,Hil-Cyreek122-3
+LW,Hillsborough,Cypress Creek-107-1,1,Hil-Cyreek107-1-1
+LW,Hillsborough,Cypress Creek-107-2,1,Hil-Cyreek107-2-1
+LW,Hillsborough,Cypress Creek-107-3,1,Hil-Cyreek107-3-1
+LW,Hillsborough,Cypress Creek-122-1,1,Hil-Cyreek122-1-1
+LW,Hillsborough,Cypress Creek-122-2,1,Hil-Cyreek122-2-1
+LW,Hillsborough,Cypress Creek-122-3,1,Hil-Cyreek122-3-1
 LW,Hillsborough,Dan,1,Hil-Dan-1
 LW,Hillsborough,Dan,2,Hil-Dan-2
 LW,Hillsborough,Dan,3,Hil-Dan-3
@@ -1825,9 +1844,9 @@ LW,Hillsborough,Deer,3,Hil-Deer-3
 LW,Hillsborough,Deer-bottom,1,
 LW,Hillsborough,Deer-middle,1,
 LW,Hillsborough,Deer-surface,1,
-LW,Hillsborough,Delaney Creek-222,1,Hil-Dlreek222-1
-LW,Hillsborough,Delaney Creek-222,2,Hil-Dlreek222-2
-LW,Hillsborough,Delaney Creek-222,3,Hil-Dlreek222-3
+LW,Hillsborough,Delaney Creek-222-1,1,Hil-Dlreek222-1-1
+LW,Hillsborough,Delaney Creek-222-2,1,Hil-Dlreek222-2-1
+LW,Hillsborough,Delaney Creek-222-3,1,Hil-Dlreek222-3-1
 LW,Hillsborough,Dorothy,1,Hil-Dorothy-1
 LW,Hillsborough,Dorothy,2,Hil-Dorothy-2
 LW,Hillsborough,Dorothy,3,Hil-Dorothy-3
@@ -1837,9 +1856,9 @@ LW,Hillsborough,Dorsett,3,Hil-Dorsett-3
 LW,Hillsborough,Dosson,1,Hil-Dosson-1
 LW,Hillsborough,Dosson,2,Hil-Dosson-2
 LW,Hillsborough,Dosson,3,Hil-Dosson-3
-LW,Hillsborough,Double Branch-320,1,Hil-DbBrh-320-1
-LW,Hillsborough,Double Branch-320,2,Hil-DbBrh-320-2
-LW,Hillsborough,Double Branch-320,3,Hil-DbBrh-320-3
+LW,Hillsborough,Double Branch-320-1,1,Hil-DbBrh-320-1-1
+LW,Hillsborough,Double Branch-320-2,1,Hil-DbBrh-320-2-1
+LW,Hillsborough,Double Branch-320-3,1,Hil-DbBrh-320-3-1
 LW,Hillsborough,East,1,Hil-East-1
 LW,Hillsborough,East,2,Hil-East-2
 LW,Hillsborough,East,3,Hil-East-3
@@ -1870,9 +1889,9 @@ LW,Hillsborough,Elizabeth,3,Hil-Elizabeth-3
 LW,Hillsborough,Ellen,1,Hil-Ellen-1
 LW,Hillsborough,Ellen,2,Hil-Ellen-2
 LW,Hillsborough,Ellen,3,Hil-Ellen-3
-LW,Hillsborough,English Creek-217,1,Hil-Enreek217-1
-LW,Hillsborough,English Creek-217,2,Hil-Enreek217-2
-LW,Hillsborough,English Creek-217,3,Hil-Enreek217-3
+LW,Hillsborough,English Creek-217-1,1,Hil-Enreek217-1-1
+LW,Hillsborough,English Creek-217-2,1,Hil-Enreek217-2-1
+LW,Hillsborough,English Creek-217-3,1,Hil-Enreek217-3-1
 LW,Hillsborough,Estes,1,Hil-Estes-1
 LW,Hillsborough,Estes,2,Hil-Estes-2
 LW,Hillsborough,Estes,3,Hil-Estes-3
@@ -1885,9 +1904,9 @@ LW,Hillsborough,Fantasia,3,Hil-Fantasia-3
 LW,Hillsborough,Fleur de Lis,1,Hil-Fleurde-1
 LW,Hillsborough,Fleur de Lis,2,Hil-Fleurde-2
 LW,Hillsborough,Fleur de Lis,3,Hil-Fleurde-3
-LW,Hillsborough,Flint Creek-110,1,Hil-Creek-110-1
-LW,Hillsborough,Flint Creek-110,2,Hil-Creek-110-2
-LW,Hillsborough,Flint Creek-110,3,Hil-Creek-110-3
+LW,Hillsborough,Flint Creek-110-1,1,Hil-Creek-110-1-1
+LW,Hillsborough,Flint Creek-110-2,1,Hil-Creek-110-2-1
+LW,Hillsborough,Flint Creek-110-3,1,Hil-Creek-110-3-1
 LW,Hillsborough,Flynn,1,Hil-Flynn-1
 LW,Hillsborough,Flynn,2,Hil-Flynn-2
 LW,Hillsborough,Flynn,3,Hil-Flynn-3
@@ -1957,72 +1976,72 @@ LW,Hillsborough,Hickory Hammock,3,Hil-HickoryH-3
 LW,Hillsborough,Hickory Manor North,1,Hil-HickoryM-1
 LW,Hillsborough,Hickory Manor North,2,Hil-HickoryM-2
 LW,Hillsborough,Hickory Manor North,3,Hil-HickoryM-3
-LW,Hillsborough,Hillsborough River-101,1,Hil-River-101-1
-LW,Hillsborough,Hillsborough River-101,2,Hil-River-101-2
-LW,Hillsborough,Hillsborough River-101,3,Hil-River-101-3
-LW,Hillsborough,Hillsborough River-102,1,Hil-River-102-1
-LW,Hillsborough,Hillsborough River-102,2,Hil-River-102-2
-LW,Hillsborough,Hillsborough River-102,3,Hil-River-102-3
-LW,Hillsborough,Hillsborough River-103,1,Hil-River-103-1
-LW,Hillsborough,Hillsborough River-103,2,Hil-River-103-2
-LW,Hillsborough,Hillsborough River-103,3,Hil-River-103-3
-LW,Hillsborough,Hillsborough River-104,1,Hil-Hiiver104-1
-LW,Hillsborough,Hillsborough River-104,2,Hil-Hiiver104-2
-LW,Hillsborough,Hillsborough River-104,3,Hil-Hiiver104-3
-LW,Hillsborough,Hillsborough River-105,1,Hil-Hiiver105-1
-LW,Hillsborough,Hillsborough River-105,2,Hil-Hiiver105-2
-LW,Hillsborough,Hillsborough River-105,3,Hil-Hiiver105-3
-LW,Hillsborough,Hillsborough River-106,1,Hil-Hiiver106-1
-LW,Hillsborough,Hillsborough River-106,2,Hil-Hiiver106-2
-LW,Hillsborough,Hillsborough River-106,3,Hil-Hiiver106-3
-LW,Hillsborough,Hillsborough River-108,1,Hil-Hiiver108-1
-LW,Hillsborough,Hillsborough River-108,2,Hil-Hiiver108-2
-LW,Hillsborough,Hillsborough River-108,3,Hil-Hiiver108-3
-LW,Hillsborough,Hillsborough River-109,1,Hil-Hiiver109-1
-LW,Hillsborough,Hillsborough River-109,2,Hil-Hiiver109-2
-LW,Hillsborough,Hillsborough River-109,3,Hil-Hiiver109-3
-LW,Hillsborough,Hillsborough River-112,1,Hil-Hiiver112-1
-LW,Hillsborough,Hillsborough River-112,2,Hil-Hiiver112-2
-LW,Hillsborough,Hillsborough River-112,3,Hil-Hiiver112-3
-LW,Hillsborough,Hillsborough River-115,1,Hil-River-115-1
-LW,Hillsborough,Hillsborough River-115,2,Hil-River-115-2
-LW,Hillsborough,Hillsborough River-115,3,Hil-River-115-3
-LW,Hillsborough,Hillsborough River-118,1,Hil-River-118-1
-LW,Hillsborough,Hillsborough River-118,2,Hil-River-118-2
-LW,Hillsborough,Hillsborough River-118,3,Hil-River-118-3
-LW,Hillsborough,Hillsborough River-119,1,Hil-River-119-1
-LW,Hillsborough,Hillsborough River-119,2,Hil-River-119-2
-LW,Hillsborough,Hillsborough River-119,3,Hil-River-119-3
-LW,Hillsborough,Hillsborough River-123,1,Hil-Hiiver123-1
-LW,Hillsborough,Hillsborough River-123,2,Hil-Hiiver123-2
-LW,Hillsborough,Hillsborough River-123,3,Hil-Hiiver123-3
-LW,Hillsborough,Hillsborough River-125,1,Hil-Hiiver125-1
-LW,Hillsborough,Hillsborough River-125,2,Hil-Hiiver125-2
-LW,Hillsborough,Hillsborough River-125,3,Hil-Hiiver125-3
-LW,Hillsborough,Hillsborough River-126,1,Hil-Hiiver126-1
-LW,Hillsborough,Hillsborough River-126,2,Hil-Hiiver126-2
-LW,Hillsborough,Hillsborough River-126,3,Hil-Hiiver126-3
-LW,Hillsborough,Hillsborough River-127,1,Hil-River-127-1
-LW,Hillsborough,Hillsborough River-127,2,Hil-River-127-2
-LW,Hillsborough,Hillsborough River-127,3,Hil-River-127-3
-LW,Hillsborough,Hillsborough River-128,1,Hil-Hiiver128-1
-LW,Hillsborough,Hillsborough River-128,2,Hil-Hiiver128-2
-LW,Hillsborough,Hillsborough River-128,3,Hil-Hiiver128-3
-LW,Hillsborough,Hillsborough River-130,1,Hil-River-130-1
-LW,Hillsborough,Hillsborough River-130,2,Hil-River-130-2
-LW,Hillsborough,Hillsborough River-130,3,Hil-River-130-3
-LW,Hillsborough,Hillsborough River-131,1,Hil-River-131-1
-LW,Hillsborough,Hillsborough River-131,2,Hil-River-131-2
-LW,Hillsborough,Hillsborough River-131,3,Hil-River-131-3
-LW,Hillsborough,Hillsborough River-138,1,Hil-River-138-1
-LW,Hillsborough,Hillsborough River-138,2,Hil-River-138-2
-LW,Hillsborough,Hillsborough River-138,3,Hil-River-138-3
-LW,Hillsborough,Hillsborough River-142,1,Hil-River-142-1
-LW,Hillsborough,Hillsborough River-142,2,Hil-River-142-2
-LW,Hillsborough,Hillsborough River-142,3,Hil-River-142-3
-LW,Hillsborough,Hillsborough River-338,1,Hil-River-338-1
-LW,Hillsborough,Hillsborough River-338,2,Hil-River-338-2
-LW,Hillsborough,Hillsborough River-338,3,Hil-River-338-3
+LW,Hillsborough,Hillsborough River-101-1,1,Hil-River-101-1-1
+LW,Hillsborough,Hillsborough River-101-2,1,Hil-River-101-2-1
+LW,Hillsborough,Hillsborough River-101-3,1,Hil-River-101-3-1
+LW,Hillsborough,Hillsborough River-102-1,1,Hil-River-102-1-1
+LW,Hillsborough,Hillsborough River-102-2,1,Hil-River-102-2-1
+LW,Hillsborough,Hillsborough River-102-3,1,Hil-River-102-3-1
+LW,Hillsborough,Hillsborough River-103-1,1,Hil-River-103-1-1
+LW,Hillsborough,Hillsborough River-103-2,1,Hil-River-103-2-1
+LW,Hillsborough,Hillsborough River-103-3,1,Hil-River-103-3-1
+LW,Hillsborough,Hillsborough River-104-1,1,Hil-Hiiver104-1-1
+LW,Hillsborough,Hillsborough River-104-2,1,Hil-Hiiver104-2-1
+LW,Hillsborough,Hillsborough River-104-3,1,Hil-Hiiver104-3-1
+LW,Hillsborough,Hillsborough River-105-1,1,Hil-Hiiver105-1-1
+LW,Hillsborough,Hillsborough River-105-2,1,Hil-Hiiver105-2-1
+LW,Hillsborough,Hillsborough River-105-3,1,Hil-Hiiver105-3-1
+LW,Hillsborough,Hillsborough River-106-1,1,Hil-Hiiver106-1-1
+LW,Hillsborough,Hillsborough River-106-2,1,Hil-Hiiver106-2-1
+LW,Hillsborough,Hillsborough River-106-3,1,Hil-Hiiver106-3-1
+LW,Hillsborough,Hillsborough River-108-1,1,Hil-Hiiver108-1-1
+LW,Hillsborough,Hillsborough River-108-2,1,Hil-Hiiver108-2-1
+LW,Hillsborough,Hillsborough River-108-3,1,Hil-Hiiver108-3-1
+LW,Hillsborough,Hillsborough River-109-1,1,Hil-Hiiver109-1-1
+LW,Hillsborough,Hillsborough River-109-2,1,Hil-Hiiver109-2-1
+LW,Hillsborough,Hillsborough River-109-3,1,Hil-Hiiver109-3-1
+LW,Hillsborough,Hillsborough River-112-1,1,Hil-Hiiver112-1-1
+LW,Hillsborough,Hillsborough River-112-2,1,Hil-Hiiver112-2-1
+LW,Hillsborough,Hillsborough River-112-3,1,Hil-Hiiver112-3-1
+LW,Hillsborough,Hillsborough River-115-1,1,Hil-River-115-1-1
+LW,Hillsborough,Hillsborough River-115-2,1,Hil-River-115-2-1
+LW,Hillsborough,Hillsborough River-115-3,1,Hil-River-115-3-1
+LW,Hillsborough,Hillsborough River-118-1,1,Hil-River-118-1-1
+LW,Hillsborough,Hillsborough River-118-2,1,Hil-River-118-2-1
+LW,Hillsborough,Hillsborough River-118-3,1,Hil-River-118-3-1
+LW,Hillsborough,Hillsborough River-119-1,1,Hil-River-119-1-1
+LW,Hillsborough,Hillsborough River-119-2,1,Hil-River-119-2-1
+LW,Hillsborough,Hillsborough River-119-3,1,Hil-River-119-3-1
+LW,Hillsborough,Hillsborough River-123-1,1,Hil-Hiiver123-1-1
+LW,Hillsborough,Hillsborough River-123-2,1,Hil-Hiiver123-2-1
+LW,Hillsborough,Hillsborough River-123-3,1,Hil-Hiiver123-3-1
+LW,Hillsborough,Hillsborough River-125-1,1,Hil-Hiiver125-1-1
+LW,Hillsborough,Hillsborough River-125-2,1,Hil-Hiiver125-2-1
+LW,Hillsborough,Hillsborough River-125-3,1,Hil-Hiiver125-3-1
+LW,Hillsborough,Hillsborough River-126-1,1,Hil-Hiiver126-1-1
+LW,Hillsborough,Hillsborough River-126-2,1,Hil-Hiiver126-2-1
+LW,Hillsborough,Hillsborough River-126-3,1,Hil-Hiiver126-3-1
+LW,Hillsborough,Hillsborough River-127-1,1,Hil-River-127-1-1
+LW,Hillsborough,Hillsborough River-127-2,1,Hil-River-127-2-1
+LW,Hillsborough,Hillsborough River-127-3,1,Hil-River-127-3-1
+LW,Hillsborough,Hillsborough River-128-1,1,Hil-Hiiver128-1-1
+LW,Hillsborough,Hillsborough River-128-2,1,Hil-Hiiver128-2-1
+LW,Hillsborough,Hillsborough River-128-3,1,Hil-Hiiver128-3-1
+LW,Hillsborough,Hillsborough River-130-1,1,Hil-River-130-1-1
+LW,Hillsborough,Hillsborough River-130-2,1,Hil-River-130-2-1
+LW,Hillsborough,Hillsborough River-130-3,1,Hil-River-130-3-1
+LW,Hillsborough,Hillsborough River-131-1,1,Hil-River-131-1-1
+LW,Hillsborough,Hillsborough River-131-2,1,Hil-River-131-2-1
+LW,Hillsborough,Hillsborough River-131-3,1,Hil-River-131-3-1
+LW,Hillsborough,Hillsborough River-138-1,1,Hil-River-138-1-1
+LW,Hillsborough,Hillsborough River-138-2,1,Hil-River-138-2-1
+LW,Hillsborough,Hillsborough River-138-3,1,Hil-River-138-3-1
+LW,Hillsborough,Hillsborough River-142-1,1,Hil-River-142-1-1
+LW,Hillsborough,Hillsborough River-142-2,1,Hil-River-142-2-1
+LW,Hillsborough,Hillsborough River-142-3,1,Hil-River-142-3-1
+LW,Hillsborough,Hillsborough River-338-1,1,Hil-River-338-1-1
+LW,Hillsborough,Hillsborough River-338-2,1,Hil-River-338-2-1
+LW,Hillsborough,Hillsborough River-338-3,1,Hil-River-338-3-1
 LW,Hillsborough,Hobbs,1,Hil-Hobbs-1
 LW,Hillsborough,Hobbs,2,Hil-Hobbs-2
 LW,Hillsborough,Hobbs,3,Hil-Hobbs-3
@@ -2045,9 +2064,9 @@ LW,Hillsborough,Hunter,3,Hil-Hunter-3
 LW,Hillsborough,Island Ford,1,Hil-IslandFo-1
 LW,Hillsborough,Island Ford,2,Hil-IslandFo-2
 LW,Hillsborough,Island Ford,3,Hil-IslandFo-3
-LW,Hillsborough,Itchepackesassa Creek-116,1,Hil-Itreek116-1
-LW,Hillsborough,Itchepackesassa Creek-116,2,Hil-Itreek116-2
-LW,Hillsborough,Itchepackesassa Creek-116,3,Hil-Itreek116-3
+LW,Hillsborough,Itchepackesassa Creek-116-1,1,Hil-Itreek116-1-1
+LW,Hillsborough,Itchepackesassa Creek-116-2,1,Hil-Itreek116-2-1
+LW,Hillsborough,Itchepackesassa Creek-116-3,1,Hil-Itreek116-3-1
 LW,Hillsborough,Jackson,1,Hil-Jackson-1
 LW,Hillsborough,Jackson,2,Hil-Jackson-2
 LW,Hillsborough,Jackson,3,Hil-Jackson-3
@@ -2097,9 +2116,9 @@ LW,Hillsborough,Little,3,Hil-Little-3
 LW,Hillsborough,Little Bass,1,Hil-LittleBa-1
 LW,Hillsborough,Little Bass,2,Hil-LittleBa-2
 LW,Hillsborough,Little Bass,3,Hil-LittleBa-3
-LW,Hillsborough,Little Bull Frog Creek-339,1,Hil-LBFrek339-1
-LW,Hillsborough,Little Bull Frog Creek-339,2,Hil-LBFrek339-2
-LW,Hillsborough,Little Bull Frog Creek-339,3,Hil-LBFrek339-3
+LW,Hillsborough,Little Bull Frog Creek-339-1,1,Hil-LBFrek339-1-1
+LW,Hillsborough,Little Bull Frog Creek-339-2,1,Hil-LBFrek339-2-1
+LW,Hillsborough,Little Bull Frog Creek-339-3,1,Hil-LBFrek339-3-1
 LW,Hillsborough,Little Cockroach Bay-1,1,Hil-Li-chBay-1
 LW,Hillsborough,Little Cockroach Bay-2,1,Hil-Li-chBay-2
 LW,Hillsborough,Little Cockroach Bay-3,1,Hil-Li-chBay-3
@@ -2115,19 +2134,19 @@ LW,Hillsborough,Little Jewel,2,Hil-LittleJe-2
 LW,Hillsborough,Little Jewel,3,Hil-LittleJe-3
 LW,Hillsborough,Little Manatee River-1,1,Hil-LiRiver-1-1
 LW,Hillsborough,Little Manatee River-2,1,Hil-LiRiver-2-1
-LW,Hillsborough,Little Manatee River-251,1,Hil-Liver251-1
-LW,Hillsborough,Little Manatee River-251,2,Hil-Liiver251-2
-LW,Hillsborough,Little Manatee River-251,3,Hil-Liiver251-3
-LW,Hillsborough,Little Manatee River-252,1,Hil-River-252-1
-LW,Hillsborough,Little Manatee River-252,2,Hil-River-252-2
-LW,Hillsborough,Little Manatee River-252,3,Hil-River-252-3
-LW,Hillsborough,Little Manatee River-254,1,Hil-River-254-1
-LW,Hillsborough,Little Manatee River-254,2,Hil-River-254-2
-LW,Hillsborough,Little Manatee River-254,3,Hil-River-254-3
+LW,Hillsborough,Little Manatee River-251-1,1,Hil-Liver251-1-1
+LW,Hillsborough,Little Manatee River-251-2,1,Hil-Liiver251-2-1
+LW,Hillsborough,Little Manatee River-251-3,1,Hil-Liiver251-3-1
+LW,Hillsborough,Little Manatee River-252-1,1,Hil-River-252-1-1
+LW,Hillsborough,Little Manatee River-252-2,1,Hil-River-252-2-1
+LW,Hillsborough,Little Manatee River-252-3,1,Hil-River-252-3-1
+LW,Hillsborough,Little Manatee River-254-1,1,Hil-River-254-1-1
+LW,Hillsborough,Little Manatee River-254-2,1,Hil-River-254-2-1
+LW,Hillsborough,Little Manatee River-254-3,1,Hil-River-254-3-1
 LW,Hillsborough,Little Manatee River-3,1,Hil-Li-River-3-1
-LW,Hillsborough,Little Manatee River-352,1,Hil-River-352-1
-LW,Hillsborough,Little Manatee River-352,2,Hil-River-352-2
-LW,Hillsborough,Little Manatee River-352,3,Hil-River-352-3
+LW,Hillsborough,Little Manatee River-352-1,1,Hil-River-352-1-1
+LW,Hillsborough,Little Manatee River-352-2,1,Hil-River-352-2-1
+LW,Hillsborough,Little Manatee River-352-3,1,Hil-River-352-3-1
 LW,Hillsborough,Little Moon,1,Hil-LittleMo-1
 LW,Hillsborough,Little Moon,2,Hil-LittleMo-2
 LW,Hillsborough,Little Moon,3,Hil-LittleMo-3
@@ -2230,15 +2249,15 @@ LW,Hillsborough,North Pond,3,Hil-NorthPd-3
 LW,Hillsborough,Osceola,1,Hil-Osceola-1
 LW,Hillsborough,Osceola,2,Hil-Osceola-2
 LW,Hillsborough,Osceola,3,Hil-Osceola-3
-LW,Hillsborough,Palm River-136,1,Hil-PalR-136-1
-LW,Hillsborough,Palm River-136,2,Hil-PalR-136-2
-LW,Hillsborough,Palm River-136,3,Hil-PalR-136-3
-LW,Hillsborough,Pemberton Creek-132,1,Hil-Creek-132-1
-LW,Hillsborough,Pemberton Creek-132,2,Hil-Creek-132-2
-LW,Hillsborough,Pemberton Creek-132,3,Hil-Creek-132-3
-LW,Hillsborough,Pemberton Creek-133,1,Hil-Creek-133-1
-LW,Hillsborough,Pemberton Creek-133,2,Hil-Creek-133-2
-LW,Hillsborough,Pemberton Creek-133,3,Hil-Creek-133-3
+LW,Hillsborough,Palm River-136-1,1,Hil-PalR-136-1-1
+LW,Hillsborough,Palm River-136-2,1,Hil-PalR-136-2-1
+LW,Hillsborough,Palm River-136-3,1,Hil-PalR-136-3-1
+LW,Hillsborough,Pemberton Creek-132-1,1,Hil-Creek-132-1-1
+LW,Hillsborough,Pemberton Creek-132-2,1,Hil-Creek-132-2-1
+LW,Hillsborough,Pemberton Creek-132-3,1,Hil-Creek-132-3-1
+LW,Hillsborough,Pemberton Creek-133-1,1,Hil-Creek-133-1-1
+LW,Hillsborough,Pemberton Creek-133-2,1,Hil-Creek-133-2-1
+LW,Hillsborough,Pemberton Creek-133-3,1,Hil-Creek-133-3-1
 LW,Hillsborough,Pine,1,Hil-Pine-1
 LW,Hillsborough,Pine,2,Hil-Pine-2
 LW,Hillsborough,Pine,3,Hil-Pine-3
@@ -2341,18 +2360,18 @@ LW,Hillsborough,Rock,1,Hil-Rock-1
 LW,Hillsborough,Rock,2,Hil-Rock-2
 LW,Hillsborough,Rock,3,Hil-Rock-3
 LW,Hillsborough,Rock-canal,1,
-LW,Hillsborough,Rocky Creek-302,1,Hil-Creek-302-1
-LW,Hillsborough,Rocky Creek-302,2,Hil-Creek-302-2
-LW,Hillsborough,Rocky Creek-302,3,Hil-Creek-302-3
-LW,Hillsborough,Rocky Creek-310,1,Hil-Roreek310-1
-LW,Hillsborough,Rocky Creek-310,2,Hil-Roreek310-2
-LW,Hillsborough,Rocky Creek-310,3,Hil-Roreek310-3
-LW,Hillsborough,Rocky Creek-311,1,Hil-Roreek311-1
-LW,Hillsborough,Rocky Creek-311,2,Hil-Roreek311-2
-LW,Hillsborough,Rocky Creek-311,3,Hil-Roreek311-3
-LW,Hillsborough,Rocky Creek-312,1,Hil-Roreek312-1
-LW,Hillsborough,Rocky Creek-312,2,Hil-Roreek312-2
-LW,Hillsborough,Rocky Creek-312,3,Hil-Roreek312-3
+LW,Hillsborough,Rocky Creek-302-1,1,Hil-Creek-302-1-1
+LW,Hillsborough,Rocky Creek-302-2,1,Hil-Creek-302-2-1
+LW,Hillsborough,Rocky Creek-302-3,1,Hil-Creek-302-3-1
+LW,Hillsborough,Rocky Creek-310-1,1,Hil-Roreek310-1-1
+LW,Hillsborough,Rocky Creek-310-2,1,Hil-Roreek310-2-1
+LW,Hillsborough,Rocky Creek-310-3,1,Hil-Roreek310-3-1
+LW,Hillsborough,Rocky Creek-311-1,1,Hil-Roreek311-1-1
+LW,Hillsborough,Rocky Creek-311-2,1,Hil-Roreek311-2-1
+LW,Hillsborough,Rocky Creek-311-3,1,Hil-Roreek311-3-1
+LW,Hillsborough,Rocky Creek-312-1,1,Hil-Roreek312-1-1
+LW,Hillsborough,Rocky Creek-312-2,1,Hil-Roreek312-2-1
+LW,Hillsborough,Rocky Creek-312-3,1,Hil-Roreek312-3-1
 LW,Hillsborough,Rogers,1,Hil-Rogers-1
 LW,Hillsborough,Rogers,2,Hil-Rogers-2
 LW,Hillsborough,Rogers,3,Hil-Rogers-3
@@ -2382,9 +2401,9 @@ LW,Hillsborough,Shady Pines,2,Hil-Shady Pines-2
 LW,Hillsborough,Shangri-La,1,Hil-ShangriLa-1
 LW,Hillsborough,Shangri-La,2,Hil-ShangriLa-2
 LW,Hillsborough,Shangri-La,3,Hil-ShangriLa-3
-LW,Hillsborough,Sherry's Creek-113,1,Hil-Shreek113-1
-LW,Hillsborough,Sherry's Creek-113,2,Hil-Shreek113-2
-LW,Hillsborough,Sherry's Creek-113,3,Hil-Shreek113-3
+LW,Hillsborough,Sherry's Creek-113-1,1,Hil-Shreek113-1-1
+LW,Hillsborough,Sherry's Creek-113-2,1,Hil-Shreek113-2-1
+LW,Hillsborough,Sherry's Creek-113-3,1,Hil-Shreek113-3-1
 LW,Hillsborough,Silver,1,Hil-Silver-1
 LW,Hillsborough,Silver,2,Hil-Silver-2
 LW,Hillsborough,Silver,3,Hil-Silver-3
@@ -2397,9 +2416,9 @@ LW,Hillsborough,Sinclair,3,Hil-Sinclair-3
 LW,Hillsborough,Snake,1,Hil-Snake-1
 LW,Hillsborough,Snake,2,Hil-Snake-2
 LW,Hillsborough,Snake,3,Hil-Snake-3
-LW,Hillsborough,Sol Food Creek-1,1,Hil-SolFoodC-1
-LW,Hillsborough,Sol Food Creek-2,1,Hil-SolFoodC-2
-LW,Hillsborough,Sol Food Creek-3,1,Hil-SolFoodC-3
+LW,Hillsborough,Sol Food Creek-1,1,Hil-SolFoodC-1-1
+LW,Hillsborough,Sol Food Creek-2,1,Hil-SolFoodC-2-1
+LW,Hillsborough,Sol Food Creek-3,1,Hil-SolFoodC-3-1
 LW,Hillsborough,South,1,Hil-South-1
 LW,Hillsborough,South,2,Hil-South-2
 LW,Hillsborough,South,3,Hil-South-3
@@ -2439,18 +2458,18 @@ LW,Hillsborough,Sunshine,3,Hil-Sunshine-3
 LW,Hillsborough,Swan,1,Hil-Swan-1
 LW,Hillsborough,Swan,2,Hil-Swan-2
 LW,Hillsborough,Swan,3,Hil-Swan-3
-LW,Hillsborough,Sweetwater Creek-321,1,Hil-Swreek321-1
-LW,Hillsborough,Sweetwater Creek-321,2,Hil-Swreek321-2
-LW,Hillsborough,Sweetwater Creek-321,3,Hil-Swreek321-3
-LW,Hillsborough,Sweetwater Creek-324,1,Hil-Swreek324-1
-LW,Hillsborough,Sweetwater Creek-324,2,Hil-Swreek324-2
-LW,Hillsborough,Sweetwater Creek-324,3,Hil-Swreek324-3
-LW,Hillsborough,Sweetwater Creek-331,1,Hil-Swreek331-1
-LW,Hillsborough,Sweetwater Creek-331,2,Hil-Swreek331-2
-LW,Hillsborough,Sweetwater Creek-331,3,Hil-Swreek331-3
-LW,Hillsborough,Sweetwater Creek-334,1,Hil-Swreek334-1
-LW,Hillsborough,Sweetwater Creek-334,2,Hil-Swreek334-2
-LW,Hillsborough,Sweetwater Creek-334,3,Hil-Swreek334-3
+LW,Hillsborough,Sweetwater Creek-321-1,1,Hil-Swreek321-1-1
+LW,Hillsborough,Sweetwater Creek-321-2,1,Hil-Swreek321-2-1
+LW,Hillsborough,Sweetwater Creek-321-3,1,Hil-Swreek321-3-1
+LW,Hillsborough,Sweetwater Creek-324-1,1,Hil-Swreek324-1-1
+LW,Hillsborough,Sweetwater Creek-324-2,1,Hil-Swreek324-2-1
+LW,Hillsborough,Sweetwater Creek-324-3,1,Hil-Swreek324-3-1
+LW,Hillsborough,Sweetwater Creek-331-1,1,Hil-Swreek331-1-1
+LW,Hillsborough,Sweetwater Creek-331-2,1,Hil-Swreek331-2-1
+LW,Hillsborough,Sweetwater Creek-331-3,1,Hil-Swreek331-3-1
+LW,Hillsborough,Sweetwater Creek-334-1,1,Hil-Swreek334-1-1
+LW,Hillsborough,Sweetwater Creek-334-2,1,Hil-Swreek334-2-1
+LW,Hillsborough,Sweetwater Creek-334-3,1,Hil-Swreek334-3-1
 LW,Hillsborough,Taylor,1,Hil-Taylor-1
 LW,Hillsborough,Taylor,2,Hil-Taylor-2
 LW,Hillsborough,Taylor,3,Hil-Taylor-3
@@ -2469,15 +2488,15 @@ LW,Hillsborough,Thonotosassa,3,Hil-Thonotosa-3
 LW,Hillsborough,Titan,1,Hil-Titan-1
 LW,Hillsborough,Titan,2,Hil-Titan-2
 LW,Hillsborough,Titan,3,Hil-Titan-3
-LW,Hillsborough,Trout Creek-141,1,Hil-TrCK-141-1
-LW,Hillsborough,Trout Creek-141,2,Hil-TrCK-141-2
-LW,Hillsborough,Trout Creek-141,3,Hil-TrCK-141-3
-LW,Hillsborough,Trout Creek-144,1,Hil-TrCK-144-1
-LW,Hillsborough,Trout Creek-144,2,Hil-TrCK-144-2
-LW,Hillsborough,Trout Creek-144,3,Hil-TrCK-144-3
-LW,Hillsborough,Turkey Creek-212,1,Hil-Treek-212-1
-LW,Hillsborough,Turkey Creek-212,2,Hil-Treek-212-2
-LW,Hillsborough,Turkey Creek-212,3,Hil-Treek-212-3
+LW,Hillsborough,Trout Creek-141-1,1,Hil-TrCK-141-1-1
+LW,Hillsborough,Trout Creek-141-2,1,Hil-TrCK-141-2-1
+LW,Hillsborough,Trout Creek-141-3,1,Hil-TrCK-141-3-1
+LW,Hillsborough,Trout Creek-144-1,1,Hil-TrCK-144-1-1
+LW,Hillsborough,Trout Creek-144-2,1,Hil-TrCK-144-2-1
+LW,Hillsborough,Trout Creek-144-3,1,Hil-TrCK-144-3-1
+LW,Hillsborough,Turkey Creek-212-1,1,Hil-Treek-212-1-1
+LW,Hillsborough,Turkey Creek-212-2,1,Hil-Treek-212-2-1
+LW,Hillsborough,Turkey Creek-212-3,1,Hil-Treek-212-3-1
 LW,Hillsborough,Turtle,1,Hil-Turtle-1
 LW,Hillsborough,Turtle,2,Hil-Turtle-2
 LW,Hillsborough,Turtle,3,Hil-Turtle-3
@@ -3120,9 +3139,6 @@ LW,Lee,Sea Oats,3,Lee-SeaOats-3
 LW,Lee,St. Kilda,1,Lee-St.Kilda-1
 LW,Lee,St. Kilda,2,Lee-St.Kilda-2
 LW,Lee,St. Kilda,3,Lee-St.Kilda-3
-LW,Lee,Stonyhill,1,Lee-StonyH-1
-LW,Lee,Stonyhill,2,Lee-StonyH-2
-LW,Lee,Stonyhill,3,Lee-StonyH-3
 LW,Lee,Tarpon Bay-1,1,Lee-Ta-onBay-1
 LW,Lee,Tarpon Bay-2,1,Lee-Ta-onBay-2
 LW,Lee,Venus,1,Lee-Venus-1
@@ -3260,6 +3276,7 @@ LW,Leon,Killarney,3,Leo-Killarney-3
 LW,Leon,Kinsail,1,Leo-Kinsail-1
 LW,Leon,Kinsail,2,Leo-Kinsail-2
 LW,Leon,Kinsail,3,Leo-Kinsail-3
+LW,Leon,Lafayette,1,Leo-Lafayette-1
 LW,Leon,Lee,1,Leo-Lee-1
 LW,Leon,Lee,2,Leo-Lee-2
 LW,Leon,Lee,3,Leo-Lee-3
@@ -3785,6 +3802,9 @@ LW,Monroe,Tavernier-6,1,Mon-vernier-6-1
 LW,Monroe,Tavernier-7,1,Mon-vernier-7-1
 LW,Monroe,Tavernier-8,1,Mon-vernier-8-1
 LW,Monroe,Tavernier-9,1,Mon-vernier-9-1
+LW,Monroe,Tom's Harbor-1,1,Mon-TomsH-1-1
+LW,Monroe,Tom's Harbor-2,1,Mon-TomsH-2-1
+LW,Monroe,Tom's Harbor-3,1,Mon-TomsH-3-1
 LW,Nassau,East Nassau,1,Nas-EastNass-1
 LW,Nassau,East Nassau,2,Nas-EastNass-2
 LW,Nassau,East Nassau,3,Nas-EastNass-3
@@ -3964,6 +3984,7 @@ LW,Orange,Burkett,3,Ora-Burkett-3
 LW,Orange,Butler,1,Ora-Butler-1
 LW,Orange,Butler,2,Ora-Butler-2
 LW,Orange,Butler,3,Ora-Butler-3
+LW,Orange,Butler Wetland,1,Ora-Butler-Wet-1
 LW,Orange,C,1,Ora-C-1
 LW,Orange,C,2,Ora-C-2
 LW,Orange,C,3,Ora-C-3
@@ -4151,6 +4172,7 @@ LW,Orange,Hill,3,Ora-Hill-3
 LW,Orange,Holden,1,Ora-Holden-1
 LW,Orange,Holden,2,Ora-Holden-2
 LW,Orange,Holden,3,Ora-Holden-3
+LW,Orange,Holden Canal-1,1,Ora-Holden-Can-1
 LW,Orange,Hope,1,Ora-Hope-1
 LW,Orange,Hope,2,Ora-Hope-2
 LW,Orange,Hope,3,Ora-Hope-3
@@ -4317,6 +4339,9 @@ LW,Orange,Minnehaha,3,Ora-Minnehaha-3
 LW,Orange,Mira,1,Ora-Mira-1
 LW,Orange,Mira,2,Ora-Mira-2
 LW,Orange,Mira,3,Ora-Mira-3
+LW,Orange,Mizell,1,Ora-Mizell-1
+LW,Orange,Mizell,2,Ora-Mizell-2
+LW,Orange,Mizell,3,Ora-Mizell-3
 LW,Orange,Moxie,1,Ora-Moxie-1
 LW,Orange,Moxie,2,Ora-Moxie-2
 LW,Orange,Moxie,3,Ora-Moxie-3
@@ -4349,6 +4374,9 @@ LW,Orange,Olympia,3,Ora-Olympia-3
 LW,Orange,Orlando,1,Ora-Orlando-1
 LW,Orange,Orlando,2,Ora-Orlando-2
 LW,Orange,Orlando,3,Ora-Orlando-3
+LW,Orange,Osceola,1,Ora-Osceola-1
+LW,Orange,Osceola,2,Ora-Osceola-2
+LW,Orange,Osceola,3,Ora-Osceola-3
 LW,Orange,Pamela,1,Ora-Pamela-1
 LW,Orange,Pamela,2,Ora-Pamela-2
 LW,Orange,Pamela,3,Ora-Pamela-3
@@ -4800,6 +4828,9 @@ LW,Pasco,Conley,3,Pas-Conley-3
 LW,Pasco,Crews,1,Pas-Crews-1
 LW,Pasco,Crews,2,Pas-Crews-2
 LW,Pasco,Crews,3,Pas-Crews-3
+LW,Pasco,Diane,1,Pas-Diane-1
+LW,Pasco,Diane,2,Pas-Diane-2
+LW,Pasco,Diane,3,Pas-Diane-3
 LW,Pasco,Dupree,1,Pas-Dupree-1
 LW,Pasco,Dupree,2,Pas-Dupree-2
 LW,Pasco,Dupree,3,Pas-Dupree-3
@@ -5220,6 +5251,7 @@ LW,Polk,Crooked Bok,2,Pol-CrookedBk-2
 LW,Polk,Crooked Bok,3,Pol-CrookedBk-3
 LW,Polk,Crooked-Babson Park,1,Pol-Crooked-B-1
 LW,Polk,Crooked-Seminole Rd. drain,1,Pol-Crooked-S-1
+LW,Polk,Crooked-Alligator Cove,1,Pol-Crooked-A-1
 LW,Polk,Cypress,1,Pol-Cypress-1
 LW,Polk,Cypress,2,Pol-Cypress-2
 LW,Polk,Cypress,3,Pol-Cypress-3
@@ -5496,6 +5528,7 @@ LW,Polk,Symphony,3,Pol-Symphony-3
 LW,Polk,Tiger,1,Pol-Tiger-1
 LW,Polk,Tiger,2,Pol-Tiger-2
 LW,Polk,Tiger,3,Pol-Tiger-3
+LW,Polk,Tiger,4,Pol-Tiger-4
 LW,Polk,Tracy,1,Pol-Tracy-1
 LW,Polk,Tracy,2,Pol-Tracy-2
 LW,Polk,Tracy,3,Pol-Tracy-3
@@ -5857,6 +5890,9 @@ LW,Sarasota,Heron Lagoon,2,Sar-HeronLagoon-2
 LW,Sarasota,Heron Lagoon,3,Sar-HeronLagoon-3
 LW,Sarasota,Heron Lagoon,4,Sar-HeronLagoon-4
 LW,Sarasota,Heron Lagoon,5,Sar-HeronLagoon-5
+LW,Sarasota,HO24,1,Sar-HO24-1
+LW,Sarasota,HO24,2,Sar-HO24-2
+LW,Sarasota,HO24,3,Sar-HO24-3
 LW,Sarasota,HO6,1,Sar-HO6-1
 LW,Sarasota,HO6,2,Sar-HO6-2
 LW,Sarasota,HO6,3,Sar-HO6-3
@@ -5883,6 +5919,9 @@ LW,Sarasota,Moondrop,2,Sar-Moondrop-2
 LW,Sarasota,North,1,Sar-North-1
 LW,Sarasota,North,2,Sar-North-2
 LW,Sarasota,North,3,Sar-North-3
+LW,Sarasota,Pelican Cove-1,1,Sar-Pelican-Cove-1-1
+LW,Sarasota,Pelican Cove-2,1,Sar-Pelican-Cove-2-1
+LW,Sarasota,Pelican Cove-3,1,Sar-Pelican-Cove-3-1
 LW,Sarasota,Pinebrook South,1,Sar-PinebrookS-1
 LW,Sarasota,Pinebrook South,2,Sar-PinebrookS-2
 LW,Sarasota,Pinebrook South,3,Sar-PinebrookS-3
@@ -6378,9 +6417,9 @@ LW,St Lucie,Harriet,3,St-Harriet-3
 LW,St Lucie,Jean,1,St-Jean-1
 LW,St Lucie,Jean,2,St-Jean-2
 LW,St Lucie,Jean,3,St-Jean-3
-LW,St Lucie,Jeffery,1,St-Jeffery-1
-LW,St Lucie,Jeffery,2,St-Jeffery-2
-LW,St Lucie,Jeffery,3,St-Jeffery-3
+LW,St Lucie,Jeffrey,1,St-Jeffrey-1
+LW,St Lucie,Jeffrey,2,St-Jeffrey-2
+LW,St Lucie,Jeffrey,3,St-Jeffrey-3
 LW,St Lucie,Karen,1,St-Karen-1
 LW,St Lucie,Karen,2,St-Karen-2
 LW,St Lucie,Karen,3,St-Karen-3
@@ -6846,6 +6885,7 @@ LW,Walton,Morris,2,Wal-Morris-2
 LW,Walton,Morris,3,Wal-Morris-3
 LW,Walton,Mullet Creek-1,1,Wal-Mu-Creek-1
 LW,Walton,Mullet Creek-2,1,Wal-Mu-Creek-2
+LW,Walton,Mullet Creek-3,1,Wal-Mu-Creek-3
 LW,Walton,Oyster,1,Wal-Oyster-1
 LW,Walton,Oyster,2,Wal-Oyster-2
 LW,Walton,Oyster,3,Wal-Oyster-3
@@ -6897,6 +6937,8 @@ LW,Washington,Bream,1,Was-Bream-1
 LW,Washington,Bream,2,Was-Bream-2
 LW,Washington,Bream,3,Was-Bream-3
 LW,Washington,CBA Holmes Creek-1,1,Was-CBA-HolmCrk-1
+LW,Washington,CBA Holmes Creek-2,1,Was-CBA-HolmCrk-2
+LW,Washington,CBA Holmes Creek-3,1,Was-CBA-HolmCrk-3
 LW,Washington,Gap,1,Was-Gap-1
 LW,Washington,Gap,2,Was-Gap-2
 LW,Washington,Gap,3,Was-Gap-3
