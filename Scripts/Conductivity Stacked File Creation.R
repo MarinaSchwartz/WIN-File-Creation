@@ -17,7 +17,7 @@ folder_path <- "/Users/mevanskeene/Desktop/WIN Uploads 2025/Cond"
 # Exclude temp files (~$) and select .xlsm files
 file_list <- list.files(
   path = folder_path, 
-  pattern = "^[^~].*\\.xlsm$",  
+  pattern = "^[^~].*\\.xlsx$",  
   full.names = TRUE
 )
 
@@ -117,8 +117,8 @@ read_as_text <- function(file) {
   # Round Result_Value to proper decimal places
   
   
-  df$'Result_Value' <- as.numeric(df$'Result_Value')
-  df$'Result_Value' <- round(df$'Result_Value', 2)
+  df$'Org_Result_Value' <- as.numeric(df$'Org_Result_Value')
+  df$'Org_Result_Value' <- round(df$'Org_Result_Value', 2)
   
   return(df)
 }

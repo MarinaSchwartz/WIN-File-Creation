@@ -61,10 +61,10 @@ read_as_text <- function(file) {
     df$Preparation_Date <- as.numeric(df$Preparation_Date)
     
     # Excel serial number conversion: If it's greater than or equal to 60, we subtract 1 day due to the leap year bug.
-    #df$Preparation_Date <- ifelse(df$Preparation_Date >= 60, df$Preparation_Date - 1, df$Preparation_Date)
+    df$Preparation_Date <- ifelse(df$Preparation_Date >= 60, df$Preparation_Date - 2, df$Preparation_Date)
     
     # Convert serial date to Date, applying the correct origin (1904-01-01)
-     df$Preparation_Date <- as.Date(df$Preparation_Date, origin = "1904-01-01")  # Correct origin
+     df$Preparation_Date <- as.Date(df$Preparation_Date, origin = "1903-01-01")  # Correct origin
      df$Preparation_Date <- format(df$Preparation_Date, "%m/%d/%Y")  # Format as MM/DD/YYYY
     } else {
    # If it's a text-based date, assume it is in 'MM/DD/YY' format and reformat it
@@ -82,10 +82,10 @@ read_as_text <- function(file) {
     df$Analysis_Date <- as.numeric(df$Analysis_Date)
     
     # Excel serial number conversion: If it's greater than or equal to 60, we subtract 1 day due to the leap year bug.
-    #df$Analysis_Date <- ifelse(df$Analysis_Date >= 60, df$Analysis_Date - 1, df$Analysis_Date)
+    df$Analysis_Date <- ifelse(df$Analysis_Date >= 60, df$Analysis_Date - 2, df$Analysis_Date)
     
     # Convert serial date to Date, applying the correct origin (1904-01-01)
-    df$Analysis_Date <- as.Date(df$Analysis_Date, origin = "1904-01-01")  # Correct origin
+    df$Analysis_Date <- as.Date(df$Analysis_Date, origin = "1903-01-01")  # Correct origin
     df$Analysis_Date <- format(df$Analysis_Date, "%m/%d/%Y")  # Format as MM/DD/YYYY
   } else {
     # If it's a text-based date, assume it is in 'MM/DD/YY' format and reformat it
@@ -103,10 +103,10 @@ read_as_text <- function(file) {
     df$Activity_Start_Date <- as.numeric(df$Activity_Start_Date)
     
     # Excel serial number conversion: If it's greater than or equal to 60, we subtract 1 day due to the leap year bug.
-    #df$Activity_Start_Date <- ifelse(df$Activity_Start_Date >= 60, df$Activity_Start_Date - 1, df$Activity_Start_Date)
+    df$Activity_Start_Date <- ifelse(df$Activity_Start_Date >= 60, df$Activity_Start_Date - 2, df$Activity_Start_Date)
     
     # Convert serial date to Date, applying the correct origin (1904-01-01)
-    df$Activity_Start_Date <- as.Date(df$Activity_Start_Date, origin = "1904-01-01")  # Correct origin
+    df$Activity_Start_Date <- as.Date(df$Activity_Start_Date, origin = "1903-01-01")  # Correct origin
     df$Activity_Start_Date <- format(df$Activity_Start_Date, "%m/%d/%Y")  # Format as MM/DD/YYYY
   } else {
     # If it's a text-based date, assume it is in 'MM/DD/YY' format and reformat it

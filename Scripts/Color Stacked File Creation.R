@@ -17,16 +17,16 @@ folder_path <- "/Users/mevanskeene/Desktop/WIN Uploads 2025/Color"
 # Exclude temp files (~$) and select .xlsm files
 file_list <- list.files(
   path = folder_path, 
-  pattern = "^[^~].*\\.xlsm$",  
+  pattern = "^[^~].*\\.xlsx$",  
   full.names = TRUE
 )
 
 # Function to read an Excel sheet with all columns as text
 read_as_text <- function(file) {
-  col_names <- read_excel(file, sheet = "Color", n_max = 1) %>% names()
+  col_names <- read_excel(file, sheet = 1, n_max = 1) %>% names()
   
   # Read the entire sheet with all columns as text
-  df <- read_excel(file, sheet = "Color", col_types = rep("text", length(col_names)))
+  df <- read_excel(file, sheet = 1, col_types = rep("text", length(col_names)))
   
   # Convert the prep time column 
   df$Preparation_Time <- as.character(df$Preparation_Time)  # Ensure time is a character
@@ -61,10 +61,10 @@ read_as_text <- function(file) {
     df$Preparation_Date <- as.numeric(df$Preparation_Date)
     
     # Excel serial number conversion: If it's greater than or equal to 60, we subtract 1 day due to the leap year bug.
-    #df$Preparation_Date <- ifelse(df$Preparation_Date >= 60, df$Preparation_Date - 1, df$Preparation_Date)
+   df$Preparation_Date <- ifelse(df$Preparation_Date >= 60, df$Preparation_Date - 2, df$Preparation_Date)
     
     # Convert serial date to Date, applying the correct origin (1904-01-01)
-    df$Preparation_Date <- as.Date(df$Preparation_Date, origin = "1904-01-01")  # Correct origin
+    df$Preparation_Date <- as.Date(df$Preparation_Date, origin = "1900-01-01")  # Correct origin
     df$Preparation_Date <- format(df$Preparation_Date, "%m/%d/%Y")  # Format as MM/DD/YYYY
   } else {
     # If it's a text-based date, assume it is in 'MM/DD/YY' format and reformat it
@@ -82,10 +82,10 @@ read_as_text <- function(file) {
     df$Analysis_Date <- as.numeric(df$Analysis_Date)
     
     # Excel serial number conversion: If it's greater than or equal to 60, we subtract 1 day due to the leap year bug.
-    #df$Analysis_Date <- ifelse(df$Analysis_Date >= 60, df$Analysis_Date - 1, df$Analysis_Date)
+    df$Analysis_Date <- ifelse(df$Analysis_Date >= 60, df$Analysis_Date - 2, df$Analysis_Date)
     
     # Convert serial date to Date, applying the correct origin (1904-01-01)
-    df$Analysis_Date <- as.Date(df$Analysis_Date, origin = "1904-01-01")  # Correct origin
+    df$Analysis_Date <- as.Date(df$Analysis_Date, origin = "1900-01-01")  # Correct origin
     df$Analysis_Date <- format(df$Analysis_Date, "%m/%d/%Y")  # Format as MM/DD/YYYY
   } else {
     # If it's a text-based date, assume it is in 'MM/DD/YY' format and reformat it
@@ -103,10 +103,10 @@ read_as_text <- function(file) {
     df$Activity_Start_Date <- as.numeric(df$Activity_Start_Date)
     
     # Excel serial number conversion: If it's greater than or equal to 60, we subtract 1 day due to the leap year bug.
-    #df$Activity_Start_Date <- ifelse(df$Activity_Start_Date >= 60, df$Activity_Start_Date - 1, df$Activity_Start_Date)
+    df$Activity_Start_Date <- ifelse(df$Activity_Start_Date >= 60, df$Activity_Start_Date - 2, df$Activity_Start_Date)
     
     # Convert serial date to Date, applying the correct origin (1904-01-01)
-    df$Activity_Start_Date <- as.Date(df$Activity_Start_Date, origin = "1904-01-01")  # Correct origin
+    df$Activity_Start_Date <- as.Date(df$Activity_Start_Date, origin = "1900-01-01")  # Correct origin
     df$Activity_Start_Date <- format(df$Activity_Start_Date, "%m/%d/%Y")  # Format as MM/DD/YYYY
   } else {
     # If it's a text-based date, assume it is in 'MM/DD/YY' format and reformat it
@@ -119,16 +119,17 @@ read_as_text <- function(file) {
   df$'Abs' <- as.numeric(df$'Abs')
   df$'Abs' <- round(df$'Abs', 4)
   
-  df$'Result_Value(PCU)' <- as.numeric(df$'Result_Value(PCU)')
-  df$'Result_Value(PCU)' <- round(df$'Result_Value(PCU)', 0)
+  df$'Org_Result_Value' <- as.numeric(df$'Org_Result_Value')
+  df$'Org_Result_Value' <- round(df$'Org_Result_Value', 0)
   
   return(df)
 }
+
 
 # Read and combine all valid files
 combined_data <- file_list %>%
   map_df(read_as_text)
 
 
-write.table(combined_data, file = "Data/LW/Color_STACKED.csv", sep = ",", na = "", row.names = FALSE, quote = FALSE)
+write.table(combined_data, file = "/Users/mevanskeene/Documents/GitHub/WIN File Creation/Data/LW/Color_STACKED.csv", sep = ",", na = "", row.names = FALSE, quote = FALSE)
 

@@ -43,16 +43,6 @@
     Activity_Start_Time = col_character(),
   ))
   
-  ### Functions ----
-  
-  #Can these be mutates?
-
-  
-  #For blank org result value, org result value should = "Not Reported".
-  # not_reported_secchi <- function(Org_Result_Value){
-  #   ifelse(is.na(Org_Result_Value), "Not Reported", Org_Result_Value)
-  #   }
-   
   
   ### SECCHI ----
   

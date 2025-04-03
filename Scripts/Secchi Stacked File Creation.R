@@ -19,7 +19,7 @@ Stacked <- read_xlsx("Data/LW/CHL and Secchi WIN Stacked.xlsx", sheet = "Secchi"
 
 ### Data Prep
 
-#filter out rows not CHL
+#filter out rows not Secchi
 CHL <- Stacked %>%
   filter(ADAPT_Analyte_ID %in% c("WIN-010"))
 
@@ -38,10 +38,10 @@ if (any(grepl("^[0-9.]+$", CHL$Activity_Start_Date))) {
   CHL$Activity_Start_Date <- as.numeric(CHL$Activity_Start_Date)
   
   # Excel serial number conversion: If it's greater than or equal to 60, we subtract 1 day due to the leap year bug.
-  #CHL$Activity_Start_Date <- ifelse(CHL$Activity_Start_Date >= 60, CHL$Activity_Start_Date - 1, CHL$Activity_Start_Date)
+  CHL$Activity_Start_Date <- ifelse(CHL$Activity_Start_Date >= 60, CHL$Activity_Start_Date - 2, CHL$Activity_Start_Date)
   
   # Convert serial date to Date, applying the correct origin (1904-01-01)
-  CHL$Activity_Start_Date <- as.Date(CHL$Activity_Start_Date, origin = "1904-01-01")  # Correct origin
+  CHL$Activity_Start_Date <- as.Date(CHL$Activity_Start_Date, origin = "1900-01-01")  # Correct origin
   CHL$Activity_Start_Date <- format(CHL$Activity_Start_Date, "%m/%d/%Y")  # Format as MM/DD/YYYY
 } else {
   # If it's a text-based date, assume it is in 'MM/DD/YY' format and reformat it
@@ -86,10 +86,10 @@ if (any(grepl("^[0-9.]+$", CHL$Preparation_Date))) {
   CHL$Preparation_Date <- as.numeric(CHL$Preparation_Date)
   
   # Excel serial number conversion: If it's greater than or equal to 60, we subtract 1 day due to the leap year bug. THis was returning dates that were 4 years early, hence the 1904
-  #CHL$Preparation_Date <- ifelse(CHL$Preparation_Date >= 60, CHL$Preparation_Date - 1, CHL$Preparation_Date)
+  CHL$Preparation_Date <- ifelse(CHL$Preparation_Date >= 60, CHL$Preparation_Date - 1, CHL$Preparation_Date)
   
   # Convert serial date to Date, applying the correct origin (1904-01-01)
-  CHL$Preparation_Date <- as.Date(CHL$Preparation_Date, origin = "1904-01-01")  # Correct origin
+  CHL$Preparation_Date <- as.Date(CHL$Preparation_Date, origin = "1900-01-01")  # Correct origin
   CHL$Preparation_Date <- format(CHL$Preparation_Date, "%m/%d/%Y")  # Format as MM/DD/YYYY
 } else {
   # If it's a text-based date, assume it is in 'MM/DD/YY' format and reformat it
@@ -107,10 +107,10 @@ if (any(grepl("^[0-9.]+$", CHL$Analysis_Date))) {
   CHL$Analysis_Date <- as.numeric(CHL$Analysis_Date)
   
   # Excel serial number conversion: If it's greater than or equal to 60, we subtract 1 day due to the leap year bug.
-  #CHL$Analysis_Date <- ifelse(CHL$Analysis_Date >= 60, CHL$Analysis_Date - 1, CHL$Analysis_Date)
+  CHL$Analysis_Date <- ifelse(CHL$Analysis_Date >= 60, CHL$Analysis_Date - 1, CHL$Analysis_Date)
   
   # Convert serial date to Date, applying the correct origin (1904-01-01)
-  CHL$Analysis_Date <- as.Date(CHL$Analysis_Date, origin = "1904-01-01")  # Correct origin
+  CHL$Analysis_Date <- as.Date(CHL$Analysis_Date, origin = "1900-01-01")  # Correct origin
   CHL$Analysis_Date <- format(CHL$Analysis_Date, "%m/%d/%Y")  # Format as MM/DD/YYYY
 } else {
   # If it's a text-based date, assume it is in 'MM/DD/YY' format and reformat it
