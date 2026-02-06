@@ -1,0 +1,2392 @@
+"County","Lake","StartDate","Activity_Start_Time","Station","Activity_Time_Zone","Monitoring_Location_ID"
+"Collier","IFAS Collier Pond",2025-07-21,11:32:00,"2","EST","Col-IFAS Collier Pd-2"
+"Collier","IFAS Collier Pond",2025-07-21,11:35:59,"3","EST","Col-IFAS Collier Pd-3"
+"Collier","IFAS Collier Pond",2025-08-20,11:37:00,"1","EST","Col-IFAS Collier Pd-1"
+"Collier","IFAS Collier Pond",2025-08-20,11:41:00,"2","EST","Col-IFAS Collier Pd-2"
+"Collier","IFAS Collier Pond",2025-08-20,11:46:00,"3","EST","Col-IFAS Collier Pd-3"
+"Collier","Islandwalk",2025-07-16,09:36:00,"2","EST","Col-Islandwalk-2"
+"Collier","Islandwalk",2025-07-16,09:20:59,"3","EST","Col-Islandwalk-3"
+"Collier","Islandwalk",2025-07-16,10:04:00,"8","EST","Col-Islandwalk-8"
+"Collier","Saddlebrook",2025-06-30,10:42:00,"1","EST","Col-Saddlebrook-1"
+"Collier","Saddlebrook",2025-06-30,10:54:00,"2","EST","Col-Saddlebrook-2"
+"Collier","Saddlebrook",2025-06-30,11:01:00,"3","EST","Col-Saddlebrook-3"
+"Collier","Saddlebrook",2025-07-30,10:50:00,"2","EST","Col-Saddlebrook-2"
+"Collier","Saddlebrook",2025-07-30,10:57:00,"3","EST","Col-Saddlebrook-3"
+"Collier","SB-61",2025-08-25,08:09:59,"1","EST","Col-SB-61-1"
+"Collier","SB-61",2025-08-25,08:15:00,"2","EST","Col-SB-61-2"
+"Miami-Dade","E",2025-08-17,08:44:59,"1","EST","Mia-E-1"
+"Miami-Dade","E",2025-08-17,08:40:00,"2","EST","Mia-E-2"
+"Miami-Dade","E",2025-08-17,08:32:00,"3","EST","Mia-E-3"
+"Miami-Dade","Lakeridge",2025-04-08,09:15:00,"2","EST","Mia-Lakeridge-2"
+"Miami-Dade","Lakeridge",2025-04-08,09:10:00,"3","EST","Mia-Lakeridge-3"
+"Miami-Dade","Lakeridge",2025-08-26,09:10:00,"1","EST","Mia-Lakeridge-1"
+"Miami-Dade","Lakeridge",2025-08-26,09:05:00,"2","EST","Mia-Lakeridge-2"
+"Miami-Dade","Lakeridge",2025-08-26,09:00:00,"3","EST","Mia-Lakeridge-3"
+"Miami-Dade","Oakland",2025-07-14,12:34:00,"2","EST","Mia-Oakland-2"
+"Miami-Dade","Oakland",2025-07-14,12:42:00,"3","EST","Mia-Oakland-3"
+"Miami-Dade","Oakland",2025-08-10,12:29:00,"1","EST","Mia-Oakland-1"
+"Miami-Dade","Oakland",2025-08-10,12:38:00,"2","EST","Mia-Oakland-2"
+"Miami-Dade","Oakland",2025-08-10,12:45:00,"3","EST","Mia-Oakland-3"
+"Miami-Dade","Oakland",2025-09-03,11:20:00,"1","EST","Mia-Oakland-1"
+"Miami-Dade","Oakland",2025-09-03,11:28:00,"2","EST","Mia-Oakland-2"
+"Miami-Dade","Oakland",2025-09-03,11:35:59,"3","EST","Mia-Oakland-3"
+"Palm Beach","Green Cay",2025-06-27,09:50:00,"1","EST","Pal-GreenCay-1"
+"Palm Beach","Green Cay",2025-06-27,09:58:00,"2","EST","Pal-GreenCay-2"
+"Palm Beach","Green Cay",2025-06-27,10:04:00,"3","EST","Pal-GreenCay-3"
+"Palm Beach","Green Cay",2025-07-23,09:51:00,"2","EST","Pal-GreenCay-2"
+"Palm Beach","Green Cay",2025-07-23,09:58:00,"3","EST","Pal-GreenCay-3"
+"Palm Beach","Green Cay",2025-08-21,09:39:59,"1","EST","Pal-GreenCay-1"
+"Palm Beach","Green Cay",2025-08-21,09:50:00,"2","EST","Pal-GreenCay-2"
+"Palm Beach","Green Cay",2025-08-21,09:58:00,"3","EST","Pal-GreenCay-3"
+"Palm Beach","Loxahatchee River-10",2025-08-12,09:52:00,"1","EST","Pal-Lo-River-10"
+"Palm Beach","Loxahatchee River-62",2025-08-12,10:57:00,"1","EST","Pal-Lo-River-62"
+"Palm Beach","Loxahatchee River-69",2025-08-12,10:14:00,"1","EST","Pal-Lo-River-69"
+"Palm Beach","Loxahatchee River-72",2025-08-12,10:16:00,"1","EST","Pal-Lo-River-72"
+"Palm Beach","Westwood",2025-06-30,10:00:00,"1","EST","Pal-Westwood-1"
+"Palm Beach","Westwood",2025-06-30,10:30:00,"2","EST","Pal-Westwood-2"
+"Palm Beach","Westwood",2025-06-30,10:59:59,"3","EST","Pal-Westwood-3"
+"Palm Beach","Westwood",2025-07-30,09:29:59,"2","EST","Pal-Westwood-2"
+"Palm Beach","Westwood",2025-07-30,10:00:00,"3","EST","Pal-Westwood-3"
+"Palm Beach","Westwood",2025-08-31,10:30:00,"1","EST","Pal-Westwood-1"
+"Palm Beach","Westwood",2025-08-31,10:59:59,"2","EST","Pal-Westwood-2"
+"Palm Beach","Westwood",2025-08-31,11:30:00,"3","EST","Pal-Westwood-3"
+"St Lucie","Phillip",2025-08-12,08:13:00,"1","EST","St-Phillip-1"
+"St Lucie","Phillip",2025-08-12,08:17:00,"2","EST","St-Phillip-2"
+"St Lucie","Phillip",2025-08-12,08:20:00,"3","EST","St-Phillip-3"
+"St Lucie","Phillip",2025-09-06,08:12:00,"1","EST","St-Phillip-1"
+"St Lucie","Phillip",2025-09-06,08:15:00,"2","EST","St-Phillip-2"
+"St Lucie","Phillip",2025-09-06,08:18:00,"3","EST","St-Phillip-3"
+"Clay","Fox Valley",2025-04-11,14:40:00,"2","EST","Cla-FoxValley-2"
+"Clay","Fox Valley",2025-05-17,09:07:00,"1","EST","Cla-FoxValley-1"
+"Clay","Fox Valley",2025-05-17,09:18:00,"2","EST","Cla-FoxValley-2"
+"Flagler","Cheyenne Cove",2025-05-23,09:36:00,"1","EST","Fla-CheyC-1"
+"Flagler","Cheyenne Cove",2025-05-23,09:49:00,"2","EST","Fla-CheyC-2"
+"Flagler","Cheyenne Cove",2025-05-23,09:54:00,"3","EST","Fla-CheyC-3"
+"Flagler","Cheyenne Cove",2025-06-26,13:41:00,"1","EST","Fla-CheyC-1"
+"Flagler","Cheyenne Cove",2025-06-26,13:49:59,"2","EST","Fla-CheyC-2"
+"Flagler","Cheyenne Cove",2025-06-26,13:54:00,"3","EST","Fla-CheyC-3"
+"Flagler","Cheyenne Cove",2025-07-21,10:17:00,"2","EST","Fla-CheyC-2"
+"Flagler","Cheyenne Cove",2025-07-21,10:22:00,"3","EST","Fla-CheyC-3"
+"Flagler","Disston",2025-07-04,12:50:00,"2","EST",
+"Flagler","Disston",2025-07-04,12:50:00,"2","EST",
+"Flagler","Disston",2025-07-04,12:50:00,"2","EST","Fla-Disston-2"
+"Flagler","Disston",2025-07-04,12:59:59,"3","EST",
+"Flagler","Disston",2025-07-04,12:59:59,"3","EST",
+"Flagler","Disston",2025-07-04,12:59:59,"3","EST","Fla-Disston-3"
+"Seminole","Cub",2025-05-27,14:10:00,"1","EST","Sem-Cub-1"
+"Seminole","Cub",2025-05-27,14:17:00,"2","EST","Sem-Cub-2"
+"Seminole","Cub",2025-05-27,14:22:00,"3","EST","Sem-Cub-3"
+"Seminole","Cub",2025-06-30,16:01:00,"1","EST","Sem-Cub-1"
+"Seminole","Cub",2025-06-30,16:10:00,"2","EST","Sem-Cub-2"
+"Seminole","Cub",2025-06-30,16:22:00,"3","EST","Sem-Cub-3"
+"Seminole","Little Bear",2025-06-30,10:00:00,"1","EST","Sem-LittleBe-1"
+"Seminole","Little Bear",2025-06-30,10:14:59,"2","EST","Sem-LittleBe-2"
+"Seminole","Little Bear",2025-06-30,10:30:00,"3","EST","Sem-LittleBe-3"
+"Seminole","Wekiva",2025-06-24,10:45:00,"1","EST","Sem-Wekiva-1"
+"Seminole","Wekiva",2025-06-24,10:40:00,"2","EST","Sem-Wekiva-2"
+"Seminole","Wekiva",2025-06-24,10:35:00,"3","EST","Sem-Wekiva-3"
+"Seminole","Crescent",2025-06-14,13:05:59,"1","EST","Sem-Crescent-1"
+"Seminole","Crescent",2025-06-14,13:08:00,"2","EST","Sem-Crescent-2"
+"Seminole","Crescent",2025-06-14,13:12:00,"3","EST","Sem-Crescent-3"
+"Alachua","Jeffords",2025-06-23,08:30:00,"1","EST","Ala-Jeffords-1"
+"Alachua","Jeffords",2025-06-23,08:40:00,"2","EST","Ala-Jeffords-2"
+"Alachua","Jeffords",2025-06-23,08:50:00,"3","EST","Ala-Jeffords-3"
+"Alachua","Wauberg",2025-07-20,09:53:00,"2","EST","Ala-Wauberg-2"
+"Alachua","Wauberg",2025-07-20,09:53:00,"2","EST",
+"Alachua","Wauberg",2025-07-20,09:53:00,"2","EST",
+"Alachua","Wauberg",2025-07-20,09:59:00,"3","EST","Ala-Wauberg-3"
+"Alachua","Wauberg",2025-07-20,09:59:00,"3","EST",
+"Alachua","Wauberg",2025-07-20,09:59:00,"3","EST",
+"Seminole","Brantley",2025-06-20,10:00:00,"1","EST",
+"Seminole","Brantley",2025-06-20,10:00:00,"1","EST","Sem-Brantley-1"
+"Seminole","Brantley",2025-06-20,10:10:00,"2","EST",
+"Seminole","Brantley",2025-06-20,10:10:00,"2","EST","Sem-Brantley-2"
+"Seminole","Brantley",2025-06-20,10:20:00,"3","EST",
+"Seminole","Brantley",2025-06-20,10:20:00,"3","EST","Sem-Brantley-3"
+"Seminole","Brantley",2025-07-20,09:00:00,"2","EST",
+"Seminole","Brantley",2025-07-20,09:00:00,"2","EST","Sem-Brantley-2"
+"Seminole","Brantley",2025-07-20,09:00:00,"3","EST",
+"Seminole","Brantley",2025-07-20,09:00:00,"3","EST","Sem-Brantley-3"
+"Seminole","Clear",2025-07-24,08:09:59,"2","EST","Sem-Clear-2"
+"Seminole","Clear",2025-07-24,08:21:00,"3","EST","Sem-Clear-3"
+"Seminole","Clear",2025-08-19,09:01:00,"1","EST","Sem-Clear-1"
+"Seminole","Clear",2025-08-19,09:15:00,"2","EST","Sem-Clear-2"
+"Seminole","Clear",2025-08-19,09:37:00,"3","EST","Sem-Clear-3"
+"Seminole","Crescent",2025-04-26,11:19:00,"2","EST","Sem-Crescent-2"
+"Seminole","Crescent",2025-04-26,11:23:00,"3","EST","Sem-Crescent-3"
+"Seminole","Crystal Bowl",2025-07-30,15:14:59,"2","EST","Sem-CrystalB-2"
+"Seminole","Cub",2025-04-30,06:09:59,"2","EST","Sem-Cub-2"
+"Seminole","Cub",2025-04-30,06:16:00,"3","EST","Sem-Cub-3"
+"Seminole","East",2025-08-13,10:45:00,"1","EST","Sem-East-1"
+"Seminole","East",2025-08-13,10:54:00,"2","EST","Sem-East-2"
+"Seminole","East",2025-08-13,10:59:59,"3","EST","Sem-East-3"
+"Seminole","Horseshoe North",2025-05-24,,"1","EST","Sem-HorseshoN-1"
+"Seminole","Horseshoe North",2025-05-24,,"2","EST","Sem-HorseshoN-2"
+"Seminole","Horseshoe North",2025-05-24,,"3","EST","Sem-HorseshoN-3"
+"Seminole","Horseshoe North",2025-07-26,,"2","EST","Sem-HorseshoN-2"
+"Seminole","Horseshoe North",2025-07-26,,"3","EST","Sem-HorseshoN-3"
+"Seminole","Little Bear",2025-08-09,09:29:59,"1","EST","Sem-LittleBe-1"
+"Seminole","Little Bear",2025-08-09,09:45:00,"2","EST","Sem-LittleBe-2"
+"Seminole","Little Bear",2025-08-09,10:00:00,"3","EST","Sem-LittleBe-3"
+"Seminole","Little Howell",2025-08-14,10:30:00,"1","EST","Sem-LittleHo-1"
+"Seminole","Little Howell",2025-08-14,10:40:00,"2","EST","Sem-LittleHo-2"
+"Seminole","Little Howell",2025-08-14,10:50:00,"3","EST","Sem-LittleHo-3"
+"Seminole","Mary",2025-07-25,18:14:00,"2","EST","Sem-Mary-2"
+"Seminole","Mary",2025-07-25,18:24:00,"3","EST","Sem-Mary-3"
+"Seminole","Monroe West",2025-07-20,16:05:59,"2","EST","Sem-MonroeWe-2"
+"Seminole","Monroe West",2025-07-20,16:12:00,"3","EST","Sem-MonroeWe-3"
+"Seminole","Rock",2025-07-31,08:17:00,"2","EST","Sem-Rock-2"
+"Seminole","Rock",2025-07-31,08:23:59,"3","EST","Sem-Rock-3"
+"Seminole","Silver",2025-06-25,08:44:59,"1","EST","Sem-Silver-1"
+"Seminole","Silver",2025-06-25,08:50:00,"2","EST","Sem-Silver-2"
+"Seminole","Silver",2025-06-25,08:54:59,"3","EST","Sem-Silver-3"
+"Seminole","Silver",2025-07-28,08:09:59,"2","EST","Sem-Silver-2"
+"Seminole","Silver",2025-07-28,08:15:00,"3","EST","Sem-Silver-3"
+"Seminole","Wekiva",2025-08-12,09:00:00,"1","EST","Sem-Wekiva-1"
+"Seminole","Wekiva",2025-08-12,08:54:59,"2","EST","Sem-Wekiva-2"
+"Seminole","Wekiva",2025-08-12,08:50:00,"3","EST","Sem-Wekiva-3"
+"Charlotte","L-4",2025-06-30,12:00:00,"1","EST","Cha-L-4-1"
+"Charlotte","L-4",2025-06-30,12:10:00,"2","EST","Cha-L-4-2"
+"Charlotte","L-4",2025-06-30,12:19:59,"3","EST","Cha-L-4-3"
+"Charlotte","L-4",2025-07-29,10:59:59,"2","EST","Cha-L-4-2"
+"Charlotte","L-4",2025-07-29,10:59:59,"3","EST","Cha-L-4-3"
+"Charlotte","L-4",2025-08-27,11:30:00,"1","EST","Cha-L-4-1"
+"Charlotte","L-4",2025-08-27,11:30:00,"2","EST","Cha-L-4-2"
+"Charlotte","L-4",2025-08-27,11:30:00,"3","EST","Cha-L-4-3"
+"Charlotte","L-6",2025-08-19,10:38:00,"1","EST","Cha-L-6-1"
+"Charlotte","L-6",2025-08-19,10:38:00,"2","EST","Cha-L-6-2"
+"Charlotte","L-6",2025-08-19,10:38:00,"3","EST","Cha-L-6-3"
+"Charlotte","LC-1",2025-06-12,09:10:00,"1","EST","Cha-LC-1-1"
+"Charlotte","LC-2",2025-06-12,09:22:00,"1","EST","Cha-LC-2-1"
+"Charlotte","LC-3",2025-06-12,09:32:00,"1","EST","Cha-LC-3-1"
+"Charlotte","LC-3",2025-07-22,09:35:00,"1","EST","Cha-LC-3-1"
+"Charlotte","Oakland Hills End",2025-07-09,14:00:00,"2","EST","Cha-OaklH-Ed-2"
+"Charlotte","Oakland Hills End",2025-07-09,14:05:00,"3","EST","Cha-OaklH-Ed-3"
+"Charlotte","Oakland Hills End",2025-08-25,09:32:00,"1","EST","Cha-OaklH-Ed-1"
+"Charlotte","Oakland Hills End",2025-08-25,09:38:00,"2","EST","Cha-OaklH-Ed-2"
+"Charlotte","Oakland Hills End",2025-08-25,09:41:59,"3","EST","Cha-OaklH-Ed-3"
+"Charlotte","WF-1",2025-06-10,09:34:00,"1","EST","Cha-WF-1-1"
+"Charlotte","WF-1",2025-06-10,09:39:00,"2","EST","Cha-WF-1-2"
+"Charlotte","WF-2",2025-06-10,09:50:00,"1","EST","Cha-WF-2-1"
+"Charlotte","WF-2",2025-06-10,09:54:00,"2","EST","Cha-WF-2-2"
+"Charlotte","WF-2",2025-06-10,09:58:00,"3","EST","Cha-WF-2-3"
+"Charlotte","WF-3",2025-06-10,10:24:59,"1","EST","Cha-WF-3-1"
+"Charlotte","WF-3",2025-06-10,10:32:00,"2","EST","Cha-WF-3-2"
+"Charlotte","WF-3",2025-06-10,10:35:00,"3","EST","Cha-WF-3-3"
+"Charlotte","WF-4",2025-06-10,10:11:00,"1","EST","Cha-WF-4-1"
+"Charlotte","WF-4",2025-06-10,10:14:00,"2","EST","Cha-WF-4-2"
+"Charlotte","WF-5",2025-06-10,09:00:00,"1","EST","Cha-WF-5-1"
+"Charlotte","WF-5",2025-06-10,09:05:00,"2","EST","Cha-WF-5-2"
+"Charlotte","WF-6",2025-06-10,09:20:00,"1","EST","Cha-WF-6-1"
+"Charlotte","WF-6",2025-06-10,09:23:00,"2","EST","Cha-WF-6-2"
+"Charlotte","WF-1",2025-08-19,10:30:00,"1","EST","Cha-WF-1-1"
+"Charlotte","WF-1",2025-08-19,10:35:00,"2","EST","Cha-WF-1-2"
+"Charlotte","WF-2",2025-08-19,10:08:00,"1","EST","Cha-WF-2-1"
+"Charlotte","WF-2",2025-08-19,10:14:00,"2","EST","Cha-WF-2-2"
+"Charlotte","WF-2",2025-08-19,10:17:00,"3","EST","Cha-WF-2-3"
+"Charlotte","WF-3",2025-08-19,09:44:00,"1","EST","Cha-WF-3-1"
+"Charlotte","WF-3",2025-08-19,09:49:00,"2","EST","Cha-WF-3-2"
+"Charlotte","WF-3",2025-08-19,09:54:00,"3","EST","Cha-WF-3-3"
+"Charlotte","WF-4",2025-08-19,09:27:59,"1","EST","Cha-WF-4-1"
+"Charlotte","WF-4",2025-08-19,09:34:00,"2","EST","Cha-WF-4-2"
+"Charlotte","WF-6",2025-08-19,10:47:00,"1","EST","Cha-WF-6-1"
+"Charlotte","WF-6",2025-08-19,10:54:00,"2","EST","Cha-WF-6-2"
+"Charlotte","WF-5",2025-08-19,09:11:00,"1","EST","Cha-WF-5-1"
+"Charlotte","WF-5",2025-08-19,09:16:00,"2","EST","Cha-WF-5-2"
+"Lee","Harborage East",2025-07-28,10:59:59,"2","EST","Lee-HarboragE-2"
+"Lee","Harborage East",2025-07-28,11:09:59,"3","EST","Lee-HarboragE-3"
+"Lee","Harborage East",2025-08-31,12:00:00,"1","EST","Lee-HarboragE-1"
+"Lee","Harborage East",2025-08-31,12:10:00,"2","EST","Lee-HarboragE-2"
+"Lee","Harborage East",2025-08-31,12:19:59,"3","EST","Lee-HarboragE-3"
+"Lee","Harborage West",2025-07-28,11:30:00,"2","EST","Lee-HarboragW-2"
+"Lee","Harborage West",2025-07-28,10:40:00,"3","EST","Lee-HarboragW-3"
+"Lee","Harborage West",2025-08-31,12:30:00,"1","EST","Lee-HarboragW-1"
+"Lee","Harborage West",2025-08-31,12:40:00,"2","EST","Lee-HarboragW-2"
+"Lee","Harborage West",2025-08-31,11:50:00,"3","EST","Lee-HarboragW-3"
+"Sarasota","HO6",2025-04-15,08:09:59,"2","EST","Sar-HO6-2"
+"Sarasota","HO6",2025-04-15,08:20:00,"3","EST","Sar-HO6-3"
+"Sarasota","HO6",2025-05-20,08:09:59,"1","EST","Sar-HO6-1"
+"Sarasota","HO6",2025-05-20,08:21:00,"2","EST","Sar-HO6-2"
+"Sarasota","HO6",2025-05-20,08:30:00,"3","EST","Sar-HO6-3"
+"Sarasota","HO6",2025-06-17,08:09:59,"1","EST","Sar-HO6-1"
+"Sarasota","HO6",2025-06-17,08:20:00,"2","EST","Sar-HO6-2"
+"Sarasota","HO6",2025-06-17,08:24:59,"3","EST","Sar-HO6-3"
+"Sarasota","HO6",2025-07-15,08:15:00,"2","EST","Sar-HO6-2"
+"Sarasota","HO6",2025-07-15,08:20:00,"3","EST","Sar-HO6-3"
+"Sarasota","Lake 37",2025-04-04,11:05:00,"2","EST","Sar-Lake-37-2"
+"Sarasota","Lake 37",2025-04-04,11:15:00,"3","EST","Sar-Lake-37-3"
+"Sarasota","Lake 37",2025-05-02,11:30:00,"1","EST","Sar-Lake-37-1"
+"Sarasota","Lake 37",2025-05-02,11:35:00,"2","EST","Sar-Lake-37-2"
+"Sarasota","Lake 37",2025-05-02,11:40:00,"3","EST","Sar-Lake-37-3"
+"Sarasota","Lake 37",2025-06-06,11:30:00,"1","EST","Sar-Lake-37-1"
+"Sarasota","Lake 37",2025-06-06,11:35:00,"2","EST","Sar-Lake-37-2"
+"Sarasota","Lake 37",2025-06-06,11:40:00,"3","EST","Sar-Lake-37-3"
+"Sarasota","Lake 37",2025-07-17,14:15:00,"2","EST","Sar-Lake-37-2"
+"Sarasota","Lake 37",2025-07-17,14:20:00,"3","EST","Sar-Lake-37-3"
+"Sarasota","Lake G-20",2025-04-04,10:14:59,"2","EST","Sar-Lake-G-20-2"
+"Sarasota","Lake G-20",2025-04-04,10:20:00,"3","EST","Sar-Lake-G-20-3"
+"Sarasota","Lake M-9",2025-04-04,11:50:00,"2","EST","Sar-Lake-M-9-2"
+"Sarasota","Lake M-9",2025-04-04,11:54:59,"3","EST","Sar-Lake-M-9-3"
+"Sarasota","Lake M-9",2025-07-17,15:10:00,"2","EST","Sar-Lake-M-9-2"
+"Sarasota","Lake M-9",2025-07-17,15:14:59,"3","EST","Sar-Lake-M-9-3"
+"Sarasota","Lower Myakka",2025-04-30,11:01:00,"2","EST","Sar-LowerMya-2"
+"Sarasota","Lower Myakka",2025-04-30,11:15:00,"3","EST","Sar-LowerMya-3"
+"Sarasota","Lower Myakka",2025-08-06,10:30:00,"1","EST","Sar-LowerMya-1"
+"Sarasota","Lower Myakka",2025-08-06,11:09:59,"2","EST","Sar-LowerMya-2"
+"Sarasota","Lower Myakka",2025-08-06,11:30:00,"3","EST","Sar-LowerMya-3"
+"Sarasota","Pelican Cove-1",2025-08-27,16:10:00,"1","EST","Sar-Pelican-Cove-1-1"
+"Sarasota","Pelican Cove-2",2025-08-27,16:20:00,"1","EST","Sar-Pelican-Cove-2-1"
+"Sarasota","Pelican Cove-3",2025-08-27,16:30:00,"1","EST","Sar-Pelican-Cove-3-1"
+"Sarasota","Pinebrook South",2025-08-20,09:10:00,"1","EST","Sar-PinebrookS-1"
+"Sarasota","Pinebrook South",2025-08-20,10:30:00,"2","EST","Sar-PinebrookS-2"
+"Sarasota","Pinebrook South",2025-08-20,10:45:00,"3","EST","Sar-PinebrookS-3"
+"Sarasota","Upper Myakka",2025-07-01,09:58:00,"2","EST",
+"Sarasota","Upper Myakka",2025-07-01,09:58:00,"2","EST","Sar-UpperMya-2"
+"Sarasota","Upper Myakka",2025-07-01,10:14:00,"3","EST",
+"Sarasota","Upper Myakka",2025-07-01,10:14:00,"3","EST","Sar-UpperMya-3"
+"Sarasota","Upper Myakka",2025-07-28,09:20:00,"2","EST",
+"Sarasota","Upper Myakka",2025-07-28,09:20:00,"2","EST","Sar-UpperMya-2"
+"Sarasota","Upper Myakka",2025-07-28,09:41:59,"3","EST",
+"Sarasota","Upper Myakka",2025-07-28,09:41:59,"3","EST","Sar-UpperMya-3"
+"Alachua","Blues Creek-1",2025-07-17,,"1","EST","Ala-BluesC-1-1"
+"Alachua","Turkey Creek-1",2025-07-15,,"1","EST","Ala-TurkeyC-1-1"
+"Alachua","Alto",2025-06-19,10:20:00,"1","EST",
+"Alachua","Alto",2025-06-19,10:20:00,"1","EST","Ala-Alto-1"
+"Alachua","Alto",2025-06-19,10:20:00,"1","EST",
+"Alachua","Alto",2025-06-19,10:35:00,"2","EST",
+"Alachua","Alto",2025-06-19,10:35:00,"2","EST","Ala-Alto-2"
+"Alachua","Alto",2025-06-19,10:35:00,"2","EST",
+"Alachua","Alto",2025-06-19,10:55:00,"3","EST",
+"Alachua","Alto",2025-06-19,10:55:00,"3","EST","Ala-Alto-3"
+"Alachua","Alto",2025-06-19,10:55:00,"3","EST",
+"Alachua","Alto",2025-08-21,10:05:00,"1","EST",
+"Alachua","Alto",2025-08-21,10:05:00,"1","EST","Ala-Alto-1"
+"Alachua","Alto",2025-08-21,10:05:00,"1","EST",
+"Alachua","Alto",2025-08-21,10:24:59,"2","EST",
+"Alachua","Alto",2025-08-21,10:24:59,"2","EST","Ala-Alto-2"
+"Alachua","Alto",2025-08-21,10:24:59,"2","EST",
+"Alachua","Alto",2025-08-21,10:35:00,"3","EST",
+"Alachua","Alto",2025-08-21,10:35:00,"3","EST","Ala-Alto-3"
+"Alachua","Alto",2025-08-21,10:35:00,"3","EST",
+"Alachua","Elizabeth",2025-07-30,08:28:00,"2","EST","Ala-Elizabeth-2"
+"Alachua","Elizabeth",2025-07-30,08:38:00,"3","EST","Ala-Elizabeth-3"
+"Alachua","Elizabeth",2025-08-30,09:13:00,"1","EST","Ala-Elizabeth-1"
+"Alachua","Elizabeth",2025-08-30,09:23:00,"2","EST","Ala-Elizabeth-2"
+"Alachua","Elizabeth",2025-08-30,09:32:59,"3","EST","Ala-Elizabeth-3"
+"Alachua","Jeffords",2025-08-25,10:00:00,"1","EST","Ala-Jeffords-1"
+"Alachua","Jeffords",2025-08-25,10:00:00,"2","EST","Ala-Jeffords-2"
+"Alachua","Jeffords",2025-08-25,10:00:00,"3","EST","Ala-Jeffords-3"
+"Flagler","Cheyenne Cove",2025-08-22,11:42:00,"1","EST","Fla-CheyC-1"
+"Flagler","Cheyenne Cove",2025-08-22,11:47:00,"2","EST","Fla-CheyC-2"
+"Flagler","Cheyenne Cove",2025-08-22,11:52:00,"3","EST","Fla-CheyC-3"
+"Putnam","Camp Branch-1",2025-05-21,14:15:00,"1","EST","Put-CampBR-1"
+"Putnam","Camp Branch-2",2025-05-21,13:35:00,"1","EST","Put-CampBR-2"
+"Putnam","Camp Branch-3",2025-05-21,11:44:59,"1","EST","Put-CampBR-3"
+"Putnam","Camp Branch-4",2025-05-21,10:45:00,"1","EST","Put-CampBR-4"
+"Putnam","Riley",2025-08-18,09:43:00,"1","EST",
+"Putnam","Riley",2025-08-18,09:43:00,"1","EST","Put-Riley-1"
+"Putnam","Riley",2025-08-18,09:36:00,"2","EST",
+"Putnam","Riley",2025-08-18,09:36:00,"2","EST","Put-Riley-2"
+"Putnam","Riley",2025-08-18,09:29:59,"3","EST",
+"Putnam","Riley",2025-08-18,09:29:59,"3","EST","Put-Riley-3"
+"Putnam","Star",2025-08-21,09:10:00,"1","EST",
+"Putnam","Star",2025-08-21,09:10:00,"1","EST","Put-Star-1"
+"Putnam","Star",2025-08-21,08:59:00,"2","EST","Put-Star-2"
+"Putnam","Star",2025-08-21,09:02:59,"3","EST",
+"Putnam","Star",2025-08-21,09:02:59,"3","EST","Put-Star-3"
+"Volusia","North Talmadge",2025-08-10,09:27:59,"1","EST","Vol-NorthTal-1"
+"Volusia","North Talmadge",2025-08-10,09:22:00,"2","EST","Vol-NorthTal-2"
+"Volusia","North Talmadge",2025-08-10,09:15:00,"3","EST","Vol-NorthTal-3"
+"Citrus","Henderson",2025-09-13,11:56:59,"1","EST","Cit-Henderson-1"
+"Citrus","Henderson",2025-09-13,12:07:00,"2","EST","Cit-Henderson-2"
+"Citrus","Henderson",2025-09-13,,"3","EST","Cit-Henderson-3"
+"Citrus","Tsala Apopka",2025-08-30,18:04:00,"1","EST","Cit-TsalaApo-1"
+"Citrus","Tsala Apopka",2025-08-30,18:20:00,"2","EST","Cit-TsalaApo-2"
+"Citrus","Tsala Apopka",2025-08-30,18:37:00,"3","EST","Cit-TsalaApo-3"
+"Clay","Lily",2025-06-26,11:50:00,"1","EST","Cla-Lily-1"
+"Clay","Lily",2025-06-26,11:50:00,"1","EST",
+"Clay","Lily",2025-06-26,11:09:59,"2","EST","Cla-Lily-2"
+"Clay","Lily",2025-06-26,11:09:59,"2","EST",
+"Clay","Lily",2025-06-26,11:05:00,"3","EST","Cla-Lily-3"
+"Clay","Lily",2025-06-26,11:05:00,"3","EST",
+"Clay","Lily",2025-07-30,17:44:59,"2","EST","Cla-Lily-2"
+"Clay","Lily",2025-07-30,17:44:59,"2","EST",
+"Clay","Lily",2025-07-30,17:34:59,"3","EST","Cla-Lily-3"
+"Clay","Lily",2025-07-30,17:34:59,"3","EST",
+"Sarasota","Cormorant",2024-12-16,14:55:00,"2","EST","Sar-Cormorant-2"
+"Sarasota","Cormorant",2025-05-06,13:50:59,"2","EST","Sar-Cormorant-2"
+"Sarasota","Cormorant",2025-07-14,10:59:59,"2","EST","Sar-Cormorant-2"
+"Sarasota","Cormorant",2025-08-20,10:14:59,"2","EST","Sar-Cormorant-2"
+"Sarasota","Egret",2024-12-16,14:39:00,"2","EST","Sar-Egret-2"
+"Sarasota","Egret",2025-05-06,13:38:00,"2","EST","Sar-Egret-2"
+"Sarasota","Egret",2025-07-14,10:14:59,"2","EST","Sar-Egret-2"
+"Sarasota","Egret",2025-08-20,10:00:00,"2","EST","Sar-Egret-2"
+"Sarasota","Heron",2024-12-16,14:26:00,"2","EST","Sar-Heron-2"
+"Sarasota","Heron",2025-05-06,13:23:00,"2","EST","Sar-Heron-2"
+"Sarasota","Heron",2025-07-14,10:00:00,"2","EST","Sar-Heron-2"
+"Sarasota","Heron",2025-08-20,09:45:00,"2","EST","Sar-Heron-2"
+"Sarasota","HO6",2025-08-28,08:09:59,"1","EST","Sar-HO6-1"
+"Sarasota","HO6",2025-08-28,08:20:00,"2","EST","Sar-HO6-2"
+"Sarasota","HO6",2025-08-28,08:27:00,"3","EST","Sar-HO6-3"
+"Sarasota","Knight",2025-06-17,10:14:59,"1","EST","Sar-Knight-1"
+"Sarasota","Lake 3",2025-06-17,10:24:59,"1","EST","Sar-3-1"
+"Sarasota","Awesome",2025-06-17,10:48:00,"1","EST","Sar-Awesome-1"
+"Sarasota","Lake 3",2025-07-19,11:50:00,"1","EST","Sar-3-1"
+"Sarasota","Knight",2025-08-18,10:50:59,"1","EST","Sar-Knight-1"
+"Sarasota","Lake 3",2025-08-18,11:02:59,"1","EST","Sar-3-1"
+"Sarasota","Awesome",2025-08-18,11:46:00,"1","EST","Sar-Awesome-1"
+"Sarasota","Lake G-20",2025-05-02,10:59:59,"1","EST","Sar-Lake-G-20-1"
+"Sarasota","Lake G-20",2025-05-02,11:05:00,"2","EST","Sar-Lake-G-20-2"
+"Sarasota","Lake G-20",2025-05-02,11:09:59,"3","EST","Sar-Lake-G-20-3"
+"Sarasota","Lake G-20",2025-06-06,10:59:59,"1","EST","Sar-Lake-G-20-1"
+"Sarasota","Lake G-20",2025-06-06,11:15:00,"2","EST","Sar-Lake-G-20-2"
+"Sarasota","Lake G-20",2025-06-06,11:20:00,"3","EST","Sar-Lake-G-20-3"
+"Sarasota","Lake G-20",2025-07-17,13:10:00,"2","EST","Sar-Lake-G-20-2"
+"Sarasota","Lake G-20",2025-07-17,13:15:00,"3","EST","Sar-Lake-G-20-3"
+"Sarasota","Lake M-9",2025-05-02,12:00:00,"1","EST","Sar-Lake-M-9-1"
+"Sarasota","Lake M-9",2025-05-02,12:10:00,"2","EST","Sar-Lake-M-9-2"
+"Sarasota","Lake M-9",2025-05-02,12:14:59,"3","EST","Sar-Lake-M-9-3"
+"Sarasota","Lake M-9",2025-06-06,12:00:00,"1","EST","Sar-Lake-M-9-1"
+"Sarasota","Lake M-9",2025-06-06,12:10:00,"2","EST","Sar-Lake-M-9-2"
+"Sarasota","Lake M-9",2025-06-06,12:14:59,"3","EST","Sar-Lake-M-9-3"
+"Sarasota","Pelican Cove-1",2025-06-25,09:45:00,"1","EST","Sar-Pelican-Cove-1-1"
+"Sarasota","Pelican Cove-2",2025-06-25,09:58:00,"1","EST","Sar-Pelican-Cove-2-1"
+"Sarasota","Pelican Cove-3",2025-06-25,10:12:00,"1","EST","Sar-Pelican-Cove-3-1"
+"Sarasota","Pinebrook South",2025-07-16,09:29:59,"2","EST","Sar-PinebrookS-2"
+"Sarasota","Pinebrook South",2025-07-16,09:50:00,"3","EST","Sar-PinebrookS-3"
+"Sarasota","Upper Myakka",2025-09-05,09:35:00,"1","EST",
+"Sarasota","Upper Myakka",2025-09-05,09:35:00,"1","EST","Sar-UpperMya-1"
+"Sarasota","Upper Myakka",2025-09-05,09:56:00,"2","EST",
+"Sarasota","Upper Myakka",2025-09-05,09:56:00,"2","EST","Sar-UpperMya-2"
+"Sarasota","Upper Myakka",2025-09-05,10:14:00,"3","EST",
+"Sarasota","Upper Myakka",2025-09-05,10:14:00,"3","EST","Sar-UpperMya-3"
+"Gulf","St. Joseph Bay-1",2025-05-07,11:40:00,"1","EST","Gul-St-phBay-1"
+"Gulf","St. Joseph Bay-2",2025-05-07,11:53:00,"1","EST","Gul-St-phBay-2"
+"Gulf","St. Joseph Bay-3",2025-05-07,11:15:00,"1","EST","Gul-St-phBay-3"
+"Gulf","St. Joseph Bay-4",2025-05-07,11:42:59,"1","EST","Gul-St-phBay-4"
+"Gulf","St. Joseph Bay-5",2025-05-07,10:53:00,"1","EST","Gul-St-phBay-5"
+"Gulf","St. Joseph Bay-6",2025-05-07,12:40:00,"1","EST","Gul-St-phBay-6"
+"Gulf","St. Joseph Bay-7",2025-05-07,12:26:00,"1","EST","Gul-St-phBay-7"
+"Gulf","St. Joseph Bay-8",2025-05-07,10:28:00,"1","EST","Gul-St-phBay-8"
+"Gulf","St. Joseph Bay-9",2025-05-07,10:59:59,"1","EST","Gul-St-phBay-9"
+"Gulf","St. Joseph Bay-1",2025-06-20,11:54:59,"1","EST","Gul-St-phBay-1"
+"Gulf","St. Joseph Bay-2",2025-06-20,11:44:00,"1","EST","Gul-St-phBay-2"
+"Gulf","St. Joseph Bay-3",2025-06-20,12:05:00,"1","EST","Gul-St-phBay-3"
+"Gulf","St. Joseph Bay-4",2025-06-20,12:31:00,"1","EST","Gul-St-phBay-4"
+"Gulf","St. Joseph Bay-5",2025-06-20,12:23:00,"1","EST","Gul-St-phBay-5"
+"Gulf","St. Joseph Bay-6",2025-06-20,11:25:00,"1","EST","Gul-St-phBay-6"
+"Gulf","St. Joseph Bay-7",2025-06-20,11:35:00,"1","EST","Gul-St-phBay-7"
+"Gulf","St. Joseph Bay-8",2025-06-20,11:15:00,"1","EST","Gul-St-phBay-8"
+"Gulf","St. Joseph Bay-9",2025-06-20,12:16:00,"1","EST","Gul-St-phBay-9"
+"Hillsborough","Calm",2025-08-27,10:23:00,"1","EST","Hil-Calm-1"
+"Hillsborough","Calm",2025-08-27,10:32:59,"2","EST","Hil-Calm-2"
+"Hillsborough","Calm",2025-08-27,10:40:00,"3","EST","Hil-Calm-3"
+"Hillsborough","Dosson",2025-08-04,13:08:00,"1","EST","Hil-Dosson-1"
+"Hillsborough","Dosson",2025-08-04,13:12:00,"2","EST","Hil-Dosson-2"
+"Hillsborough","Dosson",2025-08-04,13:16:00,"3","EST","Hil-Dosson-3"
+"Hillsborough","Elizabeth",2025-07-03,10:55:00,"2","EST","Hil-Elizabeth-2"
+"Hillsborough","Elizabeth",2025-07-03,11:05:00,"3","EST","Hil-Elizabeth-3"
+"Hillsborough","James",2025-08-27,13:15:00,"1","EST","Hil-James-1"
+"Hillsborough","James",2025-08-27,13:25:00,"2","EST","Hil-James-2"
+"Hillsborough","James",2025-08-27,13:30:00,"3","EST","Hil-James-3"
+"Hillsborough","Osceola",2025-07-30,09:15:00,"2","EST","Hil-Osceola-2"
+"Hillsborough","Osceola",2025-07-30,09:15:00,"2","EST",
+"Hillsborough","Osceola",2025-07-30,09:29:59,"3","EST","Hil-Osceola-3"
+"Hillsborough","Osceola",2025-07-30,09:29:59,"3","EST",
+"Seminole","Concord",2025-08-04,13:25:00,"1","EST","Sem-Concord-1"
+"Seminole","Concord",2025-08-04,13:15:00,"2","EST","Sem-Concord-2"
+"Seminole","Concord",2025-08-04,13:20:00,"3","EST","Sem-Concord-3"
+"Seminole","Quail Pond",2025-08-04,11:44:59,"1","EST","Sem-QuailP-1"
+"Seminole","Quail Pond",2025-08-04,11:50:00,"2","EST","Sem-QuailP-2"
+"Seminole","Quail Pond",2025-08-04,11:54:59,"3","EST","Sem-QuailP-3"
+"Seminole","Secret",2025-08-04,16:25:00,"1","EST","Sem-Secret-1"
+"Seminole","Secret",2025-08-04,16:20:00,"2","EST","Sem-Secret-2"
+"Seminole","Secret",2025-08-04,16:15:00,"3","EST","Sem-Secret-3"
+"Seminole","Triplet North",2025-02-04,10:20:00,"1","EST","Sem-TripletN-1"
+"Seminole","Triplet North",2025-02-04,10:30:00,"2","EST","Sem-TripletN-2"
+"Seminole","Triplet North",2025-02-04,10:14:59,"3","EST","Sem-TripletN-3"
+"Seminole","Triplet Middle",2025-08-04,12:19:59,"1","EST","Sem-TripletM-1"
+"Seminole","Triplet Middle",2025-08-04,12:14:59,"2","EST","Sem-TripletM-2"
+"Seminole","Triplet Middle",2025-08-04,12:10:00,"3","EST","Sem-TripletM-3"
+"Seminole","Triplet North",2025-08-04,12:35:00,"1","EST","Sem-TripletN-1"
+"Seminole","Triplet North",2025-08-04,12:40:00,"2","EST","Sem-TripletN-2"
+"Seminole","Triplet North",2025-08-04,12:25:00,"3","EST","Sem-TripletN-3"
+"Seminole","Triplet South",2025-08-04,11:40:00,"1","EST","Sem-TripletS-1"
+"Seminole","Triplet South",2025-08-04,11:50:00,"2","EST","Sem-TripletS-2"
+"Seminole","Triplet South",2025-08-04,12:00:00,"3","EST","Sem-TripletS-3"
+"Alachua","Little Santa Fe",2025-09-23,14:05:00,"1","EST",
+"Alachua","Little Santa Fe",2025-09-23,14:05:00,"1","EST",
+"Alachua","Little Santa Fe",2025-09-23,14:05:00,"1","EST","Ala-LittleSa-1"
+"Alachua","Little Santa Fe",2025-09-23,14:05:00,"1","EST",
+"Alachua","Little Santa Fe",2025-09-23,14:17:00,"3","EST",
+"Alachua","Little Santa Fe",2025-09-23,14:17:00,"3","EST",
+"Alachua","Little Santa Fe",2025-09-23,14:17:00,"3","EST","Ala-LittleSa-3"
+"Alachua","Little Santa Fe",2025-09-23,14:17:00,"3","EST",
+"Alachua","Melrose Bay",2025-09-23,12:57:00,"1","EST",
+"Alachua","Melrose Bay",2025-09-23,12:57:00,"1","EST",
+"Alachua","Melrose Bay",2025-09-23,12:57:00,"1","EST","Ala-MelroseB-1"
+"Alachua","Melrose Bay",2025-09-23,12:49:00,"3","EST",
+"Alachua","Melrose Bay",2025-09-23,12:49:00,"3","EST",
+"Alachua","Melrose Bay",2025-09-23,12:49:00,"3","EST","Ala-MelroseB-3"
+"Alachua","Santa Fe",2025-09-23,13:56:00,"1","EST",
+"Alachua","Santa Fe",2025-09-23,13:56:00,"1","EST",
+"Alachua","Santa Fe",2025-09-23,13:56:00,"1","EST",
+"Alachua","Santa Fe",2025-09-23,13:56:00,"1","EST",
+"Alachua","Santa Fe",2025-09-23,13:56:00,"1","EST","Ala-SantaFe-1"
+"Alachua","Santa Fe",2025-09-23,13:37:00,"3","EST",
+"Alachua","Santa Fe",2025-09-23,13:37:00,"3","EST",
+"Alachua","Santa Fe",2025-09-23,13:37:00,"3","EST",
+"Alachua","Santa Fe",2025-09-23,13:37:00,"3","EST",
+"Alachua","Santa Fe",2025-09-23,13:37:00,"3","EST","Ala-SantaFe-3"
+"Alachua","Alto",2025-07-20,11:04:00,"2","EST",
+"Alachua","Alto",2025-07-20,11:04:00,"2","EST","Ala-Alto-2"
+"Alachua","Alto",2025-07-20,11:04:00,"2","EST",
+"Alachua","Alto",2025-07-20,11:14:00,"3","EST",
+"Alachua","Alto",2025-07-20,11:14:00,"3","EST","Ala-Alto-3"
+"Alachua","Alto",2025-07-20,11:14:00,"3","EST",
+"Alachua","Blues Creek-1",2025-06-10,09:29:59,"1","EST","Ala-BluesC-1-1"
+"Alachua","Blues Creek-2",2025-06-10,09:24:00,"1","EST","Ala-BluesC-2-1"
+"Alachua","Blues Creek-3",2025-06-10,09:49:00,"1","EST","Ala-BluesC-3-1"
+"Alachua","Cellon Creek-3",2025-06-10,13:15:00,"1","EST","Ala-CellonC-3-1"
+"Alachua","Cellon Creek-4",2025-06-10,14:23:00,"1","EST","Ala-CellonC-4-1"
+"Alachua","Cellon Creek-1",2025-08-11,11:17:00,"1","EST","Ala-CellonC-1-1"
+"Alachua","Cellon Creek-2",2025-08-11,10:45:00,"1","EST","Ala-CellonC-2-1"
+"Alachua","Cellon Creek-3",2025-08-11,10:57:00,"1","EST","Ala-CellonC-3-1"
+"Alachua","Cellon Creek-4",2025-08-11,12:52:00,"1","EST","Ala-CellonC-4-1"
+"Alachua","Lochloosa",2025-06-25,10:36:00,"1","EST",
+"Alachua","Lochloosa",2025-06-25,10:36:00,"1","EST","Ala-Lochloosa-1"
+"Alachua","Lochloosa",2025-06-25,10:36:00,"1","EST",
+"Alachua","Lochloosa",2025-06-25,10:31:00,"2","EST",
+"Alachua","Lochloosa",2025-06-25,10:31:00,"2","EST","Ala-Lochloosa-2"
+"Alachua","Lochloosa",2025-06-25,10:31:00,"2","EST",
+"Alachua","Lochloosa",2025-06-25,10:23:00,"3","EST",
+"Alachua","Lochloosa",2025-06-25,10:23:00,"3","EST","Ala-Lochloosa-3"
+"Alachua","Lochloosa",2025-06-25,10:23:00,"3","EST",
+"Alachua","Lochloosa",2025-06-25,10:16:00,"4","EST","Ala-Lochloosa-4"
+"Alachua","Lochloosa",2025-06-25,10:16:00,"4","EST",
+"Alachua","Newnan",2025-06-25,12:14:59,"1","EST","Ala-Newnan-1"
+"Alachua","Newnan",2025-06-25,12:14:59,"1","EST",
+"Alachua","Newnan",2025-06-25,12:14:59,"1","EST",
+"Alachua","Newnan",2025-06-25,12:19:59,"2","EST","Ala-Newnan-2"
+"Alachua","Newnan",2025-06-25,12:19:59,"2","EST",
+"Alachua","Newnan",2025-06-25,12:19:59,"2","EST",
+"Alachua","Newnan",2025-06-25,12:24:00,"3","EST","Ala-Newnan-3"
+"Alachua","Newnan",2025-06-25,12:24:00,"3","EST",
+"Alachua","Newnan",2025-06-25,12:24:00,"3","EST",
+"Alachua","Orange",2025-06-25,08:49:00,"1","EST","Ala-Orange-1"
+"Alachua","Orange",2025-06-25,08:49:00,"1","EST",
+"Alachua","Orange",2025-06-25,08:49:00,"1","EST",
+"Alachua","Orange",2025-06-25,09:11:00,"2","EST","Ala-Orange-2"
+"Alachua","Orange",2025-06-25,09:11:00,"2","EST",
+"Alachua","Orange",2025-06-25,09:11:00,"2","EST",
+"Alachua","Orange",2025-06-25,09:32:00,"3","EST","Ala-Orange-3"
+"Alachua","Orange",2025-06-25,09:32:00,"3","EST",
+"Alachua","Orange",2025-06-25,09:32:00,"3","EST",
+"Alachua","Orange",2025-06-25,09:24:00,"4","EST","Ala-Orange-4"
+"Alachua","Orange",2025-06-25,09:24:00,"4","EST",
+"Alachua","Turkey Creek-1",2025-08-11,09:59:00,"1","EST","Ala-TurkeyC-1-1"
+"Alachua","Turkey Creek-2",2025-08-11,09:39:59,"1","EST","Ala-TurkeyC-2-1"
+"Volusia","Lindley",2025-04-30,10:14:59,"2","EST","Vol-Lindley-2"
+"Volusia","Lindley",2025-04-30,10:20:00,"3","EST","Vol-Lindley-3"
+"Volusia","Lindley",2025-05-31,10:10:00,"1","EST","Vol-Lindley-1"
+"Volusia","Lindley",2025-05-31,10:20:00,"2","EST","Vol-Lindley-2"
+"Volusia","Lindley",2025-05-31,10:30:00,"3","EST","Vol-Lindley-3"
+"Volusia","Mud",2025-02-12,15:05:00,"1","EST","Vol-Mud-1"
+"Volusia","Mud",2025-02-12,15:10:00,"2","EST","Vol-Mud-2"
+"Volusia","Mud",2025-02-12,15:14:59,"3","EST","Vol-Mud-3"
+"Volusia","Mud",2025-06-26,10:50:59,"1","EST","Vol-Mud-1"
+"Volusia","Mud",2025-06-26,10:55:00,"2","EST","Vol-Mud-2"
+"Volusia","Mud",2025-06-26,10:59:59,"3","EST","Vol-Mud-3"
+"Volusia","St. John's Jesup-1",2025-06-26,10:34:00,"1","EST","Vol-StJohns-Jesup-1-1"
+"Volusia","St. John's Lemon Bluff-2",2025-06-26,10:16:00,"1","EST","Vol-StJohns-LemB-2-1"
+"Volusia","St. John's Harney-3",2025-06-26,09:50:00,"1","EST","Vol-StJohns-Harney-3-1"
+"Volusia","Waterford",2025-04-14,14:29:00,"2","EST","Vol-Waterford-2"
+"Volusia","Waterford",2025-04-14,14:20:00,"3","EST","Vol-Waterford-3"
+"Volusia","Waterford",2025-06-12,10:09:00,"1","EST","Vol-Waterford-1"
+"Volusia","Waterford",2025-06-12,10:34:00,"2","EST","Vol-Waterford-2"
+"Volusia","Waterford",2025-06-12,10:23:00,"3","EST","Vol-Waterford-3"
+"Seminole","Bear",2025-04-27,13:37:00,"2","EST",
+"Seminole","Bear",2025-04-27,13:37:00,"2","EST",
+"Seminole","Bear",2025-04-27,13:37:00,"2","EST","Sem-Bear-2"
+"Seminole","Bear",2025-04-27,13:47:59,"3","EST",
+"Seminole","Bear",2025-04-27,13:47:59,"3","EST",
+"Seminole","Bear",2025-04-27,13:47:59,"3","EST","Sem-Bear-3"
+"Seminole","Bear",2025-04-27,13:14:00,"4","EST","Sem-Bear-4"
+"Seminole","Bear",2025-06-27,12:14:59,"1","EST",
+"Seminole","Bear",2025-06-27,12:14:59,"1","EST",
+"Seminole","Bear",2025-06-27,12:14:59,"1","EST","Sem-Bear-1"
+"Seminole","Bear",2025-06-27,12:23:00,"2","EST",
+"Seminole","Bear",2025-06-27,12:23:00,"2","EST",
+"Seminole","Bear",2025-06-27,12:23:00,"2","EST","Sem-Bear-2"
+"Seminole","Bear",2025-06-27,12:31:00,"3","EST",
+"Seminole","Bear",2025-06-27,12:31:00,"3","EST",
+"Seminole","Bear",2025-06-27,12:31:00,"3","EST","Sem-Bear-3"
+"Seminole","Bear",2025-06-27,12:01:00,"4","EST","Sem-Bear-4"
+"Seminole","Clear",2025-05-26,08:31:00,"1","EST","Sem-Clear-1"
+"Seminole","Clear",2025-05-26,08:40:00,"2","EST","Sem-Clear-2"
+"Seminole","Clear",2025-05-26,08:49:00,"3","EST","Sem-Clear-3"
+"Seminole","Crescent",2025-02-23,12:50:00,"1","EST","Sem-Crescent-1"
+"Seminole","Crescent",2025-02-23,13:03:59,"3","EST","Sem-Crescent-3"
+"Seminole","Crescent",2025-03-16,14:56:00,"1","EST","Sem-Crescent-1"
+"Seminole","Crescent",2025-03-16,15:01:00,"2","EST","Sem-Crescent-2"
+"Seminole","Crescent",2025-03-16,15:06:00,"3","EST","Sem-Crescent-3"
+"Seminole","Crescent",2025-05-04,14:57:00,"1","EST","Sem-Crescent-1"
+"Seminole","Crescent",2025-05-04,15:02:00,"2","EST","Sem-Crescent-2"
+"Seminole","Crescent",2025-05-04,15:07:00,"3","EST","Sem-Crescent-3"
+"Seminole","East",2025-05-14,10:43:00,"1","EST","Sem-East-1"
+"Seminole","East",2025-05-14,10:53:00,"2","EST","Sem-East-2"
+"Seminole","East",2025-05-14,11:02:00,"3","EST","Sem-East-3"
+"Seminole","East",2025-07-14,10:28:00,"2","EST","Sem-East-2"
+"Seminole","East",2025-07-14,10:35:00,"3","EST","Sem-East-3"
+"Seminole","Little Bear",2025-04-26,15:45:00,"2","EST","Sem-LittleBe-2"
+"Seminole","Little Bear",2025-04-26,15:59:59,"3","EST","Sem-LittleBe-3"
+"Seminole","Little Bear",2025-05-28,12:00:00,"1","EST","Sem-LittleBe-1"
+"Seminole","Little Bear",2025-05-28,12:14:59,"2","EST","Sem-LittleBe-2"
+"Seminole","Little Bear",2025-05-28,12:30:00,"3","EST","Sem-LittleBe-3"
+"Seminole","Monroe West",2025-04-20,11:26:00,"2","EST","Sem-MonroeWe-2"
+"Seminole","Monroe West",2025-04-20,11:17:00,"3","EST","Sem-MonroeWe-3"
+"Seminole","Monroe West",2025-05-23,17:05:00,"1","EST","Sem-MonroeWe-1"
+"Seminole","Monroe West",2025-05-23,17:27:00,"2","EST","Sem-MonroeWe-2"
+"Seminole","Monroe West",2025-05-23,17:36:59,"3","EST","Sem-MonroeWe-3"
+"Seminole","Monroe West",2025-06-14,15:14:00,"1","EST","Sem-MonroeWe-1"
+"Seminole","Monroe West",2025-06-14,15:05:00,"2","EST","Sem-MonroeWe-2"
+"Seminole","Monroe West",2025-06-14,15:00:00,"3","EST","Sem-MonroeWe-3"
+"Seminole","Queens Mirror",2025-05-15,10:00:00,"1","EST","Sem-QueensMi-1"
+"Seminole","Queens Mirror",2025-05-15,10:14:59,"2","EST","Sem-QueensMi-2"
+"Seminole","Queens Mirror",2025-05-15,10:20:00,"3","EST","Sem-QueensMi-3"
+"Seminole","Rock",2025-04-30,09:39:00,"2","EST","Sem-Rock-2"
+"Seminole","Rock",2025-04-30,09:44:00,"3","EST","Sem-Rock-3"
+"Seminole","Rock",2025-05-29,10:34:00,"1","EST","Sem-Rock-1"
+"Seminole","Rock",2025-05-29,10:44:00,"2","EST","Sem-Rock-2"
+"Seminole","Rock",2025-05-29,10:50:59,"3","EST","Sem-Rock-3"
+"Seminole","Secret",2025-07-02,12:05:00,"2","EST","Sem-Secret-2"
+"Seminole","Secret",2025-07-02,,"3","EST","Sem-Secret-3"
+"Seminole","Silver",2025-05-28,07:39:59,"1","EST","Sem-Silver-1"
+"Seminole","Silver",2025-05-28,07:35:00,"2","EST","Sem-Silver-2"
+"Seminole","Silver",2025-05-28,07:30:00,"3","EST","Sem-Silver-3"
+"Seminole","Triplet Middle",2025-04-29,16:30:00,"2","EST","Sem-TripletM-2"
+"Seminole","Triplet Middle",2025-04-29,16:40:00,"3","EST","Sem-TripletM-3"
+"Seminole","Triplet South",2025-04-30,10:00:00,"2","EST","Sem-TripletS-2"
+"Seminole","Triplet South",2025-04-30,10:05:00,"3","EST","Sem-TripletS-3"
+"Seminole","Wekiva",2025-04-09,10:20:00,"2","EST","Sem-Wekiva-2"
+"Seminole","Wekiva",2025-04-09,10:14:59,"3","EST","Sem-Wekiva-3"
+"Hernando","Mountain",2024-12-15,09:50:00,"1","EST",
+"Hernando","Mountain",2024-12-15,09:50:00,"1","EST","Her-Mountain-1"
+"Hernando","Mountain",2024-12-15,10:00:00,"2","EST",
+"Hernando","Mountain",2024-12-15,10:00:00,"2","EST","Her-Mountain-2"
+"Hernando","Mountain",2024-12-15,10:05:00,"3","EST",
+"Hernando","Mountain",2024-12-15,10:05:00,"3","EST","Her-Mountain-3"
+"Levy","Cedar Key-1",2025-06-30,17:52:00,"1","EST","Lev-CedarK-1-1"
+"Levy","Cedar Key-2",2025-06-30,16:59:00,"1","EST","Lev-CedarK-2-1"
+"Levy","Cedar Key-4",2025-06-30,16:35:00,"1","EST","Lev-CedarK-4-1"
+"Pasco","Bell",2025-07-27,13:44:59,"2","EST","Pas-Bell-2"
+"Pasco","Bell",2025-07-27,13:33:00,"3","EST","Pas-Bell-3"
+"Pasco","Bird",2025-07-31,17:35:59,"2","EST","Pas-Bird-2"
+"Pasco","Bird",2025-07-31,17:39:59,"3","EST","Pas-Bird-3"
+"Pasco","Buddy",2025-07-21,13:47:00,"2","EST","Pas-Buddy-2"
+"Pasco","Buddy",2025-07-21,13:54:00,"3","EST","Pas-Buddy-3"
+"Pasco","Conley",2025-07-06,,"1","EST","Pas-Conley-1"
+"Pasco","Conley",2025-07-06,11:35:00,"2","EST","Pas-Conley-2"
+"Pasco","Conley",2025-07-06,11:30:00,"3","EST","Pas-Conley-3"
+"Pasco","Jovita",2025-06-20,10:21:00,"1","EST","Pas-Jovita-1"
+"Pasco","Jovita",2025-06-20,10:30:00,"2","EST","Pas-Jovita-2"
+"Pasco","Jovita",2025-06-20,10:38:00,"3","EST","Pas-Jovita-3"
+"Pasco","Saxon North",2025-08-13,12:16:00,"1","EST","Pas-SaxonNor-1"
+"Pasco","Saxon North",2025-08-13,12:11:00,"2","EST","Pas-SaxonNor-2"
+"Pasco","Saxon North",2025-08-13,11:56:59,"3","EST","Pas-SaxonNor-3"
+"Pasco","Saxon South",2025-08-13,11:35:00,"1","EST","Pas-SaxonSou-1"
+"Pasco","Saxon South",2025-08-13,11:46:00,"2","EST","Pas-SaxonSou-2"
+"Pasco","Saxon South",2025-08-13,11:40:00,"3","EST","Pas-SaxonSou-3"
+"Pinellas","Hewitt",2025-05-31,17:29:59,"1","EST","Pin-Hewitt-1"
+"Pinellas","Hewitt",2025-05-31,17:20:00,"2","EST","Pin-Hewitt-2"
+"Pinellas","Hewitt",2025-05-31,17:18:00,"3","EST","Pin-Hewitt-3"
+"Bay","Beatty Bayou-1",2025-06-13,07:51:00,"1","CST","Bay-Beatty-Bayou-1"
+"Bay","Burnt Mill Lower",2025-06-12,09:13:00,"1","CST","Bay-Burnt M-1L"
+"Bay","Burnt Mill Upper",2025-06-12,09:27:59,"1","CST","Bay-Burnt M-1U"
+"Bay","Callaway Bayou-2",2025-06-23,,"1","CST","Bay-CallawayB-2"
+"Bay","Crooked Lower",2025-06-12,09:02:59,"1","CST","Bay-Crooked L-1"
+"Bay","Crooked Upper",2025-06-12,08:27:00,"1","CST","Bay-Crooked U-1"
+"Bay","Crooked Upper-2",2025-06-12,08:38:00,"1","CST","Bay-Crooked-Upper-2"
+"Bay","Deer Point",2025-05-27,11:26:00,"1","CST","Bay-DeerPoin-1"
+"Bay","Deer Point",2025-05-27,11:26:00,"1","CST",
+"Bay","Deer Point",2025-05-27,11:40:00,"2","CST","Bay-DeerPoin-2"
+"Bay","Deer Point",2025-05-27,11:40:00,"2","CST",
+"Bay","Deer Point",2025-05-27,11:54:00,"3","CST","Bay-DeerPoin-3"
+"Bay","Deer Point",2025-05-27,11:54:00,"3","CST",
+"Bay","Deer Point",2025-07-30,17:56:00,"2","CST","Bay-DeerPoin-2"
+"Bay","Deer Point",2025-07-30,17:56:00,"2","CST",
+"Bay","Deer Point",2025-07-30,17:48:59,"3","CST","Bay-DeerPoin-3"
+"Bay","Deer Point",2025-07-30,17:48:59,"3","CST",
+"Bay","East Bay-1",2025-06-23,08:18:00,"1","CST","Bay-Ea-stBay-1"
+"Bay","East Bay-2",2025-06-23,08:42:59,"1","CST","Bay-Ea-stBay-2"
+"Bay","East Bay-3",2025-06-23,10:05:59,"1","CST","Bay-Ea-stBay-3"
+"Bay","East Bay-4",2025-06-23,10:22:00,"1","CST","Bay-Ea-stBay-4"
+"Bay","East Bay-5",2025-06-23,10:42:00,"1","CST","Bay-Ea-stBay-5"
+"Bay","Fannin Bayou-1",2025-06-13,08:37:00,"1","CST","Bay-Fannin-Bayou-1"
+"Bay","Goose Bayou-1",2025-06-13,10:05:00,"1","CST","Bay-Goose-Bayou-1"
+"Bay","Johnson Bayou-1",2025-06-30,16:04:59,"1","CST","Bay-Johnson-Bayou-1"
+"Bay","Laird Bayou-1",2025-06-23,09:08:00,"1","CST","Bay-La-Bayou-1"
+"Bay","Laird Bayou-2",2025-06-23,09:22:00,"1","CST","Bay-La-Bayou-2"
+"Bay","Laird Bayou-3",2025-06-23,09:39:59,"1","CST","Bay-La-Bayou-3"
+"Bay","Lullwater",2025-05-29,10:36:00,"1","CST","Bay-Lullwater-1"
+"Bay","Lullwater",2025-05-29,10:28:00,"2","CST","Bay-Lullwater-2"
+"Bay","Lullwater",2025-05-29,10:14:59,"3","CST","Bay-Lullwater-3"
+"Bay","Marin",2025-05-21,09:10:00,"1","CST","Bay-Marin-1"
+"Bay","Marin",2025-05-21,09:29:59,"2","CST","Bay-Marin-2"
+"Bay","Marin",2025-05-21,09:39:59,"3","CST","Bay-Marin-3"
+"Bay","Marin",2025-06-11,09:02:59,"1","CST","Bay-Marin-1"
+"Bay","Marin",2025-06-11,09:15:00,"2","CST","Bay-Marin-2"
+"Bay","Marin",2025-06-11,09:25:00,"3","CST","Bay-Marin-3"
+"Bay","Marin",2025-07-16,08:54:59,"2","CST","Bay-Marin-2"
+"Bay","Marin",2025-07-16,09:10:00,"3","CST","Bay-Marin-3"
+"Bay","Martin-1",2025-05-29,10:30:00,"1","CST","Bay-Martin-1"
+"Bay","Martin-1",2025-06-30,16:35:00,"1","CST","Bay-Martin-1"
+"Bay","Mill Bayou-1",2025-06-13,08:01:00,"1","CST","Bay-Mill-Bayou-1"
+"Bay","North Bay-1",2025-06-13,08:09:59,"1","CST","Bay-No-thBay-1"
+"Bay","North Bay-2",2025-06-13,08:28:00,"1","CST","Bay-No-thBay-2"
+"Bay","North Bay-3",2025-06-13,08:54:00,"1","CST","Bay-No-thBay-3"
+"Bay","North Bay-4",2025-06-13,09:06:00,"1","CST","Bay-No-thBay-4"
+"Bay","Posten Bayou-1",2025-06-13,09:24:00,"1","CST","Bay-Posten-Bayou-1"
+"Bay","Powell",2025-06-18,10:01:00,"1","CST","Bay-Powell-1"
+"Bay","Powell",2025-06-18,10:19:00,"2","CST","Bay-Powell-2"
+"Bay","Powell",2025-06-18,10:37:00,"3","CST","Bay-Powell-3"
+"Bay","Powell",2025-06-18,10:26:59,"4","CST","Bay-Powell-4"
+"Bay","Powell",2025-06-18,09:02:59,"5","CST","Bay-Powell-5"
+"Bay","Powell",2025-06-18,10:10:00,"6","CST","Bay-Powell-6"
+"Bay","Powell Creek East-1",2025-06-18,09:23:00,"1","CST","Bay-Po-kEast-1"
+"Bay","Powell Creek East-2",2025-06-18,09:39:59,"1","CST","Bay-Po-kEast-2"
+"Bay","Pretty Bayou-1",2025-06-13,09:34:00,"1","CST","Bay-Pretty-Bayou-1"
+"Bay","Robinson Bayou-1",2025-06-13,09:47:00,"1","CST","Bay-Robinson-Bayou-1"
+"Bay","Upper Goose Bayou-1",2025-06-13,10:14:59,"1","CST","Bay-Upper-Goose-Bayou-1"
+"Bay","West Bay-5",2025-02-27,12:09:00,"1","CST","Bay-We-stBay-5"
+"Walton","CBA Destin-7",2025-02-05,,"1","CST","Wal-CB-Destin-7"
+"Walton","Eastern North",2025-03-04,10:38:00,"1","CST","Wal-ern North-1"
+"Walton","Grayton",2024-11-08,09:39:59,"3","CST","Wal-Grayton-3"
+"Alachua","Little Santa Fe",2025-08-26,12:59:59,"1","EST",
+"Alachua","Little Santa Fe",2025-08-26,12:59:59,"1","EST",
+"Alachua","Little Santa Fe",2025-08-26,12:59:59,"1","EST","Ala-LittleSa-1"
+"Alachua","Little Santa Fe",2025-08-26,12:59:59,"1","EST",
+"Alachua","Little Santa Fe",2025-08-26,13:11:00,"3","EST",
+"Alachua","Little Santa Fe",2025-08-26,13:11:00,"3","EST",
+"Alachua","Little Santa Fe",2025-08-26,13:11:00,"3","EST","Ala-LittleSa-3"
+"Alachua","Little Santa Fe",2025-08-26,13:11:00,"3","EST",
+"Alachua","Melrose Bay",2025-08-26,12:04:00,"1","EST",
+"Alachua","Melrose Bay",2025-08-26,12:04:00,"1","EST",
+"Alachua","Melrose Bay",2025-08-26,12:04:00,"1","EST","Ala-MelroseB-1"
+"Alachua","Melrose Bay",2025-08-26,11:56:59,"3","EST",
+"Alachua","Melrose Bay",2025-08-26,11:56:59,"3","EST",
+"Alachua","Melrose Bay",2025-08-26,11:56:59,"3","EST","Ala-MelroseB-3"
+"Alachua","Moss",2025-07-31,10:57:59,"2","EST","Ala-Moss-2"
+"Alachua","Moss",2025-07-31,10:50:00,"3","EST","Ala-Moss-3"
+"Alachua","Santa Fe",2025-08-26,12:50:00,"1","EST",
+"Alachua","Santa Fe",2025-08-26,12:50:00,"1","EST",
+"Alachua","Santa Fe",2025-08-26,12:50:00,"1","EST",
+"Alachua","Santa Fe",2025-08-26,12:50:00,"1","EST",
+"Alachua","Santa Fe",2025-08-26,12:50:00,"1","EST","Ala-SantaFe-1"
+"Alachua","Santa Fe",2025-08-26,12:38:00,"3","EST",
+"Alachua","Santa Fe",2025-08-26,12:38:00,"3","EST",
+"Alachua","Santa Fe",2025-08-26,12:38:00,"3","EST",
+"Alachua","Santa Fe",2025-08-26,12:38:00,"3","EST",
+"Alachua","Santa Fe",2025-08-26,12:38:00,"3","EST","Ala-SantaFe-3"
+"Alachua","Wauberg",2025-08-16,11:51:00,"1","EST","Ala-Wauberg-1"
+"Alachua","Wauberg",2025-08-16,11:51:00,"1","EST",
+"Alachua","Wauberg",2025-08-16,11:51:00,"1","EST",
+"Alachua","Wauberg",2025-08-16,11:56:59,"2","EST","Ala-Wauberg-2"
+"Alachua","Wauberg",2025-08-16,11:56:59,"2","EST",
+"Alachua","Wauberg",2025-08-16,11:56:59,"2","EST",
+"Alachua","Wauberg",2025-08-16,12:03:00,"3","EST","Ala-Wauberg-3"
+"Alachua","Wauberg",2025-08-16,12:03:00,"3","EST",
+"Alachua","Wauberg",2025-08-16,12:03:00,"3","EST",
+"Alachua","Alice",2025-07-30,11:44:59,"1","EST","Ala-Alice-1"
+"Alachua","Alice",2025-07-30,12:00:00,"2","EST","Ala-Alice-2"
+"Alachua","Alice",2025-07-30,12:10:00,"3","EST","Ala-Alice-3"
+"Alachua","Blues Creek-1",2025-08-11,13:47:59,"1","EST","Ala-BluesC-1-1"
+"Alachua","Blues Creek-2",2025-08-11,13:37:00,"1","EST","Ala-BluesC-2-1"
+"Alachua","Blues Creek-3",2025-08-11,13:28:00,"1","EST","Ala-BluesC-3-1"
+"Alachua","Elizabeth",2025-05-29,08:14:00,"1","EST","Ala-Elizabeth-1"
+"Alachua","Elizabeth",2025-05-29,08:24:59,"2","EST","Ala-Elizabeth-2"
+"Alachua","Elizabeth",2025-05-29,08:30:00,"3","EST","Ala-Elizabeth-3"
+"Alachua","Elizabeth",2025-06-29,07:50:00,"1","EST","Ala-Elizabeth-1"
+"Alachua","Elizabeth",2025-06-29,07:59:59,"2","EST","Ala-Elizabeth-2"
+"Alachua","Elizabeth",2025-06-29,08:06:00,"3","EST","Ala-Elizabeth-3"
+"Alachua","Little Orange",2025-07-31,11:44:59,"2","EST",
+"Alachua","Little Orange",2025-07-31,11:44:59,"2","EST","Ala-LittleOr-2"
+"Alachua","Little Orange",2025-07-31,11:53:00,"3","EST",
+"Alachua","Little Orange",2025-07-31,11:53:00,"3","EST","Ala-LittleOr-3"
+"Alachua","Holden Pond",2025-07-31,11:11:59,"1","EST","Ala-HoldenPo-1"
+"Alachua","Holden Pond",2025-07-31,11:14:00,"2","EST","Ala-HoldenPo-2"
+"Alachua","Holden Pond",2025-07-31,11:17:59,"3","EST","Ala-HoldenPo-3"
+"Alachua","Turkey Creek-1",2025-06-10,11:50:00,"1","EST","Ala-TurkeyC-1-1"
+"Alachua","Turkey Creek-2",2025-06-10,11:35:00,"1","EST","Ala-TurkeyC-2-1"
+"Clay","Asbury North",2024-12-30,11:09:59,"1","EST","Cla-AsburyNo-1"
+"Clay","Asbury North",2024-12-30,11:09:59,"1","EST",
+"Clay","Asbury North",2024-12-30,11:20:00,"2","EST","Cla-AsburyNo-2"
+"Clay","Asbury North",2024-12-30,11:20:00,"2","EST",
+"Clay","Asbury North",2024-12-30,11:30:00,"3","EST","Cla-AsburyNo-3"
+"Clay","Asbury North",2024-12-30,11:30:00,"3","EST",
+"Clay","Asbury North",2025-01-26,13:30:00,"2","EST","Cla-AsburyNo-2"
+"Clay","Asbury North",2025-01-26,13:30:00,"2","EST",
+"Clay","Asbury North",2025-01-26,13:40:00,"3","EST","Cla-AsburyNo-3"
+"Clay","Asbury North",2025-01-26,13:40:00,"3","EST",
+"Clay","Asbury North",2025-02-18,14:34:59,"1","EST","Cla-AsburyNo-1"
+"Clay","Asbury North",2025-02-18,14:34:59,"1","EST",
+"Clay","Asbury North",2025-02-18,14:40:00,"2","EST","Cla-AsburyNo-2"
+"Clay","Asbury North",2025-02-18,14:40:00,"2","EST",
+"Clay","Asbury North",2025-02-18,14:45:00,"3","EST","Cla-AsburyNo-3"
+"Clay","Asbury North",2025-02-18,14:45:00,"3","EST",
+"Clay","Asbury North",2025-03-27,15:40:00,"1","EST","Cla-AsburyNo-1"
+"Clay","Asbury North",2025-03-27,15:40:00,"1","EST",
+"Clay","Asbury North",2025-03-27,15:50:00,"2","EST","Cla-AsburyNo-2"
+"Clay","Asbury North",2025-03-27,15:50:00,"2","EST",
+"Clay","Asbury North",2025-03-27,15:59:59,"3","EST","Cla-AsburyNo-3"
+"Clay","Asbury North",2025-03-27,15:59:59,"3","EST",
+"Clay","Asbury North",2025-04-22,12:07:00,"2","EST","Cla-AsburyNo-2"
+"Clay","Asbury North",2025-04-22,12:07:00,"2","EST",
+"Clay","Asbury North",2025-04-22,12:14:59,"3","EST","Cla-AsburyNo-3"
+"Clay","Asbury North",2025-04-22,12:14:59,"3","EST",
+"Clay","Deer",2025-05-15,11:40:00,"1","EST","Cla-Deer-1"
+"Clay","Deer",2025-05-15,11:47:00,"2","EST","Cla-Deer-2"
+"Clay","Deer",2025-06-12,09:14:00,"1","EST","Cla-Deer-1"
+"Clay","Deer",2025-06-12,09:18:00,"2","EST","Cla-Deer-2"
+"Clay","Gold Head Branch-1",2025-05-15,12:35:00,"1","EST","Cla-GoldBranch1"
+"Clay","Gold Head Branch-2",2025-05-15,12:14:59,"1","EST","Cla-GoldBranch2"
+"Clay","Gold Head Branch-1",2025-06-12,09:57:00,"1","EST","Cla-GoldBranch1"
+"Clay","Gold Head Branch-2",2025-06-12,10:08:00,"1","EST","Cla-GoldBranch2"
+"Clay","Johnson",2025-05-15,09:25:00,"1","EST","Cla-Johnson-1"
+"Clay","Johnson",2025-05-15,09:32:59,"2","EST","Cla-Johnson-2"
+"Clay","Johnson",2025-05-15,09:41:59,"3","EST","Cla-Johnson-3"
+"Clay","Johnson",2025-06-12,11:22:00,"1","EST","Cla-Johnson-1"
+"Clay","Johnson",2025-06-12,11:26:00,"2","EST","Cla-Johnson-2"
+"Clay","Johnson",2025-06-12,11:31:00,"3","EST","Cla-Johnson-3"
+"Clay","Lily",2025-05-28,17:34:59,"1","EST","Cla-Lily-1"
+"Clay","Lily",2025-05-28,17:34:59,"1","EST",
+"Clay","Lily",2025-05-28,17:25:00,"2","EST","Cla-Lily-2"
+"Clay","Lily",2025-05-28,17:25:00,"2","EST",
+"Clay","Lily",2025-05-28,17:20:00,"3","EST","Cla-Lily-3"
+"Clay","Lily",2025-05-28,17:20:00,"3","EST",
+"Clay","Little Johnson",2025-05-15,13:18:00,"1","EST","Cla-LittleJo-1"
+"Clay","Little Johnson",2025-05-15,13:12:00,"2","EST","Cla-LittleJo-2"
+"Clay","Little Johnson",2025-05-15,13:05:59,"3","EST","Cla-LittleJo-3"
+"Clay","Little Johnson",2025-06-12,10:47:00,"1","EST","Cla-LittleJo-1"
+"Clay","Little Johnson",2025-06-12,10:41:00,"2","EST","Cla-LittleJo-2"
+"Clay","Little Johnson",2025-06-12,10:34:00,"3","EST","Cla-LittleJo-3"
+"Clay","Sheelar",2025-05-15,10:50:00,"1","EST","Cla-Sheelar-1"
+"Clay","Sheelar",2025-05-15,10:56:00,"2","EST","Cla-Sheelar-2"
+"Clay","Sheelar",2025-05-15,10:59:59,"3","EST","Cla-Sheelar-3"
+"Clay","Sheelar",2025-06-12,08:30:00,"1","EST","Cla-Sheelar-1"
+"Clay","Sheelar",2025-06-12,08:35:00,"2","EST","Cla-Sheelar-2"
+"Clay","Sheelar",2025-06-12,08:40:00,"3","EST","Cla-Sheelar-3"
+"Putnam","Broward",2025-07-20,14:45:00,"2","EST",
+"Putnam","Broward",2025-07-20,14:45:00,"2","EST","Put-Broward-2"
+"Putnam","Broward",2025-07-20,14:34:59,"3","EST",
+"Putnam","Broward",2025-07-20,14:34:59,"3","EST","Put-Broward-3"
+"Putnam","Riley",2025-05-15,16:02:00,"1","EST",
+"Putnam","Riley",2025-05-15,16:02:00,"1","EST","Put-Riley-1"
+"Putnam","Riley",2025-05-15,16:08:00,"2","EST",
+"Putnam","Riley",2025-05-15,16:08:00,"2","EST","Put-Riley-2"
+"Putnam","Riley",2025-05-15,,"3","EST",
+"Putnam","Riley",2025-05-15,,"3","EST","Put-Riley-3"
+"Putnam","Riley",2025-06-12,16:08:00,"1","EST",
+"Putnam","Riley",2025-06-12,16:08:00,"1","EST","Put-Riley-1"
+"Putnam","Riley",2025-06-12,16:13:00,"2","EST",
+"Putnam","Riley",2025-06-12,16:13:00,"2","EST","Put-Riley-2"
+"Putnam","Riley",2025-06-12,16:02:00,"3","EST",
+"Putnam","Riley",2025-06-12,16:02:00,"3","EST","Put-Riley-3"
+"Putnam","Riley",2025-06-23,08:47:59,"1","EST",
+"Putnam","Riley",2025-06-23,08:47:59,"1","EST","Put-Riley-1"
+"Putnam","Riley",2025-06-23,08:34:00,"2","EST",
+"Putnam","Riley",2025-06-23,08:34:00,"2","EST","Put-Riley-2"
+"Putnam","Riley",2025-06-23,08:44:00,"3","EST",
+"Putnam","Riley",2025-06-23,08:44:00,"3","EST","Put-Riley-3"
+"Putnam","Riley",2025-07-18,10:12:59,"2","EST",
+"Putnam","Riley",2025-07-18,10:12:59,"2","EST","Put-Riley-2"
+"Putnam","Riley",2025-07-18,10:20:00,"3","EST",
+"Putnam","Riley",2025-07-18,10:20:00,"3","EST","Put-Riley-3"
+"Putnam","Star",2025-05-20,10:48:00,"1","EST",
+"Putnam","Star",2025-05-20,10:48:00,"1","EST","Put-Star-1"
+"Putnam","Star",2025-05-20,10:32:59,"2","EST","Put-Star-2"
+"Putnam","Star",2025-05-20,11:09:00,"3","EST",
+"Putnam","Star",2025-05-20,11:09:00,"3","EST","Put-Star-3"
+"Putnam","Star",2025-06-17,06:50:00,"1","EST",
+"Putnam","Star",2025-06-17,06:50:00,"1","EST","Put-Star-1"
+"Putnam","Star",2025-06-17,06:36:00,"2","EST","Put-Star-2"
+"Putnam","Star",2025-06-17,07:05:00,"3","EST",
+"Putnam","Star",2025-06-17,07:05:00,"3","EST","Put-Star-3"
+"Putnam","Star",2025-07-18,08:04:00,"2","EST","Put-Star-2"
+"Putnam","Star",2025-07-18,08:15:00,"3","EST",
+"Putnam","Star",2025-07-18,08:15:00,"3","EST","Put-Star-3"
+"Putnam","Susan",2025-06-11,15:00:00,"1","EST","Put-Susan-1"
+"Putnam","Susan",2025-06-11,15:00:00,"2","EST","Put-Susan-2"
+"Putnam","Susan",2025-06-11,15:00:00,"3","EST","Put-Susan-3"
+"Putnam","Susan",2025-07-07,10:00:00,"2","EST","Put-Susan-2"
+"Putnam","Susan",2025-07-07,10:00:00,"3","EST","Put-Susan-3"
+"Putnam","Susan",2025-08-12,14:29:59,"1","EST","Put-Susan-1"
+"Putnam","Susan",2025-08-12,14:29:59,"2","EST","Put-Susan-2"
+"Putnam","Susan",2025-08-12,14:29:59,"3","EST","Put-Susan-3"
+"Pinellas","Autumn",2025-06-26,10:45:00,"1","EST","Pin-Autumn-1"
+"Pinellas","Autumn",2025-06-26,10:59:59,"2","EST","Pin-Autumn-2"
+"Pinellas","Autumn",2025-07-25,09:45:00,"2","EST","Pin-Autumn-2"
+"Pinellas","Bellevue",2025-06-23,12:20:59,"1","EST","Pin-Bellevue-1"
+"Pinellas","Bellevue",2025-06-23,12:27:00,"2","EST","Pin-Bellevue-2"
+"Pinellas","Bellevue",2025-06-23,12:35:00,"3","EST","Pin-Bellevue-3"
+"Pinellas","Crescent",2025-06-28,11:37:00,"1","EST","Pin-Crescent-1"
+"Pinellas","Crescent",2025-06-28,11:47:00,"2","EST","Pin-Crescent-2"
+"Pinellas","Crescent",2025-06-28,11:56:00,"3","EST","Pin-Crescent-3"
+"Pinellas","Jungle",2025-06-07,12:59:00,"5","EST","Pin-Jungle-5"
+"Pinellas","Jungle",2025-06-07,12:42:00,"6","EST","Pin-Jungle-6"
+"Pinellas","Jungle",2025-06-07,12:35:00,"7","EST","Pin-Jungle-7"
+"Pinellas","Jungle South Inlet",2025-06-07,12:28:00,"1","EST","Pin-Jungle-SI-1"
+"Pinellas","Jungle North Inlet",2025-06-07,13:04:59,"1","EST","Pin-Jungle-NI-1"
+"Pinellas","Jungle",2025-08-02,13:15:00,"5","EST","Pin-Jungle-5"
+"Pinellas","Jungle",2025-08-02,13:19:00,"6","EST","Pin-Jungle-6"
+"Pinellas","Jungle",2025-08-02,13:45:00,"7","EST","Pin-Jungle-7"
+"Pinellas","Jungle South Inlet",2025-08-02,13:51:59,"1","EST","Pin-Jungle-SI-1"
+"Pinellas","Jungle North Inlet",2025-08-02,13:06:59,"1","EST","Pin-Jungle-NI-1"
+"Pinellas","Jungle Outlet",2025-08-02,13:26:00,"1","EST","Pin-Jungle-OL-1"
+"Pinellas","Salt Creek-1",2025-06-07,,"1","EST","Pin-SaltCreek-1-1"
+"Pinellas","Saundra",2025-08-06,08:53:00,"1","EST","Pin-Saundra-1"
+"Pinellas","Saundra",2025-08-06,08:58:00,"2","EST","Pin-Saundra-2"
+"Pinellas","Saundra",2025-08-06,09:05:00,"3","EST","Pin-Saundra-3"
+"Pinellas","Seminole",2025-07-07,13:16:00,"2","EST",
+"Pinellas","Seminole",2025-07-07,13:16:00,"2","EST","Pin-Seminole-2"
+"Pinellas","Seminole",2025-07-07,13:49:59,"3","EST",
+"Pinellas","Seminole",2025-07-07,13:49:59,"3","EST","Pin-Seminole-3"
+"Pinellas","Storey",2025-06-17,11:23:00,"1","EST","Pin-Storey-1"
+"Pinellas","Storey",2025-06-17,11:30:00,"2","EST","Pin-Storey-2"
+"Pinellas","Winston",2025-06-22,14:00:00,"1","EST","Pin-Winston-1"
+"Pinellas","Winston",2025-06-22,14:05:00,"2","EST","Pin-Winston-2"
+"Pinellas","Winston",2025-06-22,14:10:00,"3","EST","Pin-Winston-3"
+"Charlotte","L-6",2025-07-15,10:36:00,"2","EST","Cha-L-6-2"
+"Charlotte","L-6",2025-07-15,10:37:00,"3","EST","Cha-L-6-3"
+"Charlotte","LC-1",2025-08-21,09:10:00,"1","EST","Cha-LC-1-1"
+"Charlotte","LC-2",2025-08-21,09:25:00,"1","EST","Cha-LC-2-1"
+"Charlotte","LC-3",2025-08-21,09:33:00,"1","EST","Cha-LC-3-1"
+"Charlotte","Pine Valley End",2025-07-09,11:36:00,"2","EST","Cha-PineV-Ed-2"
+"Charlotte","Pine Valley End",2025-07-09,11:41:00,"3","EST","Cha-PineV-Ed-3"
+"Charlotte","Pine Valley End",2025-08-25,10:00:00,"1","EST","Cha-PineV-Ed-1"
+"Charlotte","Pine Valley End",2025-08-25,10:05:00,"2","EST","Cha-PineV-Ed-2"
+"Charlotte","Pine Valley End",2025-08-25,10:09:00,"3","EST","Cha-PineV-Ed-3"
+"Charlotte","WF-1",2025-07-17,10:17:00,"2","EST","Cha-WF-1-2"
+"Charlotte","WF-2",2025-07-17,10:35:00,"2","EST","Cha-WF-2-2"
+"Charlotte","WF-2",2025-07-17,10:38:00,"3","EST","Cha-WF-2-3"
+"Charlotte","WF-3",2025-07-17,09:39:59,"2","EST","Cha-WF-3-2"
+"Charlotte","WF-3",2025-07-17,09:43:00,"3","EST","Cha-WF-3-3"
+"Charlotte","WF-4",2025-07-17,09:20:00,"2","EST","Cha-WF-4-2"
+"Charlotte","WF-5",2025-07-17,09:05:00,"2","EST","Cha-WF-5-2"
+"Charlotte","WF-6",2025-07-17,10:01:00,"2","EST","Cha-WF-6-2"
+"Charlotte","White Marsh Inflow",2025-07-31,08:00:00,"2","EST","Cha-WhiteMI-2"
+"Charlotte","White Marsh Inflow",2025-07-31,08:00:00,"3","EST","Cha-WhiteMI-3"
+"Monroe","Cudjoe-3",2025-06-08,13:58:00,"1","EST","Mon-Cu-Cudjoe-3"
+"Monroe","Cudjoe-4",2025-06-08,14:06:00,"1","EST","Mon-Cu-Cudjoe-4"
+"Monroe","Cudjoe-5",2025-06-08,14:14:00,"1","EST","Mon-Cu-Cudjoe-5"
+"Monroe","Cudjoe-7",2025-06-08,13:50:59,"1","EST","Mon-Cu-Cudjoe-7"
+"Monroe","Cudjoe-8",2025-06-08,14:50:00,"1","EST","Mon-Cu-Cudjoe-8"
+"Monroe","Cudjoe-9",2025-06-08,14:35:59,"1","EST","Mon-Cu-Cudjoe-9"
+"Monroe","Cudjoe-10",2025-06-08,13:08:00,"1","EST","Mon-Cu-Cudjo-10"
+"Monroe","Cudjoe-11",2025-06-08,13:40:00,"1","EST","Mon-Cu-Cudjo-11"
+"Monroe","Cudjoe-12",2025-06-08,13:20:00,"1","EST","Mon-Cu-Cudjo-12"
+"Monroe","Cudjoe-13",2025-06-08,14:44:00,"1","EST","Mon-Cu-Cudjo-13"
+"Hillsborough","Alice",2025-07-21,14:19:00,"3","EST","Hil-Alice-3"
+"Hillsborough","Alice",2025-07-21,14:19:00,"3","EST",
+"Hillsborough","Carroll",2025-08-14,09:53:00,"1","EST","Hil-Carroll-1"
+"Hillsborough","Carroll",2025-08-14,10:05:00,"2","EST","Hil-Carroll-2"
+"Hillsborough","Carroll",2025-08-14,10:14:59,"3","EST","Hil-Carroll-3"
+"Hillsborough","Cedar East",2025-08-15,15:10:00,"1","EST","Hil-CedarEast-1"
+"Hillsborough","Cedar East",2025-08-15,15:17:59,"2","EST","Hil-CedarEast-2"
+"Hillsborough","Cedar East",2025-08-15,15:20:59,"3","EST","Hil-CedarEast-3"
+"Hillsborough","Church",2025-07-29,07:25:00,"2","EST","Hil-Church-2"
+"Hillsborough","Church",2025-07-29,07:25:00,"2","EST",
+"Hillsborough","Church",2025-07-29,07:36:00,"3","EST","Hil-Church-3"
+"Hillsborough","Church",2025-07-29,07:36:00,"3","EST",
+"Hillsborough","Crystal",2025-08-22,09:05:00,"1","EST","Hil-Crystal-1"
+"Hillsborough","Crystal",2025-08-22,09:07:00,"2","EST","Hil-Crystal-2"
+"Hillsborough","Crystal",2025-08-22,09:14:00,"3","EST","Hil-Crystal-3"
+"Hillsborough","Dosson",2025-09-01,13:02:00,"1","EST","Hil-Dosson-1"
+"Hillsborough","Dosson",2025-09-01,13:13:00,"2","EST","Hil-Dosson-2"
+"Hillsborough","Dosson",2025-09-01,13:18:00,"3","EST","Hil-Dosson-3"
+"Hillsborough","Grace",2025-08-09,09:35:00,"1","EST",
+"Hillsborough","Grace",2025-08-09,09:35:00,"1","EST","Hil-Grace-1"
+"Hillsborough","Grace",2025-08-09,09:45:00,"2","EST",
+"Hillsborough","Grace",2025-08-09,09:45:00,"2","EST","Hil-Grace-2"
+"Hillsborough","Grace",2025-08-09,09:39:59,"3","EST",
+"Hillsborough","Grace",2025-08-09,09:39:59,"3","EST","Hil-Grace-3"
+"Hillsborough","Grace",2025-09-03,09:15:00,"1","EST",
+"Hillsborough","Grace",2025-09-03,09:15:00,"1","EST","Hil-Grace-1"
+"Hillsborough","Grace",2025-09-03,09:25:00,"2","EST",
+"Hillsborough","Grace",2025-09-03,09:25:00,"2","EST","Hil-Grace-2"
+"Hillsborough","Grace",2025-09-03,09:20:00,"3","EST",
+"Hillsborough","Grace",2025-09-03,09:20:00,"3","EST","Hil-Grace-3"
+"Hillsborough","Hog Island",2025-08-13,15:30:00,"1","EST","Hil-HogIslan-1"
+"Hillsborough","Hog Island",2025-08-13,15:19:59,"2","EST","Hil-HogIslan-2"
+"Hillsborough","Hog Island",2025-08-13,15:10:00,"3","EST","Hil-HogIslan-3"
+"Hillsborough","Hog Island",2025-08-13,15:00:00,"4","EST","Hil-HogIslan-4"
+"Hillsborough","Island Ford",2025-09-01,10:26:00,"1","EST","Hil-IslandFo-1"
+"Hillsborough","Island Ford",2025-09-01,10:26:00,"1","EST",
+"Hillsborough","Island Ford",2025-09-01,10:37:00,"2","EST","Hil-IslandFo-2"
+"Hillsborough","Island Ford",2025-09-01,10:37:00,"2","EST",
+"Hillsborough","Island Ford",2025-09-01,10:42:00,"3","EST","Hil-IslandFo-3"
+"Hillsborough","Island Ford",2025-09-01,10:42:00,"3","EST",
+"Hillsborough","Lutz",2025-08-30,09:35:00,"1","EST","Hil-Lutz-1"
+"Hillsborough","Lutz",2025-08-30,09:39:00,"2","EST","Hil-Lutz-2"
+"Hillsborough","Lutz",2025-08-30,09:43:00,"3","EST","Hil-Lutz-3"
+"Hillsborough","Magdalene",2025-08-23,09:53:00,"1","EST","Hil-Magdalene-1"
+"Hillsborough","Magdalene",2025-08-23,10:14:00,"2","EST","Hil-Magdalene-2"
+"Hillsborough","Magdalene",2025-08-23,10:28:00,"3","EST","Hil-Magdalene-3"
+"Hillsborough","Maurine",2025-08-07,12:40:00,"1","EST","Hil-Maurine-1"
+"Hillsborough","Maurine",2025-08-07,12:40:00,"1","EST",
+"Hillsborough","Maurine",2025-08-07,12:43:00,"2","EST","Hil-Maurine-2"
+"Hillsborough","Maurine",2025-08-07,12:43:00,"2","EST",
+"Hillsborough","Maurine",2025-08-07,12:47:00,"3","EST","Hil-Maurine-3"
+"Hillsborough","Mid",2025-08-13,11:07:00,"1","EST","Hil-Mid-1"
+"Hillsborough","Mid",2025-08-13,10:50:00,"2","EST","Hil-Mid-2"
+"Hillsborough","Mid",2025-08-13,10:40:00,"3","EST","Hil-Mid-3"
+"Hillsborough","Mid",2025-08-13,11:07:00,"4","EST","Hil-Mid-4"
+"Hillsborough","Newlands",2025-08-28,09:45:00,"1","EST","Hil-Newlands-1"
+"Hillsborough","Newlands",2025-08-28,10:00:00,"2","EST","Hil-Newlands-2"
+"Hillsborough","Newlands",2025-08-28,10:14:59,"3","EST","Hil-Newlands-3"
+"Hillsborough","Norbert",2025-08-31,11:30:00,"1","EST","Hil-Norbert-1"
+"Hillsborough","Norbert",2025-08-31,11:40:00,"2","EST","Hil-Norbert-2"
+"Hillsborough","Norbert",2025-08-31,11:44:59,"3","EST","Hil-Norbert-3"
+"Hillsborough","North Pond",2025-08-03,08:40:00,"1","EST","Hil-NorthPd-1"
+"Hillsborough","North Pond",2025-08-03,09:00:00,"2","EST","Hil-NorthPd-2"
+"Hillsborough","North Pond",2025-08-03,09:15:00,"3","EST","Hil-NorthPd-3"
+"Hillsborough","North Pond",2025-09-03,09:39:59,"1","EST","Hil-NorthPd-1"
+"Hillsborough","North Pond",2025-09-03,09:50:00,"2","EST","Hil-NorthPd-2"
+"Hillsborough","North Pond",2025-09-03,09:55:00,"3","EST","Hil-NorthPd-3"
+"Hillsborough","Osceola",2025-08-27,10:00:00,"1","EST","Hil-Osceola-1"
+"Hillsborough","Osceola",2025-08-27,10:00:00,"1","EST",
+"Hillsborough","Osceola",2025-08-27,10:10:00,"2","EST","Hil-Osceola-2"
+"Hillsborough","Osceola",2025-08-27,10:10:00,"2","EST",
+"Hillsborough","Osceola",2025-08-27,10:20:00,"3","EST","Hil-Osceola-3"
+"Hillsborough","Osceola",2025-08-27,10:20:00,"3","EST",
+"Hillsborough","Round",2025-08-11,09:15:00,"1","EST","Hil-Round-1"
+"Hillsborough","Round",2025-08-11,09:20:00,"2","EST","Hil-Round-2"
+"Hillsborough","Round",2025-08-11,09:25:00,"3","EST","Hil-Round-3"
+"Hillsborough","Silver",2025-08-21,08:15:00,"1","EST","Hil-Silver-1"
+"Hillsborough","Silver",2025-08-21,08:10:00,"2","EST","Hil-Silver-2"
+"Hillsborough","Silver",2025-08-21,08:19:00,"3","EST","Hil-Silver-3"
+"Orange","Big Sand",2025-09-11,11:30:00,"2","EST","Ora-BigSand-2"
+"Orange","Big Sand",2025-09-11,11:40:00,"4","EST","Ora-BigSand-4"
+"Orange","Big Sand",2025-09-11,11:54:59,"5","EST","Ora-BigSand-5"
+"Orange","Butler",2025-07-27,11:11:00,"2","EST","Ora-Butler-2"
+"Orange","Butler",2025-07-27,11:11:00,"2","EST",
+"Orange","Butler",2025-07-27,11:11:00,"2","EST",
+"Orange","Butler",2025-07-27,11:16:00,"3","EST","Ora-Butler-3"
+"Orange","Butler",2025-07-27,11:16:00,"3","EST",
+"Orange","Butler",2025-07-27,11:16:00,"3","EST",
+"Orange","Conway South",2025-08-24,09:51:00,"1","EST","Ora-ConwaySo-1"
+"Orange","Conway South",2025-08-24,09:51:00,"1","EST",
+"Orange","Conway South",2025-08-24,10:09:00,"2","EST","Ora-ConwaySo-2"
+"Orange","Conway South",2025-08-24,10:09:00,"2","EST",
+"Orange","Conway South",2025-08-24,10:21:00,"3","EST","Ora-ConwaySo-3"
+"Orange","Conway South",2025-08-24,10:21:00,"3","EST",
+"Orange","Cypress",2025-08-03,10:44:00,"1","EST","Ora-Cypress-1"
+"Orange","Cypress",2025-08-03,10:44:00,"1","EST",
+"Orange","Cypress",2025-08-03,10:59:00,"2","EST","Ora-Cypress-2"
+"Orange","Cypress",2025-08-03,10:59:00,"2","EST",
+"Orange","Cypress",2025-08-03,11:11:59,"3","EST","Ora-Cypress-3"
+"Orange","Cypress",2025-08-03,11:11:59,"3","EST",
+"Orange","Cypress",2025-08-27,10:53:00,"1","EST","Ora-Cypress-1"
+"Orange","Cypress",2025-08-27,10:53:00,"1","EST",
+"Orange","Cypress",2025-08-27,11:16:00,"2","EST","Ora-Cypress-2"
+"Orange","Cypress",2025-08-27,11:16:00,"2","EST",
+"Orange","Cypress",2025-08-27,11:27:00,"3","EST","Ora-Cypress-3"
+"Orange","Cypress",2025-08-27,11:27:00,"3","EST",
+"Orange","Down",2025-06-16,12:30:00,"1","EST","Ora-Down-1"
+"Orange","Down",2025-06-16,12:30:00,"1","EST",
+"Orange","Down",2025-06-16,12:30:00,"1","EST",
+"Orange","Down",2025-06-16,12:15:00,"2","EST","Ora-Down-2"
+"Orange","Down",2025-06-16,12:15:00,"2","EST",
+"Orange","Down",2025-06-16,12:15:00,"2","EST",
+"Orange","Down",2025-06-16,12:05:00,"3","EST","Ora-Down-3"
+"Orange","Down",2025-06-16,12:05:00,"3","EST",
+"Orange","Down",2025-06-16,12:05:00,"3","EST",
+"Orange","Down",2025-08-24,11:20:00,"1","EST","Ora-Down-1"
+"Orange","Down",2025-08-24,11:20:00,"1","EST",
+"Orange","Down",2025-08-24,11:20:00,"1","EST",
+"Orange","Down",2025-08-24,11:09:59,"2","EST","Ora-Down-2"
+"Orange","Down",2025-08-24,11:09:59,"2","EST",
+"Orange","Down",2025-08-24,11:09:59,"2","EST",
+"Orange","Down",2025-08-24,10:59:59,"3","EST","Ora-Down-3"
+"Orange","Down",2025-08-24,10:59:59,"3","EST",
+"Orange","Down",2025-08-24,10:59:59,"3","EST",
+"Orange","Down",2025-09-07,10:50:00,"1","EST","Ora-Down-1"
+"Orange","Down",2025-09-07,10:50:00,"1","EST",
+"Orange","Down",2025-09-07,10:50:00,"1","EST",
+"Orange","Down",2025-09-07,10:40:00,"2","EST","Ora-Down-2"
+"Orange","Down",2025-09-07,10:40:00,"2","EST",
+"Orange","Down",2025-09-07,10:40:00,"2","EST",
+"Orange","Down",2025-09-07,10:30:00,"3","EST","Ora-Down-3"
+"Orange","Down",2025-09-07,10:30:00,"3","EST",
+"Orange","Down",2025-09-07,10:30:00,"3","EST",
+"Orange","East",2025-06-11,15:46:00,"1","EST","Ora-East-1"
+"Orange","East",2025-06-11,15:51:00,"2","EST","Ora-East-2"
+"Orange","East",2025-06-11,16:00:00,"3","EST","Ora-East-3"
+"Orange","Giles",2025-08-06,09:33:00,"1","EST","Ora-Giles-1"
+"Orange","Giles",2025-08-06,09:33:00,"1","EST",
+"Orange","Giles",2025-08-06,09:39:59,"2","EST","Ora-Giles-2"
+"Orange","Giles",2025-08-06,09:39:59,"2","EST",
+"Orange","Giles",2025-08-06,09:48:00,"3","EST","Ora-Giles-3"
+"Orange","Giles",2025-08-06,09:48:00,"3","EST",
+"Orange","Giles",2025-09-06,10:02:00,"1","EST","Ora-Giles-1"
+"Orange","Giles",2025-09-06,10:02:00,"1","EST",
+"Orange","Giles",2025-09-06,10:12:00,"2","EST","Ora-Giles-2"
+"Orange","Giles",2025-09-06,10:12:00,"2","EST",
+"Orange","Giles",2025-09-06,10:18:00,"3","EST","Ora-Giles-3"
+"Orange","Giles",2025-09-06,10:18:00,"3","EST",
+"Orange","Hickorynut",2025-07-27,09:35:00,"2","EST","Ora-Hickorynu-2"
+"Orange","Hickorynut South",2025-07-27,09:29:59,"2","EST","Ora-HickoryS-2"
+"Orange","Little Hickorynut",2025-07-27,09:39:59,"2","EST","Ora-LittleHi-2"
+"Orange","Holden",2025-08-24,16:54:00,"1","EST","Ora-Holden-1"
+"Orange","Holden",2025-08-24,16:54:00,"1","EST",
+"Orange","Holden",2025-08-24,16:54:00,"1","EST",
+"Orange","Holden",2025-08-24,17:06:00,"2","EST","Ora-Holden-2"
+"Orange","Holden",2025-08-24,17:06:00,"2","EST",
+"Orange","Holden",2025-08-24,17:06:00,"2","EST",
+"Orange","Holden",2025-08-24,17:15:00,"3","EST","Ora-Holden-3"
+"Orange","Holden",2025-08-24,17:15:00,"3","EST",
+"Orange","Holden",2025-08-24,17:15:00,"3","EST",
+"Orange","Little Conway",2025-08-14,10:59:59,"1","EST","Ora-LittleCo-1"
+"Orange","Little Conway",2025-08-14,11:18:00,"2","EST","Ora-LittleCo-2"
+"Orange","Little Conway",2025-08-14,11:31:00,"3","EST","Ora-LittleCo-3"
+"Orange","Rose",2025-07-16,10:24:00,"2","EST",
+"Orange","Rose",2025-07-16,10:24:00,"2","EST","Ora-Rose-2"
+"Orange","Rose",2025-07-16,10:38:00,"3","EST",
+"Orange","Rose",2025-07-16,10:38:00,"3","EST","Ora-Rose-3"
+"Orange","Sheen",2025-09-04,18:00:00,"1","EST","Ora-Sheen-1"
+"Orange","Sheen",2025-09-04,18:10:00,"2","EST","Ora-Sheen-2"
+"Orange","Sheen",2025-09-04,18:20:00,"3","EST","Ora-Sheen-3"
+"Orange","Spier",2025-08-21,10:36:00,"1","EST","Ora-Spier-1"
+"Orange","Spier",2025-08-21,10:43:00,"2","EST","Ora-Spier-2"
+"Orange","Spier",2025-08-21,10:48:00,"3","EST","Ora-Spier-3"
+"Orange","Virginia",2025-07-24,14:18:00,"2","EST",
+"Orange","Virginia",2025-07-24,14:18:00,"2","EST","Ora-Virginia-2"
+"Orange","Virginia",2025-07-24,14:22:00,"3","EST",
+"Orange","Virginia",2025-07-24,14:22:00,"3","EST","Ora-Virginia-3"
+"Orange","Wauseon Bay",2025-09-10,15:52:00,"1","EST","Ora-WauseonB-1"
+"Orange","Wauseon Bay",2025-09-10,16:04:59,"2","EST","Ora-WauseonB-2"
+"Orange","Wauseon Bay",2025-09-10,16:12:00,"3","EST","Ora-WauseonB-3"
+"Orange","Waunatta",2025-07-24,08:11:00,"2","EST","Ora-Waunatta-2"
+"Orange","Waunatta",2025-07-24,08:16:00,"3","EST","Ora-Waunatta-3"
+"Orange","Waunatta",2025-08-08,08:54:59,"1","EST","Ora-Waunatta-1"
+"Orange","Waunatta",2025-08-08,09:00:00,"2","EST","Ora-Waunatta-2"
+"Orange","Waunatta",2025-08-08,09:04:00,"3","EST","Ora-Waunatta-3"
+"Hillsborough","Dead Lady",2025-09-22,17:00:00,"1","EST",
+"Hillsborough","Dead Lady",2025-09-22,17:00:00,"1","EST","Hil-DeadLady-1"
+"Hillsborough","Dead Lady",2025-09-22,17:10:00,"2","EST",
+"Hillsborough","Dead Lady",2025-09-22,17:10:00,"2","EST","Hil-DeadLady-2"
+"Hillsborough","Dead Lady",2025-09-22,17:25:00,"3","EST",
+"Hillsborough","Dead Lady",2025-09-22,17:25:00,"3","EST","Hil-DeadLady-3"
+"Hillsborough","Heather",2025-09-03,08:20:00,"1","EST","Hil-Heather-1"
+"Hillsborough","Heather",2025-09-03,08:10:00,"2","EST","Hil-Heather-2"
+"Hillsborough","Heather",2025-09-03,08:00:00,"3","EST","Hil-Heather-3"
+"Hillsborough","Island Ford",2025-10-01,10:55:00,"2","EST","Hil-IslandFo-2"
+"Hillsborough","Island Ford",2025-10-01,10:55:00,"2","EST",
+"Hillsborough","Island Ford",2025-10-01,11:03:00,"3","EST","Hil-IslandFo-3"
+"Hillsborough","Island Ford",2025-10-01,11:03:00,"3","EST",
+"Hillsborough","Magdalene",2025-09-27,10:14:59,"1","EST","Hil-Magdalene-1"
+"Hillsborough","Magdalene",2025-09-27,10:04:00,"2","EST","Hil-Magdalene-2"
+"Hillsborough","Magdalene",2025-09-27,10:28:00,"3","EST","Hil-Magdalene-3"
+"Hillsborough","Maurine",2025-09-27,14:50:00,"1","EST","Hil-Maurine-1"
+"Hillsborough","Maurine",2025-09-27,14:50:00,"1","EST",
+"Hillsborough","Maurine",2025-09-27,15:00:00,"2","EST","Hil-Maurine-2"
+"Hillsborough","Maurine",2025-09-27,15:00:00,"2","EST",
+"Hillsborough","Maurine",2025-09-27,15:10:00,"3","EST","Hil-Maurine-3"
+"Hillsborough","Newlands",2025-09-27,09:39:59,"1","EST","Hil-Newlands-1"
+"Hillsborough","Newlands",2025-09-27,09:55:00,"2","EST","Hil-Newlands-2"
+"Hillsborough","Newlands",2025-09-27,10:10:00,"3","EST","Hil-Newlands-3"
+"Hillsborough","Silver",2025-09-06,08:14:00,"1","EST","Hil-Silver-1"
+"Hillsborough","Silver",2025-09-06,08:09:00,"2","EST","Hil-Silver-2"
+"Hillsborough","Silver",2025-09-06,08:19:00,"3","EST","Hil-Silver-3"
+"Hillsborough","West Meadows-3",2025-09-05,09:53:00,"1","EST","Hil-WestMd3-1"
+"Hillsborough","West Meadows-3",2025-09-05,09:12:00,"2","EST","Hil-WestMd3-2"
+"Hillsborough","West Meadows-3",2025-09-05,09:20:00,"3","EST","Hil-WestMd3-3"
+"Pasco","Ann",2025-10-02,11:42:59,"2","EST","Pas-Ann-2"
+"Pasco","Ann",2025-10-02,11:50:00,"3","EST","Pas-Ann-3"
+"Pasco","Bird",2025-09-08,07:58:00,"1","EST","Pas-Bird-1"
+"Pasco","Bird",2025-09-08,08:02:59,"2","EST","Pas-Bird-2"
+"Pasco","Bird",2025-09-08,08:10:00,"3","EST","Pas-Bird-3"
+"Pasco","Blanton",2025-08-20,14:34:59,"1","EST",
+"Pasco","Blanton",2025-08-20,14:34:59,"1","EST","Pas-Blanton-1"
+"Pasco","Blanton",2025-08-20,14:30:00,"2","EST",
+"Pasco","Blanton",2025-08-20,14:30:00,"2","EST","Pas-Blanton-2"
+"Pasco","Blanton",2025-08-20,14:28:00,"3","EST",
+"Pasco","Blanton",2025-08-20,14:28:00,"3","EST","Pas-Blanton-3"
+"Pasco","Blanton",2025-09-17,14:38:00,"1","EST",
+"Pasco","Blanton",2025-09-17,14:38:00,"1","EST","Pas-Blanton-1"
+"Pasco","Blanton",2025-09-17,14:32:00,"2","EST",
+"Pasco","Blanton",2025-09-17,14:32:00,"2","EST","Pas-Blanton-2"
+"Pasco","Blanton",2025-09-17,14:28:00,"3","EST",
+"Pasco","Blanton",2025-09-17,14:28:00,"3","EST","Pas-Blanton-3"
+"Pasco","East",2025-09-12,16:16:00,"1","EST","Pas-East-1"
+"Pasco","East",2025-09-12,16:19:00,"2","EST","Pas-East-2"
+"Pasco","East",2025-09-12,16:25:00,"3","EST","Pas-East-3"
+"Pasco","Jovita",2025-08-15,14:19:00,"1","EST","Pas-Jovita-1"
+"Pasco","Jovita",2025-08-15,14:28:00,"2","EST","Pas-Jovita-2"
+"Pasco","Jovita",2025-08-15,14:41:00,"3","EST","Pas-Jovita-3"
+"Pasco","Moon",2025-08-21,11:09:59,"1","EST",
+"Pasco","Moon",2025-08-21,11:09:59,"1","EST",
+"Pasco","Moon",2025-08-21,11:09:59,"1","EST","Pas-Moon-1"
+"Pasco","Moon",2025-08-21,11:28:00,"2","EST",
+"Pasco","Moon",2025-08-21,11:28:00,"2","EST",
+"Pasco","Moon",2025-08-21,11:28:00,"2","EST","Pas-Moon-2"
+"Pasco","Moon",2025-08-21,11:48:00,"3","EST",
+"Pasco","Moon",2025-08-21,11:48:00,"3","EST",
+"Pasco","Moon",2025-08-21,11:48:00,"3","EST","Pas-Moon-3"
+"Pasco","Moon",2025-09-16,11:44:00,"1","EST",
+"Pasco","Moon",2025-09-16,11:44:00,"1","EST",
+"Pasco","Moon",2025-09-16,11:44:00,"1","EST","Pas-Moon-1"
+"Pasco","Moon",2025-09-16,11:58:00,"2","EST",
+"Pasco","Moon",2025-09-16,11:58:00,"2","EST",
+"Pasco","Moon",2025-09-16,11:58:00,"2","EST","Pas-Moon-2"
+"Pasco","Moon",2025-09-16,12:12:00,"3","EST",
+"Pasco","Moon",2025-09-16,12:12:00,"3","EST",
+"Pasco","Moon",2025-09-16,12:12:00,"3","EST","Pas-Moon-3"
+"Pasco","Padgett South",2025-09-23,12:19:59,"1","EST","Pas-PadgettS-1"
+"Pasco","Padgett South",2025-09-23,12:31:00,"2","EST","Pas-PadgettS-2"
+"Pasco","Padgett South",2025-09-23,12:39:00,"3","EST","Pas-PadgettS-3"
+"Pasco","Saxon North",2025-09-18,13:00:00,"1","EST","Pas-SaxonNor-1"
+"Pasco","Saxon North",2025-09-18,12:50:00,"2","EST","Pas-SaxonNor-2"
+"Pasco","Saxon North",2025-09-18,12:40:00,"3","EST","Pas-SaxonNor-3"
+"Pasco","Saxon South",2025-09-18,12:00:00,"1","EST","Pas-SaxonSou-1"
+"Pasco","Saxon South",2025-09-18,12:15:00,"2","EST","Pas-SaxonSou-2"
+"Pasco","Saxon South",2025-09-18,12:19:59,"3","EST","Pas-SaxonSou-3"
+"Pasco","West Moon",2025-09-15,14:00:00,"1","EST","Pas-WestMoon-1"
+"Pasco","West Moon",2025-09-15,14:16:00,"2","EST","Pas-WestMoon-2"
+"Pasco","West Moon",2025-09-15,14:25:00,"3","EST","Pas-WestMoon-3"
+"Pasco","Wisteria",2025-08-29,16:23:00,"1","EST","Pas-Wisteria-1"
+"Pasco","Wisteria",2025-08-29,16:37:00,"2","EST","Pas-Wisteria-2"
+"Pasco","Wisteria",2025-08-29,16:50:59,"3","EST","Pas-Wisteria-3"
+"Hillsborough","Alice",2025-09-16,15:08:00,"1","EST","Hil-Alice-1"
+"Hillsborough","Alice",2025-09-16,15:08:00,"1","EST",
+"Hillsborough","Alice",2025-09-16,15:17:00,"2","EST","Hil-Alice-2"
+"Hillsborough","Alice",2025-09-16,15:17:00,"2","EST",
+"Hillsborough","Alice",2025-09-16,15:21:59,"3","EST","Hil-Alice-3"
+"Hillsborough","Alice",2025-09-16,15:21:59,"3","EST",
+"Hillsborough","Brant",2025-09-29,17:59:00,"1","EST",
+"Hillsborough","Brant",2025-09-29,17:59:00,"1","EST","Hil-Brant-1"
+"Hillsborough","Brant",2025-09-29,17:41:00,"2","EST",
+"Hillsborough","Brant",2025-09-29,17:41:00,"2","EST","Hil-Brant-2"
+"Hillsborough","Brant",2025-09-29,17:25:00,"3","EST",
+"Hillsborough","Brant",2025-09-29,17:25:00,"3","EST","Hil-Brant-3"
+"Hillsborough","Breckenridge",2025-09-11,13:42:00,"1","EST","Hil-Breckenridge-1"
+"Hillsborough","Breckenridge",2025-09-11,13:33:00,"2","EST","Hil-Breckenridge-2"
+"Hillsborough","Breckenridge",2025-09-11,13:25:00,"3","EST","Hil-Breckenridge-3"
+"Hillsborough","Calm",2025-09-23,13:17:00,"1","EST","Hil-Calm-1"
+"Hillsborough","Calm",2025-09-23,13:35:00,"2","EST","Hil-Calm-2"
+"Hillsborough","Calm",2025-09-23,13:47:00,"3","EST","Hil-Calm-3"
+"Hillsborough","Cedar East",2025-09-10,16:10:00,"1","EST","Hil-CedarEast-1"
+"Hillsborough","Cedar East",2025-09-10,16:17:00,"2","EST","Hil-CedarEast-2"
+"Hillsborough","Cedar East",2025-09-10,16:25:00,"3","EST","Hil-CedarEast-3"
+"Hillsborough","Church",2025-09-29,07:27:00,"1","EST","Hil-Church-1"
+"Hillsborough","Church",2025-09-29,07:27:00,"1","EST",
+"Hillsborough","Church",2025-09-29,07:40:59,"2","EST","Hil-Church-2"
+"Hillsborough","Church",2025-09-29,07:40:59,"2","EST",
+"Hillsborough","Church",2025-09-29,07:52:00,"3","EST","Hil-Church-3"
+"Hillsborough","Church",2025-09-29,07:52:00,"3","EST",
+"Hillsborough","East",2025-09-22,15:40:00,"1","EST","Hil-East-1"
+"Hillsborough","East",2025-09-22,15:35:00,"2","EST","Hil-East-2"
+"Hillsborough","East",2025-09-22,15:30:00,"3","EST","Hil-East-3"
+"Hillsborough","Eckles",2025-09-01,10:59:59,"1","EST","Hil-Eckles-1"
+"Hillsborough","Eckles",2025-09-01,11:09:59,"2","EST","Hil-Eckles-2"
+"Hillsborough","Eckles",2025-09-01,11:15:00,"3","EST","Hil-Eckles-3"
+"Hillsborough","Hog Island",2025-09-16,10:40:00,"1","EST","Hil-HogIslan-1"
+"Hillsborough","Hog Island",2025-09-16,10:47:00,"2","EST","Hil-HogIslan-2"
+"Hillsborough","Hog Island",2025-09-16,10:52:00,"3","EST","Hil-HogIslan-3"
+"Hillsborough","Hog Island",2025-09-16,10:59:00,"4","EST","Hil-HogIslan-4"
+"Hillsborough","James",2025-09-23,11:25:00,"1","EST","Hil-James-1"
+"Hillsborough","James",2025-09-23,11:35:00,"2","EST","Hil-James-2"
+"Hillsborough","James",2025-09-23,11:40:00,"3","EST","Hil-James-3"
+"Hillsborough","Keystone",2025-09-07,10:59:59,"1","EST","Hil-Keystone-1"
+"Hillsborough","Keystone",2025-09-07,10:59:59,"1","EST",
+"Hillsborough","Keystone",2025-09-07,11:11:59,"2","EST","Hil-Keystone-2"
+"Hillsborough","Keystone",2025-09-07,11:11:59,"2","EST",
+"Hillsborough","Keystone",2025-09-07,11:22:00,"3","EST","Hil-Keystone-3"
+"Hillsborough","Keystone",2025-09-07,11:22:00,"3","EST",
+"Hillsborough","Keystone North",2025-09-10,10:14:59,"1","EST","Hil-KeystoneN-1"
+"Hillsborough","Keystone North",2025-09-10,10:20:00,"2","EST","Hil-KeystoneN-2"
+"Hillsborough","Keystone North",2025-09-10,10:24:59,"3","EST","Hil-KeystoneN-3"
+"Hillsborough","Lutz",2025-09-28,09:34:00,"1","EST","Hil-Lutz-1"
+"Hillsborough","Lutz",2025-09-28,09:38:00,"2","EST","Hil-Lutz-2"
+"Hillsborough","Lutz",2025-09-28,09:47:00,"3","EST","Hil-Lutz-3"
+"Hillsborough","Mid",2025-09-17,10:57:59,"1","EST","Hil-Mid-1"
+"Hillsborough","Mid",2025-09-17,10:52:00,"2","EST","Hil-Mid-2"
+"Hillsborough","Mid",2025-09-17,10:43:00,"3","EST","Hil-Mid-3"
+"Hillsborough","Mid",2025-09-17,11:06:00,"4","EST","Hil-Mid-4"
+"Hillsborough","Pine",2025-09-16,11:06:00,"1","EST","Hil-Pine-1"
+"Hillsborough","Pine",2025-09-16,11:11:00,"2","EST","Hil-Pine-2"
+"Hillsborough","Pine",2025-09-16,11:13:59,"3","EST","Hil-Pine-3"
+"Hillsborough","Pretty",2025-09-30,18:29:00,"1","EST","Hil-Pretty-1"
+"Hillsborough","Pretty",2025-09-30,18:34:00,"2","EST","Hil-Pretty-2"
+"Hillsborough","Pretty",2025-09-30,18:45:00,"3","EST","Hil-Pretty-3"
+"Hillsborough","Taylor",2025-09-30,15:15:00,"1","EST","Hil-Taylor-1"
+"Hillsborough","Taylor",2025-09-30,15:30:00,"2","EST","Hil-Taylor-2"
+"Hillsborough","Taylor",2025-09-30,15:19:59,"3","EST","Hil-Taylor-3"
+"Hillsborough","West Meadows-15",2025-09-05,10:10:00,"1","EST","Hil-WestMd-1"
+"Hillsborough","West Meadows-15",2025-09-05,10:34:00,"2","EST","Hil-WestMd-2"
+"Hillsborough","West Meadows-15",2025-09-05,10:41:00,"3","EST","Hil-WestMd-3"
+"Hillsborough","Zambito East",2025-09-20,14:54:00,"1","EST","Hil-ZambitoE-1"
+"Hillsborough","Zambito East",2025-09-20,15:00:00,"2","EST","Hil-ZambitoE-2"
+"Hillsborough","Zambito East",2025-09-20,15:04:00,"3","EST","Hil-ZambitoE-3"
+"Osceola","Brick",2025-09-02,15:53:00,"1","EST","Osc-Brick-1"
+"Osceola","Brick",2025-09-02,16:04:59,"2","EST","Osc-Brick-2"
+"Osceola","Brick",2025-09-02,15:57:00,"3","EST","Osc-Brick-3"
+"Osceola","Buck",2025-08-07,07:59:00,"1","EST","Osc-Buck-1"
+"Osceola","Buck",2025-08-07,08:08:00,"2","EST","Osc-Buck-2"
+"Osceola","Buck",2025-08-07,08:18:00,"3","EST","Osc-Buck-3"
+"Hillsborough","Cooper",2025-09-17,13:45:00,"1","EST","Hil-Cooper-1"
+"Hillsborough","Cooper",2025-09-17,13:49:59,"2","EST","Hil-Cooper-2"
+"Hillsborough","Cooper",2025-09-17,13:55:00,"3","EST","Hil-Cooper-3"
+"Hillsborough","Crystal",2025-09-21,10:56:00,"1","EST","Hil-Crystal-1"
+"Hillsborough","Crystal",2025-09-21,11:02:00,"2","EST","Hil-Crystal-2"
+"Hillsborough","Crystal",2025-09-21,11:06:00,"3","EST","Hil-Crystal-3"
+"Hillsborough","Little Wilson",2025-09-24,13:55:00,"1","EST","Hil-LittleWi-1"
+"Hillsborough","Little Wilson",2025-09-24,13:47:59,"2","EST","Hil-LittleWi-2"
+"Hillsborough","Little Wilson",2025-09-24,14:04:00,"3","EST","Hil-LittleWi-3"
+"Hillsborough","Osceola",2025-09-25,16:00:00,"1","EST","Hil-Osceola-1"
+"Hillsborough","Osceola",2025-09-25,16:00:00,"1","EST",
+"Hillsborough","Osceola",2025-09-25,16:15:00,"2","EST","Hil-Osceola-2"
+"Hillsborough","Osceola",2025-09-25,16:15:00,"2","EST",
+"Hillsborough","Osceola",2025-09-25,16:30:00,"3","EST","Hil-Osceola-3"
+"Hillsborough","Osceola",2025-09-25,16:30:00,"3","EST",
+"Hillsborough","Strawberry",2025-09-28,14:32:00,"1","EST","Hil-Strawberr-1"
+"Hillsborough","Strawberry",2025-09-28,14:35:59,"2","EST","Hil-Strawberr-2"
+"Hillsborough","Strawberry",2025-09-28,14:40:00,"3","EST","Hil-Strawberr-3"
+"Orange","Big Sand",2025-08-14,12:00:00,"2","EST","Ora-BigSand-2"
+"Orange","Big Sand",2025-08-14,12:14:00,"4","EST","Ora-BigSand-4"
+"Orange","Big Sand",2025-08-14,12:35:00,"5","EST","Ora-BigSand-5"
+"Orange","Cane",2025-06-10,07:35:00,"1","EST","Ora-Cane-1"
+"Orange","Cane",2025-06-10,07:27:00,"2","EST","Ora-Cane-2"
+"Orange","Cane",2025-06-10,07:39:59,"3","EST","Ora-Cane-3"
+"Orange","Cane",2025-08-19,07:46:00,"1","EST","Ora-Cane-1"
+"Orange","Cane",2025-08-19,07:42:00,"2","EST","Ora-Cane-2"
+"Orange","Cane",2025-08-19,07:52:00,"3","EST","Ora-Cane-3"
+"Orange","Conway South",2025-04-27,09:29:00,"2","EST","Ora-ConwaySo-2"
+"Orange","Conway South",2025-04-27,09:29:00,"2","EST",
+"Orange","Conway South",2025-04-27,09:41:59,"3","EST","Ora-ConwaySo-3"
+"Orange","Conway South",2025-04-27,09:41:59,"3","EST",
+"Orange","Conway South",2025-07-27,09:11:00,"2","EST","Ora-ConwaySo-2"
+"Orange","Conway South",2025-07-27,09:11:00,"2","EST",
+"Orange","Conway South",2025-07-27,09:24:00,"3","EST","Ora-ConwaySo-3"
+"Orange","Conway South",2025-07-27,09:24:00,"3","EST",
+"Orange","East",2025-07-05,11:58:59,"2","EST","Ora-East-2"
+"Orange","East",2025-07-05,12:04:00,"3","EST","Ora-East-3"
+"Orange","Gatlin",2025-05-15,14:00:00,"1","EST","Ora-Gatlin-1"
+"Orange","Gatlin",2025-05-15,14:05:00,"2","EST","Ora-Gatlin-2"
+"Orange","Gatlin",2025-05-15,14:10:00,"3","EST","Ora-Gatlin-3"
+"Orange","Ivanhoe East",2025-06-03,10:30:00,"2","EST","Ora-IvanhoeE-2"
+"Orange","Ivanhoe East",2025-06-03,10:30:00,"2","EST",
+"Orange","Ivanhoe Middle",2025-06-03,10:59:59,"2","EST","Ora-IvanhoeM-2"
+"Orange","Ivanhoe Middle",2025-06-03,10:59:59,"2","EST",
+"Orange","Ivanhoe West",2025-06-03,11:09:59,"2","EST","Ora-IvanhoeW-2"
+"Orange","Ivanhoe West",2025-06-03,11:09:59,"2","EST",
+"Orange","Killarney",2025-07-26,11:42:00,"2","EST","Ora-Killarney-2"
+"Orange","Killarney",2025-07-26,11:48:00,"3","EST","Ora-Killarney-3"
+"Orange","Marsha",2025-08-07,13:42:00,"1","EST","Ora-Marsha-1"
+"Orange","Marsha",2025-08-07,13:42:00,"1","EST",
+"Orange","Marsha",2025-08-07,13:47:00,"2","EST","Ora-Marsha-2"
+"Orange","Marsha",2025-08-07,13:47:00,"2","EST",
+"Orange","Marsha",2025-08-07,13:54:00,"3","EST","Ora-Marsha-3"
+"Orange","Marsha",2025-08-07,13:54:00,"3","EST",
+"Orange","Ola",2025-08-10,17:15:00,"1","EST","Ora-Ola-1"
+"Orange","Ola",2025-08-10,17:15:00,"1","EST",
+"Orange","Ola",2025-08-10,17:15:00,"1","EST",
+"Orange","Ola",2025-08-10,17:25:00,"2","EST","Ora-Ola-2"
+"Orange","Ola",2025-08-10,17:25:00,"2","EST",
+"Orange","Ola",2025-08-10,17:25:00,"2","EST",
+"Orange","Ola",2025-08-10,17:53:00,"3","EST","Ora-Ola-3"
+"Orange","Ola",2025-08-10,17:53:00,"3","EST",
+"Orange","Ola",2025-08-10,17:53:00,"3","EST",
+"Orange","Osceola",2025-07-28,15:02:00,"2","EST","Ora-Osceola-2"
+"Orange","Osceola",2025-07-28,15:06:00,"3","EST","Ora-Osceola-3"
+"Orange","Waumpi",2025-07-21,12:41:00,"2","EST","Ora-Waumpi-2"
+"Orange","Waumpi",2025-07-21,13:49:59,"3","EST","Ora-Waumpi-3"
+"Orange","Waumpi",2025-08-10,09:45:00,"1","EST","Ora-Waumpi-1"
+"Orange","Waumpi",2025-08-10,10:33:00,"2","EST","Ora-Waumpi-2"
+"Orange","Waumpi",2025-08-10,11:42:59,"3","EST","Ora-Waumpi-3"
+"Orange","Weldona",2025-05-28,08:30:00,"1","EST","Ora-Weldona-1"
+"Orange","Weldona",2025-05-28,08:35:00,"2","EST","Ora-Weldona-2"
+"Orange","Weldona",2025-05-28,08:40:00,"3","EST","Ora-Weldona-3"
+"Orange","Whitney",2025-09-02,08:50:00,"1","EST","Ora-Whitney-1"
+"Orange","Whitney",2025-09-02,08:40:00,"2","EST","Ora-Whitney-2"
+"Orange","Whitney",2025-09-02,08:30:00,"3","EST","Ora-Whitney-3"
+"Polk","Daisy",2025-07-21,11:44:00,"2","EST","Pol-Daisy-2"
+"Polk","Daisy",2025-07-21,11:48:00,"3","EST","Pol-Daisy-3"
+"Polk","Eagle",2025-08-19,10:10:00,"1","EST",
+"Polk","Eagle",2025-08-19,10:10:00,"1","EST",
+"Polk","Eagle",2025-08-19,10:10:00,"1","EST",
+"Polk","Eagle",2025-08-19,10:10:00,"1","EST","Pol-Eagle-1"
+"Polk","Eagle",2025-08-19,10:20:00,"2","EST",
+"Polk","Eagle",2025-08-19,10:20:00,"2","EST",
+"Polk","Eagle",2025-08-19,10:20:00,"2","EST",
+"Polk","Eagle",2025-08-19,10:20:00,"2","EST","Pol-Eagle-2"
+"Polk","Eagle",2025-08-19,10:59:59,"3","EST",
+"Polk","Eagle",2025-08-19,10:59:59,"3","EST",
+"Polk","Eagle",2025-08-19,10:59:59,"3","EST",
+"Polk","Eagle",2025-08-19,10:59:59,"3","EST","Pol-Eagle-3"
+"Polk","Fannie",2025-07-03,10:10:00,"2","EST",
+"Polk","Fannie",2025-07-03,10:10:00,"2","EST",
+"Polk","Fannie",2025-07-03,10:10:00,"2","EST","Pol-Fannie-2"
+"Polk","Fannie",2025-07-03,10:20:00,"3","EST",
+"Polk","Fannie",2025-07-03,10:20:00,"3","EST",
+"Polk","Fannie",2025-07-03,10:20:00,"3","EST","Pol-Fannie-3"
+"Polk","Fannie",2025-08-05,10:59:59,"1","EST",
+"Polk","Fannie",2025-08-05,10:59:59,"1","EST",
+"Polk","Fannie",2025-08-05,10:59:59,"1","EST","Pol-Fannie-1"
+"Polk","Fannie",2025-08-05,11:15:00,"2","EST",
+"Polk","Fannie",2025-08-05,11:15:00,"2","EST",
+"Polk","Fannie",2025-08-05,11:15:00,"2","EST","Pol-Fannie-2"
+"Polk","Fannie",2025-08-05,11:30:00,"3","EST",
+"Polk","Fannie",2025-08-05,11:30:00,"3","EST",
+"Polk","Fannie",2025-08-05,11:30:00,"3","EST","Pol-Fannie-3"
+"Polk","Lulu",2025-08-19,12:00:00,"1","EST",
+"Polk","Lulu",2025-08-19,12:00:00,"1","EST","Pol-Lulu-1"
+"Polk","Lulu",2025-08-19,12:05:00,"2","EST",
+"Polk","Lulu",2025-08-19,12:05:00,"2","EST","Pol-Lulu-2"
+"Polk","Lulu",2025-08-19,12:10:00,"3","EST",
+"Polk","Lulu",2025-08-19,12:10:00,"3","EST","Pol-Lulu-3"
+"Polk","May",2025-08-20,11:26:00,"1","EST","Pol-May-1"
+"Polk","May",2025-08-20,11:29:00,"2","EST","Pol-May-2"
+"Polk","May",2025-08-20,11:31:00,"3","EST","Pol-May-3"
+"Polk","Saddlebag",2025-07-22,10:14:59,"2","EST","Pol-Saddlebag-2"
+"Polk","Saddlebag",2025-07-22,10:22:00,"3","EST","Pol-Saddlebag-3"
+"Polk","Shipp",2025-08-20,11:47:00,"1","EST","Pol-Shipp-1"
+"Polk","Shipp",2025-08-20,11:44:00,"2","EST","Pol-Shipp-2"
+"Polk","Shipp",2025-08-20,11:41:00,"3","EST","Pol-Shipp-3"
+"Polk","Whistler",2025-07-20,09:45:00,"2","EST","Pol-Whistler-2"
+"Polk","Whistler",2025-07-20,09:54:00,"3","EST","Pol-Whistler-3"
+"Polk","Whistler",2025-08-15,09:02:00,"1","EST","Pol-Whistler-1"
+"Polk","Whistler",2025-08-15,09:09:00,"2","EST","Pol-Whistler-2"
+"Polk","Whistler",2025-08-15,09:16:00,"3","EST","Pol-Whistler-3"
+"Lake","Bear",2025-07-07,08:30:00,"2","EST","Lak-Bear-2"
+"Lake","Bear",2025-07-07,08:44:59,"3","EST","Lak-Bear-3"
+"Lake","Bugg Springs",2025-07-19,12:15:00,"2","EST",
+"Lake","Bugg Springs",2025-07-19,12:15:00,"2","EST","Lak-BuSprings-2"
+"Lake","Crown",2025-07-27,09:55:00,"2","EST","Lak-Crown-2"
+"Lake","Crown",2025-07-27,10:05:00,"3","EST","Lak-Crown-3"
+"Lake","Dorr",2025-06-23,12:32:00,"1","EST",
+"Lake","Dorr",2025-06-23,12:32:00,"1","EST",
+"Lake","Dorr",2025-06-23,12:32:00,"1","EST","Lak-Dorr-1"
+"Lake","Dorr",2025-06-23,12:36:00,"2","EST",
+"Lake","Dorr",2025-06-23,12:36:00,"2","EST","Lak-Dorr-2"
+"Lake","Dorr",2025-06-23,12:40:00,"3","EST",
+"Lake","Dorr",2025-06-23,12:40:00,"3","EST","Lak-Dorr-3"
+"Lake","Grasshopper",2025-06-23,13:55:00,"1","EST",
+"Lake","Grasshopper",2025-06-23,13:55:00,"1","EST","Lak-Grasshopp-1"
+"Lake","Grasshopper",2025-06-23,14:01:00,"2","EST",
+"Lake","Grasshopper",2025-06-23,14:01:00,"2","EST","Lak-Grasshopp-2"
+"Lake","Grasshopper",2025-06-23,14:05:00,"3","EST",
+"Lake","Grasshopper",2025-06-23,14:05:00,"3","EST","Lak-Grasshopp-3"
+"Lake","Griffin West",2025-04-29,18:10:00,"2","EST","Lak-Griffin W-2"
+"Lake","Griffin West",2025-04-29,18:14:59,"3","EST","Lak-Griffin W-3"
+"Lake","Griffin West",2025-05-20,19:22:00,"1","EST","Lak-Griffin W-1"
+"Lake","Griffin West",2025-05-20,19:27:59,"2","EST","Lak-Griffin W-2"
+"Lake","Griffin West",2025-05-20,19:30:00,"3","EST","Lak-Griffin W-3"
+"Lake","Griffin West",2025-06-18,18:29:00,"1","EST","Lak-Griffin W-1"
+"Lake","Griffin West",2025-06-18,18:34:59,"2","EST","Lak-Griffin W-2"
+"Lake","Griffin West",2025-06-18,18:40:00,"3","EST","Lak-Griffin W-3"
+"Lake","Jewel",2025-07-27,09:15:00,"2","EST","Lak-Jewel-2"
+"Lake","Jewel",2025-07-27,09:29:59,"3","EST","Lak-Jewel-3"
+"Lake","Joanna",2025-07-10,08:54:00,"2","EST","Lak-Joanna-2"
+"Lake","Joanna",2025-07-10,09:02:00,"3","EST","Lak-Joanna-3"
+"Lake","Louisa",2025-07-07,07:20:00,"2","EST",
+"Lake","Louisa",2025-07-07,07:20:00,"2","EST",
+"Lake","Louisa",2025-07-07,07:20:00,"2","EST",
+"Lake","Louisa",2025-07-07,07:20:00,"2","EST","Lak-Louisa-2"
+"Lake","Louisa",2025-07-07,07:35:00,"3","EST",
+"Lake","Louisa",2025-07-07,07:35:00,"3","EST",
+"Lake","Louisa",2025-07-07,07:35:00,"3","EST",
+"Lake","Louisa",2025-07-07,07:35:00,"3","EST","Lak-Louisa-3"
+"Lake","Royal",2025-07-27,10:35:00,"2","EST","Lak-Royal-2"
+"Lake","Royal",2025-07-27,10:40:00,"3","EST","Lak-Royal-3"
+"Lake","Wildcat",2025-06-26,12:50:00,"1","EST",
+"Lake","Wildcat",2025-06-26,12:50:00,"1","EST",
+"Lake","Wildcat",2025-06-26,12:50:00,"1","EST","Lak-Wildcat-1"
+"Lake","Wildcat",2025-06-26,12:54:00,"2","EST",
+"Lake","Wildcat",2025-06-26,12:54:00,"2","EST","Lak-Wildcat-2"
+"Lake","Wildcat",2025-06-26,12:58:00,"3","EST",
+"Lake","Wildcat",2025-06-26,12:58:00,"3","EST","Lak-Wildcat-3"
+"Pinellas","Autumn",2025-04-30,09:05:00,"2","EST","Pin-Autumn-2"
+"Pinellas","Autumn",2025-05-31,09:29:59,"1","EST","Pin-Autumn-1"
+"Pinellas","Autumn",2025-05-31,09:39:59,"2","EST","Pin-Autumn-2"
+"Pinellas","Crescent",2025-07-31,07:59:00,"1","EST","Pin-Crescent-1"
+"Pinellas","Crescent",2025-07-31,08:10:00,"2","EST","Pin-Crescent-2"
+"Pinellas","Crescent",2025-07-31,08:19:00,"3","EST","Pin-Crescent-3"
+"Pinellas","Meadow West",2025-05-21,15:05:00,"1","EST","Pin-MeadowW-1"
+"Pinellas","Meadow West",2025-05-21,15:13:00,"2","EST","Pin-MeadowW-2"
+"Pinellas","Meadow West",2025-06-23,10:07:00,"1","EST","Pin-MeadowW-1"
+"Pinellas","Meadow West",2025-06-23,10:12:59,"2","EST","Pin-MeadowW-2"
+"Pinellas","Saundra",2025-07-02,08:56:00,"2","EST","Pin-Saundra-2"
+"Pinellas","Saundra",2025-07-02,09:10:00,"3","EST","Pin-Saundra-3"
+"Pinellas","Seminole",2025-08-04,10:45:00,"1","EST",
+"Pinellas","Seminole",2025-08-04,10:45:00,"1","EST","Pin-Seminole-1"
+"Pinellas","Seminole",2025-08-04,11:05:00,"2","EST",
+"Pinellas","Seminole",2025-08-04,11:05:00,"2","EST","Pin-Seminole-2"
+"Pinellas","Seminole",2025-08-04,11:37:00,"3","EST",
+"Pinellas","Seminole",2025-08-04,11:37:00,"3","EST","Pin-Seminole-3"
+"Pinellas","Winston",2025-05-18,15:40:00,"1","EST","Pin-Winston-1"
+"Pinellas","Winston",2025-05-18,15:45:00,"2","EST","Pin-Winston-2"
+"Pinellas","Winston",2025-05-18,15:50:00,"3","EST","Pin-Winston-3"
+"Polk","Eloise",2025-08-21,11:22:00,"1","EST","Pol-Eloise-1"
+"Polk","Eloise",2025-08-21,11:29:00,"2","EST","Pol-Eloise-2"
+"Polk","Eloise",2025-08-21,11:38:00,"3","EST","Pol-Eloise-3"
+"Hillsborough","Alice",2025-08-17,13:59:00,"1","EST","Hil-Alice-1"
+"Hillsborough","Alice",2025-08-17,13:59:00,"1","EST",
+"Hillsborough","Alice",2025-08-17,14:14:00,"2","EST","Hil-Alice-2"
+"Hillsborough","Alice",2025-08-17,14:14:00,"2","EST",
+"Hillsborough","Alice",2025-08-17,14:27:00,"3","EST","Hil-Alice-3"
+"Hillsborough","Alice",2025-08-17,14:27:00,"3","EST",
+"Hillsborough","Armistead",2025-07-29,12:21:59,"2","EST",
+"Hillsborough","Armistead",2025-07-29,12:21:59,"2","EST","Hil-Armistead-2"
+"Hillsborough","Armistead",2025-07-29,12:33:00,"3","EST",
+"Hillsborough","Armistead",2025-07-29,12:33:00,"3","EST","Hil-Armistead-3"
+"Hillsborough","Brant",2025-08-22,17:15:00,"1","EST",
+"Hillsborough","Brant",2025-08-22,17:15:00,"1","EST","Hil-Brant-1"
+"Hillsborough","Brant",2025-08-22,17:00:00,"2","EST",
+"Hillsborough","Brant",2025-08-22,17:00:00,"2","EST","Hil-Brant-2"
+"Hillsborough","Brant",2025-08-22,16:43:00,"3","EST",
+"Hillsborough","Brant",2025-08-22,16:43:00,"3","EST","Hil-Brant-3"
+"Hillsborough","Calm",2025-07-20,07:25:00,"2","EST","Hil-Calm-2"
+"Hillsborough","Calm",2025-07-20,07:33:00,"3","EST","Hil-Calm-3"
+"Hillsborough","Cedar West",2025-05-30,10:00:00,"2","EST","Hil-CedarWest-2"
+"Hillsborough","Cedar West",2025-06-30,10:00:00,"2","EST","Hil-CedarWest-2"
+"Hillsborough","Cedar West",2025-07-26,09:00:00,"2","EST","Hil-CedarWest-2"
+"Hillsborough","Cedar West",2025-08-31,09:00:00,"2","EST","Hil-CedarWest-2"
+"Hillsborough","Charles",2025-08-30,13:30:00,"1","EST","Hil-Charles-1"
+"Hillsborough","Charles",2025-08-30,13:35:00,"2","EST","Hil-Charles-2"
+"Hillsborough","Charles",2025-08-30,13:40:00,"3","EST","Hil-Charles-3"
+"Hillsborough","Church",2025-08-27,08:47:59,"1","EST","Hil-Church-1"
+"Hillsborough","Church",2025-08-27,08:47:59,"1","EST",
+"Hillsborough","Church",2025-08-27,09:00:00,"2","EST","Hil-Church-2"
+"Hillsborough","Church",2025-08-27,09:00:00,"2","EST",
+"Hillsborough","Church",2025-08-27,09:12:00,"3","EST","Hil-Church-3"
+"Hillsborough","Church",2025-08-27,09:12:00,"3","EST",
+"Hillsborough","East",2025-08-27,17:00:00,"1","EST","Hil-East-1"
+"Hillsborough","East",2025-08-27,16:55:00,"2","EST","Hil-East-2"
+"Hillsborough","East",2025-08-27,16:45:00,"3","EST","Hil-East-3"
+"Hillsborough","Elizabeth",2025-08-13,10:50:00,"1","EST","Hil-Elizabeth-1"
+"Hillsborough","Elizabeth",2025-08-13,10:59:59,"2","EST","Hil-Elizabeth-2"
+"Hillsborough","Elizabeth",2025-08-13,11:09:59,"3","EST","Hil-Elizabeth-3"
+"Hillsborough","Heather",2025-07-03,12:30:00,"2","EST","Hil-Heather-2"
+"Hillsborough","Heather",2025-07-03,12:19:59,"3","EST","Hil-Heather-3"
+"Hillsborough","June",2025-08-19,11:01:00,"1","EST","Hil-June-1"
+"Hillsborough","June",2025-08-19,11:09:59,"2","EST","Hil-June-2"
+"Hillsborough","June",2025-08-19,11:22:00,"3","EST","Hil-June-3"
+"Hillsborough","Keystone North",2025-08-27,08:50:00,"1","EST","Hil-KeystoneN-1"
+"Hillsborough","Keystone North",2025-08-27,08:58:59,"2","EST","Hil-KeystoneN-2"
+"Hillsborough","Keystone North",2025-08-27,09:05:00,"3","EST","Hil-KeystoneN-3"
+"Hillsborough","Little Wilson",2025-08-30,09:45:00,"1","EST","Hil-LittleWi-1"
+"Hillsborough","Little Wilson",2025-08-30,09:29:59,"2","EST","Hil-LittleWi-2"
+"Hillsborough","Little Wilson",2025-08-30,10:00:00,"3","EST","Hil-LittleWi-3"
+"Hillsborough","Nancy",2025-08-03,16:08:00,"1","EST","Hil-Nancy-1"
+"Hillsborough","Nancy",2025-08-03,16:15:00,"2","EST","Hil-Nancy-2"
+"Hillsborough","Nancy",2025-08-03,16:25:00,"3","EST","Hil-Nancy-3"
+"Hillsborough","North Pond",2025-07-05,09:06:00,"2","EST","Hil-NorthPd-2"
+"Hillsborough","North Pond",2025-07-05,09:14:00,"3","EST","Hil-NorthPd-3"
+"Hillsborough","Pine",2025-08-19,10:02:00,"1","EST","Hil-Pine-1"
+"Hillsborough","Pine",2025-08-19,10:07:00,"2","EST","Hil-Pine-2"
+"Hillsborough","Pine",2025-08-19,10:12:00,"3","EST","Hil-Pine-3"
+"Hillsborough","Pretty",2025-08-26,18:40:00,"1","EST","Hil-Pretty-1"
+"Hillsborough","Pretty",2025-08-26,18:42:59,"2","EST","Hil-Pretty-2"
+"Hillsborough","Pretty",2025-08-26,18:47:00,"3","EST","Hil-Pretty-3"
+"Hillsborough","Strawberry",2025-08-26,16:30:00,"1","EST","Hil-Strawberr-1"
+"Hillsborough","Strawberry",2025-08-26,16:35:00,"2","EST","Hil-Strawberr-2"
+"Hillsborough","Strawberry",2025-08-26,16:40:00,"3","EST","Hil-Strawberr-3"
+"Hillsborough","Taylor",2025-08-31,16:00:00,"1","EST","Hil-Taylor-1"
+"Hillsborough","Taylor",2025-08-31,16:04:59,"2","EST","Hil-Taylor-2"
+"Hillsborough","Taylor",2025-08-31,16:10:00,"3","EST","Hil-Taylor-3"
+"Hillsborough","Zambito East",2025-08-17,13:18:00,"1","EST","Hil-ZambitoE-1"
+"Hillsborough","Zambito East",2025-08-17,14:31:00,"2","EST","Hil-ZambitoE-2"
+"Hillsborough","Zambito East",2025-08-17,14:32:59,"3","EST","Hil-ZambitoE-3"
+"Seminole","Brantley",2025-08-23,08:00:00,"1","EST",
+"Seminole","Brantley",2025-08-23,08:00:00,"1","EST","Sem-Brantley-1"
+"Seminole","Brantley",2025-08-23,08:05:00,"2","EST",
+"Seminole","Brantley",2025-08-23,08:05:00,"2","EST","Sem-Brantley-2"
+"Seminole","Brantley",2025-08-23,08:10:00,"3","EST",
+"Seminole","Brantley",2025-08-23,08:10:00,"3","EST","Sem-Brantley-3"
+"Seminole","Brantley",2025-09-27,09:00:00,"1","EST",
+"Seminole","Brantley",2025-09-27,09:00:00,"1","EST","Sem-Brantley-1"
+"Seminole","Brantley",2025-09-27,09:05:00,"2","EST",
+"Seminole","Brantley",2025-09-27,09:05:00,"2","EST","Sem-Brantley-2"
+"Seminole","Brantley",2025-09-27,09:10:00,"3","EST",
+"Seminole","Brantley",2025-09-27,09:10:00,"3","EST","Sem-Brantley-3"
+"Seminole","East",2025-09-20,10:36:00,"1","EST","Sem-East-1"
+"Seminole","East",2025-09-20,10:45:00,"2","EST","Sem-East-2"
+"Seminole","East",2025-09-20,10:54:00,"3","EST","Sem-East-3"
+"Seminole","Little Bear",2025-09-24,11:44:59,"1","EST","Sem-LittleBe-1"
+"Seminole","Little Bear",2025-09-24,12:00:00,"2","EST","Sem-LittleBe-2"
+"Seminole","Little Bear",2025-09-24,12:15:00,"3","EST","Sem-LittleBe-3"
+"Seminole","Secret",2025-09-03,10:20:00,"1","EST","Sem-Secret-1"
+"Seminole","Secret",2025-09-03,10:14:59,"2","EST","Sem-Secret-2"
+"Seminole","Secret",2025-09-03,10:10:00,"3","EST","Sem-Secret-3"
+"Seminole","Secret",2025-10-01,13:10:00,"1","EST","Sem-Secret-1"
+"Seminole","Secret",2025-10-01,13:00:00,"2","EST","Sem-Secret-2"
+"Seminole","Secret",2025-10-01,13:04:59,"3","EST","Sem-Secret-3"
+"Seminole","Triplet Middle",2025-09-03,09:10:00,"1","EST","Sem-TripletM-1"
+"Seminole","Triplet Middle",2025-09-03,09:15:00,"2","EST","Sem-TripletM-2"
+"Seminole","Triplet Middle",2025-09-03,09:20:00,"3","EST","Sem-TripletM-3"
+"Seminole","Triplet North",2025-09-03,09:00:00,"1","EST","Sem-TripletN-1"
+"Seminole","Triplet North",2025-09-03,08:54:59,"2","EST","Sem-TripletN-2"
+"Seminole","Triplet North",2025-09-03,09:05:00,"3","EST","Sem-TripletN-3"
+"Seminole","Triplet North",2025-10-01,10:55:00,"1","EST","Sem-TripletN-1"
+"Seminole","Triplet North",2025-10-01,10:50:00,"2","EST","Sem-TripletN-2"
+"Seminole","Triplet North",2025-10-01,10:59:59,"3","EST","Sem-TripletN-3"
+"Seminole","Triplet South",2025-10-01,11:30:00,"1","EST","Sem-TripletS-1"
+"Seminole","Triplet South",2025-10-01,11:20:00,"2","EST","Sem-TripletS-2"
+"Seminole","Triplet South",2025-10-01,11:25:00,"3","EST","Sem-TripletS-3"
+"Seminole","Bear",2025-08-28,11:36:00,"1","EST",
+"Seminole","Bear",2025-08-28,11:36:00,"1","EST",
+"Seminole","Bear",2025-08-28,11:36:00,"1","EST","Sem-Bear-1"
+"Seminole","Bear",2025-08-28,11:48:00,"2","EST",
+"Seminole","Bear",2025-08-28,11:48:00,"2","EST",
+"Seminole","Bear",2025-08-28,11:48:00,"2","EST","Sem-Bear-2"
+"Seminole","Bear",2025-08-28,11:58:00,"3","EST",
+"Seminole","Bear",2025-08-28,11:58:00,"3","EST",
+"Seminole","Bear",2025-08-28,11:58:00,"3","EST","Sem-Bear-3"
+"Seminole","Bear",2025-08-28,11:23:00,"4","EST","Sem-Bear-4"
+"Seminole","Clear",2025-09-24,12:00:00,"1","EST","Sem-Clear-1"
+"Seminole","Clear",2025-09-24,12:17:00,"2","EST","Sem-Clear-2"
+"Seminole","Clear",2025-09-24,12:21:59,"3","EST","Sem-Clear-3"
+"Seminole","Concord",2025-09-04,10:30:00,"1","EST","Sem-Concord-1"
+"Seminole","Concord",2025-09-04,10:14:59,"2","EST","Sem-Concord-2"
+"Seminole","Concord",2025-09-04,10:20:00,"3","EST","Sem-Concord-3"
+"Seminole","Concord",2025-10-01,15:05:00,"1","EST","Sem-Concord-1"
+"Seminole","Concord",2025-10-01,15:10:00,"2","EST","Sem-Concord-2"
+"Seminole","Concord",2025-10-01,15:00:00,"3","EST","Sem-Concord-3"
+"Seminole","Crystal Bowl",2025-08-31,15:00:00,"1","EST","Sem-CrystalB-1"
+"Seminole","Crystal Bowl",2025-08-31,15:10:00,"2","EST","Sem-CrystalB-2"
+"Seminole","Crystal Bowl",2025-09-30,15:30:00,"1","EST","Sem-CrystalB-1"
+"Seminole","Crystal Bowl",2025-09-30,15:45:00,"2","EST","Sem-CrystalB-2"
+"Seminole","Lost",2025-08-02,13:49:59,"1","EST","Sem-Lost-1"
+"Seminole","Lost",2025-08-02,14:00:00,"2","EST","Sem-Lost-2"
+"Seminole","Lost",2025-08-02,14:10:00,"3","EST","Sem-Lost-3"
+"Seminole","Lost",2025-09-07,17:00:00,"1","EST","Sem-Lost-1"
+"Seminole","Lost",2025-09-07,17:15:00,"2","EST","Sem-Lost-2"
+"Seminole","Lost",2025-09-07,17:29:59,"3","EST","Sem-Lost-3"
+"Seminole","Mary",2025-08-16,,"1","EST","Sem-Mary-1"
+"Seminole","Mary",2025-08-16,,"2","EST","Sem-Mary-2"
+"Seminole","Mary",2025-08-16,,"3","EST","Sem-Mary-3"
+"Seminole","Mary",2025-09-21,13:40:00,"1","EST","Sem-Mary-1"
+"Seminole","Mary",2025-09-21,14:00:00,"2","EST","Sem-Mary-2"
+"Seminole","Mary",2025-09-21,14:19:00,"3","EST","Sem-Mary-3"
+"Seminole","Monroe West",2025-08-25,17:29:59,"1","EST","Sem-MonroeWe-1"
+"Seminole","Monroe West",2025-08-25,17:36:59,"2","EST","Sem-MonroeWe-2"
+"Seminole","Monroe West",2025-08-25,17:45:00,"3","EST","Sem-MonroeWe-3"
+"Seminole","Monroe West",2025-09-24,18:05:00,"1","EST","Sem-MonroeWe-1"
+"Seminole","Monroe West",2025-09-24,18:16:00,"2","EST","Sem-MonroeWe-2"
+"Seminole","Monroe West",2025-09-24,18:47:00,"3","EST","Sem-MonroeWe-3"
+"Seminole","Quail Pond",2025-09-04,11:09:59,"1","EST","Sem-QuailP-1"
+"Seminole","Quail Pond",2025-09-04,11:05:00,"2","EST","Sem-QuailP-2"
+"Seminole","Quail Pond",2025-09-04,10:59:59,"3","EST","Sem-QuailP-3"
+"Seminole","Quail Pond",2025-10-01,16:00:00,"1","EST","Sem-QuailP-1"
+"Seminole","Quail Pond",2025-10-01,16:04:59,"2","EST","Sem-QuailP-2"
+"Seminole","Quail Pond",2025-10-01,16:10:00,"3","EST","Sem-QuailP-3"
+"Seminole","Queens Mirror",2025-08-29,,"1","EST","Sem-QueensMi-1"
+"Seminole","Queens Mirror",2025-08-29,,"2","EST","Sem-QueensMi-2"
+"Seminole","Queens Mirror",2025-08-29,,"3","EST","Sem-QueensMi-3"
+"Seminole","Silver",2025-08-25,08:40:00,"1","EST","Sem-Silver-1"
+"Seminole","Silver",2025-08-25,08:35:00,"2","EST","Sem-Silver-2"
+"Seminole","Silver",2025-08-25,08:30:00,"3","EST","Sem-Silver-3"
+"Seminole","Silver",2025-09-23,07:25:00,"1","EST","Sem-Silver-1"
+"Seminole","Silver",2025-09-23,07:20:00,"2","EST","Sem-Silver-2"
+"Seminole","Silver",2025-09-23,07:15:00,"3","EST","Sem-Silver-3"
+"Seminole","Spring",2025-08-03,09:55:00,"1","EST","Sem-Spring-1"
+"Seminole","Spring",2025-08-03,10:00:00,"2","EST","Sem-Spring-2"
+"Seminole","Spring",2025-08-03,10:05:00,"3","EST","Sem-Spring-3"
+"Seminole","Spring",2025-09-28,10:34:00,"1","EST","Sem-Spring-1"
+"Seminole","Spring",2025-09-28,10:38:00,"2","EST","Sem-Spring-2"
+"Seminole","Spring",2025-09-28,10:44:00,"3","EST","Sem-Spring-3"
+"Seminole","Triplet Middle",2025-10-01,11:05:00,"1","EST","Sem-TripletM-1"
+"Seminole","Triplet Middle",2025-10-01,11:09:59,"2","EST","Sem-TripletM-2"
+"Seminole","Triplet Middle",2025-10-01,11:15:00,"3","EST","Sem-TripletM-3"
+"Seminole","Triplet South",2025-09-03,09:35:00,"1","EST","Sem-TripletS-1"
+"Seminole","Triplet South",2025-09-03,09:29:59,"2","EST","Sem-TripletS-2"
+"Seminole","Triplet South",2025-09-03,09:25:00,"3","EST","Sem-TripletS-3"
+"Seminole","Wekiva",2025-09-24,11:15:00,"1","EST","Sem-Wekiva-1"
+"Seminole","Wekiva",2025-09-24,11:09:59,"2","EST","Sem-Wekiva-2"
+"Seminole","Wekiva",2025-09-24,11:05:00,"3","EST","Sem-Wekiva-3"
+"Clay","Asbury North",2025-05-31,15:15:00,"1","EST","Cla-AsburyNo-1"
+"Clay","Asbury North",2025-05-31,15:15:00,"1","EST",
+"Clay","Asbury North",2025-05-31,15:19:59,"2","EST","Cla-AsburyNo-2"
+"Clay","Asbury North",2025-05-31,15:19:59,"2","EST",
+"Clay","Asbury North",2025-05-31,15:25:00,"3","EST","Cla-AsburyNo-3"
+"Clay","Asbury North",2025-05-31,15:25:00,"3","EST",
+"Clay","Asbury North",2025-08-21,12:21:59,"1","EST","Cla-AsburyNo-1"
+"Clay","Asbury North",2025-08-21,12:21:59,"1","EST",
+"Clay","Asbury North",2025-08-21,12:30:00,"2","EST","Cla-AsburyNo-2"
+"Clay","Asbury North",2025-08-21,12:30:00,"2","EST",
+"Clay","Asbury North",2025-08-21,12:35:00,"3","EST","Cla-AsburyNo-3"
+"Clay","Asbury North",2025-08-21,12:35:00,"3","EST",
+"Clay","Deer",2025-08-06,08:50:00,"1","EST","Cla-Deer-1"
+"Clay","Deer",2025-08-06,08:54:59,"2","EST","Cla-Deer-2"
+"Clay","Deer",2025-09-08,10:02:00,"1","EST","Cla-Deer-1"
+"Clay","Deer",2025-09-08,10:06:00,"2","EST","Cla-Deer-2"
+"Clay","Deer",2025-10-13,09:46:00,"1","EST","Cla-Deer-1"
+"Clay","Deer",2025-10-13,09:50:00,"2","EST","Cla-Deer-2"
+"Clay","Fox Valley",2025-07-12,09:18:00,"2","EST","Cla-FoxValley-2"
+"Clay","Fox Valley",2025-08-16,08:00:00,"1","EST","Cla-FoxValley-1"
+"Clay","Fox Valley",2025-08-16,08:10:00,"2","EST","Cla-FoxValley-2"
+"Clay","Fox Valley",2025-09-13,09:15:00,"1","EST","Cla-FoxValley-1"
+"Clay","Fox Valley",2025-09-13,09:05:00,"2","EST","Cla-FoxValley-2"
+"Clay","Gold Head Branch-1",2025-08-06,12:55:00,"1","EST","Cla-GoldBranch1"
+"Clay","Gold Head Branch-2",2025-08-06,13:06:59,"1","EST","Cla-GoldBranch2"
+"Clay","Gold Head Branch-1",2025-09-08,11:58:00,"1","EST","Cla-GoldBranch1"
+"Clay","Gold Head Branch-2",2025-09-08,12:06:00,"1","EST","Cla-GoldBranch2"
+"Clay","Gold Head Branch-1",2025-10-14,14:55:00,"1","EST","Cla-GoldBranch1"
+"Clay","Gold Head Branch-2",2025-10-14,15:05:00,"1","EST","Cla-GoldBranch2"
+"Clay","Johnson",2025-08-06,10:48:00,"1","EST","Cla-Johnson-1"
+"Clay","Johnson",2025-08-06,10:55:00,"2","EST","Cla-Johnson-2"
+"Clay","Johnson",2025-08-06,11:02:00,"3","EST","Cla-Johnson-3"
+"Clay","Johnson",2025-09-09,11:13:00,"1","EST","Cla-Johnson-1"
+"Clay","Johnson",2025-09-09,11:18:00,"2","EST","Cla-Johnson-2"
+"Clay","Johnson",2025-09-09,11:24:00,"3","EST","Cla-Johnson-3"
+"Clay","Johnson",2025-10-13,10:57:59,"1","EST","Cla-Johnson-1"
+"Clay","Johnson",2025-10-13,11:02:00,"2","EST","Cla-Johnson-2"
+"Clay","Johnson",2025-10-13,11:07:00,"3","EST","Cla-Johnson-3"
+"Clay","Little Johnson",2025-08-06,12:23:00,"1","EST","Cla-LittleJo-1"
+"Clay","Little Johnson",2025-08-06,12:17:59,"2","EST","Cla-LittleJo-2"
+"Clay","Little Johnson",2025-08-06,12:13:00,"3","EST","Cla-LittleJo-3"
+"Clay","Little Johnson",2025-09-08,12:32:00,"1","EST","Cla-LittleJo-1"
+"Clay","Little Johnson",2025-09-08,12:36:00,"2","EST","Cla-LittleJo-2"
+"Clay","Little Johnson",2025-09-08,12:42:00,"3","EST","Cla-LittleJo-3"
+"Clay","Little Johnson",2025-10-13,11:54:59,"1","EST","Cla-LittleJo-1"
+"Clay","Little Johnson",2025-10-13,11:50:00,"2","EST","Cla-LittleJo-2"
+"Clay","Little Johnson",2025-10-13,11:44:59,"3","EST","Cla-LittleJo-3"
+"Clay","Sheelar",2025-08-06,09:38:00,"1","EST","Cla-Sheelar-1"
+"Clay","Sheelar",2025-08-06,09:41:59,"2","EST","Cla-Sheelar-2"
+"Clay","Sheelar",2025-08-06,09:46:00,"3","EST","Cla-Sheelar-3"
+"Clay","Sheelar",2025-09-08,08:52:00,"1","EST","Cla-Sheelar-1"
+"Clay","Sheelar",2025-09-08,08:58:59,"2","EST","Cla-Sheelar-2"
+"Clay","Sheelar",2025-09-08,09:04:00,"3","EST","Cla-Sheelar-3"
+"Clay","Sheelar",2025-10-13,08:46:59,"1","EST","Cla-Sheelar-1"
+"Clay","Sheelar",2025-10-13,08:56:59,"2","EST","Cla-Sheelar-2"
+"Clay","Sheelar",2025-10-13,08:41:00,"3","EST","Cla-Sheelar-3"
+"Columbia","Jeffery",2025-01-15,15:55:00,"1","EST","Col-Jeffery-1"
+"Columbia","Jeffery",2025-01-15,15:55:00,"1","EST",
+"Columbia","Jeffery",2025-01-15,16:04:59,"2","EST","Col-Jeffery-2"
+"Columbia","Jeffery",2025-01-15,16:04:59,"2","EST",
+"Columbia","Jeffery",2025-01-15,16:15:00,"3","EST","Col-Jeffery-3"
+"Columbia","Jeffery",2025-01-15,16:15:00,"3","EST",
+"Columbia","Jeffery",2025-02-28,13:30:00,"1","EST","Col-Jeffery-1"
+"Columbia","Jeffery",2025-02-28,13:30:00,"1","EST",
+"Columbia","Jeffery",2025-02-28,13:40:00,"2","EST","Col-Jeffery-2"
+"Columbia","Jeffery",2025-02-28,13:40:00,"2","EST",
+"Columbia","Jeffery",2025-02-28,13:49:59,"3","EST","Col-Jeffery-3"
+"Columbia","Jeffery",2025-02-28,13:49:59,"3","EST",
+"Hernando","Mountain",2025-06-24,08:35:00,"1","EST",
+"Hernando","Mountain",2025-06-24,08:35:00,"1","EST","Her-Mountain-1"
+"Hernando","Mountain",2025-06-24,08:44:59,"2","EST",
+"Hernando","Mountain",2025-06-24,08:44:59,"2","EST","Her-Mountain-2"
+"Hernando","Mountain",2025-06-24,08:50:00,"3","EST",
+"Hernando","Mountain",2025-06-24,08:50:00,"3","EST","Her-Mountain-3"
+"Sumter","Big Gant",2025-08-19,12:32:00,"1","EST","Sum-BigGant-1"
+"Sumter","Big Gant",2025-08-19,12:32:00,"1","EST",
+"Sumter","Big Gant",2025-08-19,12:53:00,"2","EST","Sum-BigGant-2"
+"Sumter","Big Gant",2025-08-19,12:53:00,"2","EST",
+"Sumter","Big Gant",2025-08-19,13:10:00,"3","EST","Sum-BigGant-3"
+"Sumter","Big Gant",2025-08-19,13:10:00,"3","EST",
+"Citrus","Little Henderson",2025-08-04,14:45:00,"1","EST","Cit-LittleHe-1"
+"Citrus","Little Henderson",2025-08-04,14:50:00,"2","EST","Cit-LittleHe-2"
+"Citrus","Little Henderson",2025-08-04,15:00:00,"3","EST","Cit-LittleHe-3"
+"Citrus","Little Spivey",2025-08-04,15:04:00,"1","EST","Cit-LittleSp-1"
+"Citrus","Little Spivey",2025-08-04,15:11:00,"2","EST","Cit-LittleSp-2"
+"Citrus","Little Spivey",2025-08-04,15:16:00,"3","EST","Cit-LittleSp-3"
+"Citrus","Little Spivey",2025-09-13,12:33:00,"1","EST","Cit-LittleSp-1"
+"Citrus","Little Spivey",2025-09-13,12:39:00,"2","EST","Cit-LittleSp-2"
+"Citrus","Little Spivey",2025-09-13,12:44:00,"3","EST","Cit-LittleSp-3"
+"Highlands","Catfish Creek-1",2025-09-21,10:05:00,"1","EST","Hig-Ca-Creek-1"
+"Highlands","Catfish Creek-2",2025-09-21,10:10:00,"1","EST","Hig-Ca-Creek-2"
+"Highlands","Catfish Creek-3",2025-09-21,10:14:59,"1","EST","Hig-Ca-Creek-3"
+"Highlands","June",2025-09-21,10:24:59,"1","EST","Hig-June-1"
+"Highlands","June",2025-09-21,10:35:00,"2","EST","Hig-June-2"
+"Highlands","June",2025-09-21,10:40:00,"3","EST","Hig-June-3"
+"Highlands","June North",2025-09-21,10:50:00,"1","EST","Hig-JuneN-1"
+"Highlands","June North",2025-09-21,10:59:59,"2","EST","Hig-JuneN-2"
+"Highlands","June North",2025-09-21,11:09:59,"3","EST","Hig-JuneN-3"
+"Highlands","Little Jackson",2025-09-22,13:46:00,"1","EST","Hig-LittleJa-1"
+"Highlands","Little Jackson",2025-09-22,13:53:00,"2","EST","Hig-LittleJa-2"
+"Highlands","Little Jackson",2025-09-22,13:59:00,"3","EST","Hig-LittleJa-3"
+"Highlands","Placid",2025-08-02,09:27:00,"1","EST",
+"Highlands","Placid",2025-08-02,09:27:00,"1","EST","Hig-Placid-1"
+"Highlands","Placid",2025-08-02,09:38:00,"2","EST",
+"Highlands","Placid",2025-08-02,09:38:00,"2","EST","Hig-Placid-2"
+"Highlands","Placid",2025-08-02,09:46:00,"3","EST",
+"Highlands","Placid",2025-08-02,09:46:00,"3","EST","Hig-Placid-3"
+"Highlands","Placid",2025-08-02,09:34:00,"4","EST","Hig-Placid-4"
+"Highlands","Viola",2025-09-13,18:00:00,"1","EST","Hig-Viola-1"
+"Highlands","Viola",2025-09-13,18:14:59,"2","EST","Hig-Viola-2"
+"Highlands","Viola",2025-09-13,18:30:00,"3","EST","Hig-Viola-3"
+"Osceola","Alligator Canal-1",2025-08-10,16:21:00,"1","EST","Osc-AlligatorCan-1-1"
+"Osceola","Alligator Canal-3",2025-08-10,16:51:59,"1","EST","Osc-AlligatorCan-3-1"
+"Osceola","Alligator",2025-08-10,16:40:00,"3","EST",
+"Osceola","Alligator",2025-08-10,16:40:00,"3","EST",
+"Osceola","Alligator",2025-08-10,16:40:00,"3","EST","Osc-Alligator-3"
+"Osceola","Alligator",2025-08-10,16:31:00,"4","EST","Osc-Alligator-4"
+"Osceola","Alligator",2025-08-10,16:26:00,"5","EST","Osc-Alligator-5"
+"Osceola","Alligator Canal-1",2025-08-30,10:37:00,"1","EST","Osc-AlligatorCan-1-1"
+"Osceola","Alligator Canal-3",2025-08-30,11:33:00,"1","EST","Osc-AlligatorCan-3-1"
+"Osceola","Alligator",2025-08-30,10:28:00,"3","EST",
+"Osceola","Alligator",2025-08-30,10:28:00,"3","EST",
+"Osceola","Alligator",2025-08-30,10:28:00,"3","EST","Osc-Alligator-3"
+"Osceola","Alligator",2025-08-30,10:23:00,"4","EST","Osc-Alligator-4"
+"Osceola","Alligator",2025-08-30,10:14:00,"5","EST","Osc-Alligator-5"
+"Osceola","Bellalago",2025-08-26,11:44:59,"1","EST","Osc-Bellalago-1"
+"Osceola","Bellalago",2025-08-26,11:54:59,"2","EST","Osc-Bellalago-2"
+"Osceola","Bellalago",2025-08-26,12:05:00,"3","EST","Osc-Bellalago-3"
+"Osceola","Buck",2025-09-08,08:11:00,"1","EST","Osc-Buck-1"
+"Osceola","Buck",2025-09-08,08:20:00,"2","EST","Osc-Buck-2"
+"Osceola","Buck",2025-09-08,08:31:00,"3","EST","Osc-Buck-3"
+"Osceola","Center",2025-08-13,10:50:00,"1","EST",
+"Osceola","Center",2025-08-13,10:50:00,"1","EST","Osc-Center-1"
+"Osceola","Center",2025-08-13,10:38:00,"2","EST",
+"Osceola","Center",2025-08-13,10:38:00,"2","EST","Osc-Center-2"
+"Osceola","Center",2025-08-13,10:30:00,"3","EST",
+"Osceola","Center",2025-08-13,10:30:00,"3","EST","Osc-Center-3"
+"Osceola","Coon",2025-08-13,10:00:00,"1","EST",
+"Osceola","Coon",2025-08-13,10:00:00,"1","EST","Osc-Coon-1"
+"Osceola","Coon",2025-08-13,10:05:00,"2","EST",
+"Osceola","Coon",2025-08-13,10:05:00,"2","EST","Osc-Coon-2"
+"Osceola","Coon",2025-08-13,10:10:00,"3","EST",
+"Osceola","Coon",2025-08-13,10:10:00,"3","EST","Osc-Coon-3"
+"Osceola","Fish",2025-07-19,11:50:00,"2","EST","Osc-Fish-2"
+"Osceola","Fish",2025-07-19,11:58:59,"3","EST","Osc-Fish-3"
+"Osceola","Tohopekaliga-Middle",2025-08-26,10:59:59,"1","EST","Osc-TohopekaM-1"
+"Osceola","Tohopekaliga-Middle",2025-08-26,11:15:00,"2","EST","Osc-TohopekaM-2"
+"Osceola","Tohopekaliga-Middle",2025-08-26,11:20:00,"3","EST","Osc-TohopekaM-3"
+"Highlands","Annie",2025-08-15,07:30:00,"1","EST","Hig-Annie-1"
+"Highlands","Annie",2025-08-15,07:35:00,"2","EST","Hig-Annie-2"
+"Highlands","Annie",2025-08-15,07:39:59,"3","EST","Hig-Annie-3"
+"Highlands","Catfish Creek-1",2025-08-20,10:57:59,"1","EST","Hig-Ca-Creek-1"
+"Highlands","Catfish Creek-2",2025-08-20,10:52:00,"1","EST","Hig-Ca-Creek-2"
+"Highlands","Catfish Creek-3",2025-08-20,10:46:00,"1","EST","Hig-Ca-Creek-3"
+"Highlands","Clay",2025-07-27,10:05:00,"1","EST",
+"Highlands","Clay",2025-07-27,10:05:00,"1","EST","Hig-Clay-1"
+"Highlands","Clay",2025-07-27,10:20:00,"2","EST",
+"Highlands","Clay",2025-07-27,10:20:00,"2","EST","Hig-Clay-2"
+"Highlands","Clay",2025-07-27,10:35:00,"3","EST",
+"Highlands","Clay",2025-07-27,10:35:00,"3","EST","Hig-Clay-3"
+"Highlands","Clay",2025-08-25,09:32:00,"1","EST",
+"Highlands","Clay",2025-08-25,09:32:00,"1","EST","Hig-Clay-1"
+"Highlands","Clay",2025-08-25,09:48:00,"2","EST",
+"Highlands","Clay",2025-08-25,09:48:00,"2","EST","Hig-Clay-2"
+"Highlands","Clay",2025-08-25,10:01:00,"3","EST",
+"Highlands","Clay",2025-08-25,10:01:00,"3","EST","Hig-Clay-3"
+"Highlands","Francis",2025-08-29,08:46:00,"1","EST","Hig-Francis-1"
+"Highlands","Francis",2025-08-29,08:53:00,"2","EST","Hig-Francis-2"
+"Highlands","Francis",2025-08-29,09:00:00,"3","EST","Hig-Francis-3"
+"Highlands","Jackson",2025-05-07,09:39:59,"1","EST",
+"Highlands","Jackson",2025-05-07,09:39:59,"1","EST","Hig-Jackson-1"
+"Highlands","Jackson",2025-05-07,09:50:00,"2","EST",
+"Highlands","Jackson",2025-05-07,09:50:00,"2","EST","Hig-Jackson-2"
+"Highlands","Jackson",2025-05-07,10:00:00,"3","EST",
+"Highlands","Jackson",2025-05-07,10:00:00,"3","EST","Hig-Jackson-3"
+"Highlands","Josephine Center",2025-08-04,11:38:00,"1","EST",
+"Highlands","Josephine Center",2025-08-04,11:38:00,"1","EST","Hig-JosephinC-1"
+"Highlands","Josephine Center",2025-08-04,11:33:00,"2","EST",
+"Highlands","Josephine Center",2025-08-04,11:33:00,"2","EST","Hig-JosephinC-2"
+"Highlands","Josephine Center",2025-08-04,11:27:00,"3","EST",
+"Highlands","Josephine Center",2025-08-04,11:27:00,"3","EST","Hig-JosephinC-3"
+"Highlands","Josephine East",2025-08-04,11:08:00,"1","EST",
+"Highlands","Josephine East",2025-08-04,11:08:00,"1","EST","Hig-JosephinE-1"
+"Highlands","Josephine East",2025-08-04,11:13:59,"2","EST",
+"Highlands","Josephine East",2025-08-04,11:13:59,"2","EST","Hig-JosephinE-2"
+"Highlands","Josephine East",2025-08-04,11:21:00,"3","EST",
+"Highlands","Josephine East",2025-08-04,11:21:00,"3","EST","Hig-JosephinE-3"
+"Highlands","Josephine West",2025-08-04,11:56:00,"1","EST",
+"Highlands","Josephine West",2025-08-04,11:56:00,"1","EST","Hig-JosephinW-1"
+"Highlands","Josephine West",2025-08-04,11:50:00,"2","EST",
+"Highlands","Josephine West",2025-08-04,11:50:00,"2","EST","Hig-JosephinW-2"
+"Highlands","Josephine West",2025-08-04,11:44:00,"3","EST",
+"Highlands","Josephine West",2025-08-04,11:44:00,"3","EST","Hig-JosephinW-3"
+"Highlands","June North",2025-08-20,11:47:00,"1","EST","Hig-JuneN-1"
+"Highlands","June North",2025-08-20,11:40:00,"2","EST","Hig-JuneN-2"
+"Highlands","June North",2025-08-20,11:30:00,"3","EST","Hig-JuneN-3"
+"Highlands","Lynn",2025-09-16,10:03:00,"1","EST","Hig-Lynn-1"
+"Highlands","Lynn",2025-09-16,10:11:00,"2","EST","Hig-Lynn-2"
+"Highlands","Lynn",2025-09-16,10:18:00,"3","EST","Hig-Lynn-3"
+"Escambia","Bayou Chico-1",2025-05-18,16:00:00,"1","CST","Esc-Ba-Chico-1"
+"Escambia","Bayou Chico-2",2025-05-18,16:20:00,"1","CST","Esc-Ba-Chico-2"
+"Escambia","Bayou Chico-3",2025-05-18,16:40:00,"1","CST","Esc-Ba-Chico-3"
+"Escambia","Bayou Grande-1",2025-06-28,13:11:00,"1","CST","Esc-Ba-Grande-1"
+"Escambia","Bayou Grande-2",2025-06-28,12:49:00,"1","CST","Esc-Ba-Grande-2"
+"Escambia","Bayou Grande-3",2025-06-28,11:58:00,"1","CST","Esc-Ba-Grande-3"
+"Escambia","Bayou Texar-1",2025-05-29,14:30:00,"1","CST","Esc-Ba-Tex-1"
+"Escambia","Bayou Texar-2",2025-05-29,14:25:00,"1","CST","Esc-Ba-Tex-2"
+"Escambia","Bayou Texar-3",2025-05-29,14:20:00,"1","CST","Esc-Ba-Tex-3"
+"Escambia","Pensacola Bay-1",2025-06-02,10:48:00,"1","CST","Esc-PensacolaBay-1"
+"Escambia","Pensacola Bay-2",2025-06-02,10:40:00,"1","CST","Esc-PensacolaBay-2"
+"Escambia","Pensacola Bay-3",2025-06-02,10:56:00,"1","CST","Esc-PensacolaBay-3"
+"Escambia","Perdido Bay-1",2025-06-03,09:29:59,"1","CST","Esc-PerdidoB-1"
+"Escambia","Perdido Bay-2",2025-06-03,09:43:59,"1","CST","Esc-PerdidoB-2"
+"Escambia","Perdido Bay-3",2025-06-03,10:00:00,"1","CST","Esc-PerdidoB-3"
+"Okaloosa","CBA Destin-1",2025-06-18,08:38:00,"1","CST","Oka-CB-Destin-1"
+"Okaloosa","CBA Destin-2",2025-06-18,09:04:00,"1","CST","Oka- Destin-2-1"
+"Okaloosa","CBA Destin-3",2025-06-18,09:22:00,"1","CST","Oka-CB-Destin-3"
+"Okaloosa","CBA Destin-4",2025-06-18,09:41:59,"1","CST","Oka-CB-Destin-4"
+"Okaloosa","CBA GAP-1",2025-07-30,,"1","CST","Oka-CBA-GAP-1-1"
+"Okaloosa","CBA GAP-2",2025-07-30,,"1","CST","Oka-CBA-GAP-2-1"
+"Okaloosa","CBA GAP-3",2025-07-30,,"1","CST","Oka-CBA-GAP-3-1"
+"Okaloosa","CBA Niceville-7",2025-05-30,09:52:00,"1","CST","Oka-ceville-7-1"
+"Okaloosa","CBA Niceville-8",2025-05-30,10:06:00,"1","CST","Oka-ceville-8-1"
+"Okaloosa","CBA Niceville-9",2025-05-30,10:20:00,"1","CST","Oka-CB-eville-9"
+"Okaloosa","CBA Niceville-10",2025-05-30,10:31:00,"1","CST","Oka-eville-10-1"
+"Okaloosa","CBA Santa Rosa Sound-1",2025-05-31,08:54:00,"1","CST","Oka-CB-SanRoS-1"
+"Okaloosa","CBA Santa Rosa Sound-2",2025-05-31,09:18:00,"1","CST","Oka-CB-SanRoS-2"
+"Okaloosa","CBA Santa Rosa Sound-3",2025-05-31,09:43:00,"1","CST","Oka-CB-SanRoS-3"
+"Okaloosa","CBA Santa Rosa Sound-1",2025-06-28,11:19:00,"1","CST","Oka-CB-SanRoS-1"
+"Okaloosa","CBA Santa Rosa Sound-2",2025-06-28,11:38:00,"1","CST","Oka-CB-SanRoS-2"
+"Okaloosa","CBA Santa Rosa Sound-3",2025-06-28,11:54:59,"1","CST","Oka-CB-SanRoS-3"
+"Okaloosa","CBA TKY-1",2025-05-22,15:00:00,"1","CST","Oka-CBA-TKY-1-1"
+"Okaloosa","CBA TKY-2",2025-05-22,15:15:00,"1","CST","Oka-CBA-TKY-2-1"
+"Okaloosa","CBA TKY-3",2025-05-22,15:19:59,"1","CST","Oka-CBA-TKY-3-1"
+"Okaloosa","Roberts",2025-06-02,12:35:00,"1","CST","Oka-Roberts-1"
+"Okaloosa","Roberts",2025-06-02,12:27:00,"2","CST","Oka-Roberts-2"
+"Okaloosa","Roberts",2025-06-02,12:17:00,"3","CST","Oka-Roberts-3"
+"Walton","CBA River-3",2025-05-16,08:49:00,"1","CST","Wal-A River-3-1"
+"Walton","CBA River-3",2025-06-19,08:58:59,"1","CST","Wal-A River-3-1"
+"Washington","CBA Holmes Creek-1",2025-05-21,12:12:00,"1","CST","Was-CBA-HolmCrk-1"
+"Washington","CBA Holmes Creek-2",2025-05-21,13:01:00,"1","CST","Was-CBA-HolmCrk-2"
+"Washington","CBA Holmes Creek-3",2025-05-21,11:42:59,"1","CST","Was-CBA-HolmCrk-3"
+"Washington","CBA Holmes Creek-1",2025-07-16,11:13:59,"1","CST","Was-CBA-HolmCrk-1"
+"Orange","Olivia",2024-11-18,,"1","EST","Ora-Olivia-1"
+"Orange","Olivia",2024-11-18,,"2","EST","Ora-Olivia-2"
+"Orange","Olivia",2024-11-18,,"3","EST","Ora-Olivia-3"
+"Orange","Olivia",2025-01-18,14:25:00,"1","EST","Ora-Olivia-1"
+"Orange","Olivia",2025-01-18,14:13:00,"3","EST","Ora-Olivia-3"
+"Orange","Olivia",2025-03-24,15:02:00,"1","EST","Ora-Olivia-1"
+"Orange","Olivia",2025-03-24,14:59:00,"2","EST","Ora-Olivia-2"
+"Orange","Olivia",2025-03-24,14:54:00,"3","EST","Ora-Olivia-3"
+"Orange","Olivia",2025-05-20,09:39:59,"1","EST","Ora-Olivia-1"
+"Orange","Olivia",2025-05-20,09:34:00,"2","EST","Ora-Olivia-2"
+"Orange","Olivia",2025-05-20,09:24:00,"3","EST","Ora-Olivia-3"
+"Osceola","Alligator Canal-1",2025-06-08,10:49:00,"1","EST","Osc-AlligatorCan-1-1"
+"Osceola","Alligator Canal-3",2025-06-08,10:10:00,"1","EST","Osc-AlligatorCan-3-1"
+"Osceola","Alligator",2025-06-08,10:31:00,"3","EST",
+"Osceola","Alligator",2025-06-08,10:31:00,"3","EST",
+"Osceola","Alligator",2025-06-08,10:31:00,"3","EST","Osc-Alligator-3"
+"Osceola","Alligator",2025-06-08,10:40:00,"4","EST","Osc-Alligator-4"
+"Osceola","Alligator",2025-06-08,10:57:59,"5","EST","Osc-Alligator-5"
+"Osceola","Bellalago",2025-05-21,09:01:00,"1","EST","Osc-Bellalago-1"
+"Osceola","Bellalago",2025-05-21,09:20:00,"2","EST","Osc-Bellalago-2"
+"Osceola","Bellalago",2025-05-21,09:29:59,"3","EST","Osc-Bellalago-3"
+"Osceola","Bellalago",2025-06-24,12:16:00,"1","EST","Osc-Bellalago-1"
+"Osceola","Bellalago",2025-06-24,12:29:00,"2","EST","Osc-Bellalago-2"
+"Osceola","Bellalago",2025-06-24,12:38:00,"3","EST","Osc-Bellalago-3"
+"Osceola","Bellalago",2025-07-20,13:35:00,"2","EST","Osc-Bellalago-2"
+"Osceola","Bellalago",2025-07-20,13:49:59,"3","EST","Osc-Bellalago-3"
+"Osceola","Center",2025-07-16,10:57:00,"2","EST",
+"Osceola","Center",2025-07-16,10:57:00,"2","EST","Osc-Center-2"
+"Osceola","Center",2025-07-16,10:50:00,"3","EST",
+"Osceola","Center",2025-07-16,10:50:00,"3","EST","Osc-Center-3"
+"Osceola","Fish",2025-06-15,10:59:59,"1","EST","Osc-Fish-1"
+"Osceola","Fish",2025-06-15,11:05:00,"2","EST","Osc-Fish-2"
+"Osceola","Fish",2025-06-15,11:11:59,"3","EST","Osc-Fish-3"
+"Osceola","Lizzie",2024-10-29,11:36:00,"2","EST",
+"Osceola","Lizzie",2024-10-29,11:36:00,"2","EST",
+"Osceola","Lizzie",2024-10-29,11:36:00,"2","EST","Osc-Lizzie-2"
+"Osceola","Lizzie",2024-10-29,11:38:00,"3","EST",
+"Osceola","Lizzie",2024-10-29,11:38:00,"3","EST",
+"Osceola","Lizzie",2024-10-29,11:38:00,"3","EST","Osc-Lizzie-3"
+"Osceola","Trout",2024-10-29,11:16:00,"2","EST",
+"Osceola","Trout",2024-10-29,11:16:00,"2","EST","Osc-Trout-2"
+"Osceola","Trout",2024-10-29,11:13:00,"3","EST",
+"Osceola","Trout",2024-10-29,11:13:00,"3","EST","Osc-Trout-3"
+"Seminole","Bear",2025-07-20,14:06:00,"2","EST",
+"Seminole","Bear",2025-07-20,14:06:00,"2","EST",
+"Seminole","Bear",2025-07-20,14:06:00,"2","EST","Sem-Bear-2"
+"Seminole","Bear",2025-07-20,14:16:00,"3","EST",
+"Seminole","Bear",2025-07-20,14:16:00,"3","EST",
+"Seminole","Bear",2025-07-20,14:16:00,"3","EST","Sem-Bear-3"
+"Seminole","Bear",2025-07-20,13:45:00,"4","EST","Sem-Bear-4"
+"Seminole","Crescent",2025-07-20,13:03:59,"2","EST","Sem-Crescent-2"
+"Seminole","Crescent",2025-07-20,13:09:00,"3","EST","Sem-Crescent-3"
+"Seminole","Crescent",2025-08-16,11:54:59,"1","EST","Sem-Crescent-1"
+"Seminole","Crescent",2025-08-16,12:01:00,"2","EST","Sem-Crescent-2"
+"Seminole","Crescent",2025-08-16,12:07:00,"3","EST","Sem-Crescent-3"
+"Seminole","Cub",2025-07-31,11:46:00,"2","EST","Sem-Cub-2"
+"Seminole","Cub",2025-07-31,11:52:00,"3","EST","Sem-Cub-3"
+"Seminole","Miami Springs-1",2025-06-25,12:19:59,"1","EST","Sem-MiamiSp-1-1"
+"Seminole","Miami Springs-2",2025-06-25,12:25:00,"1","EST","Sem-MiamiSp-2-1"
+"Seminole","Miami Springs-3",2025-06-25,12:35:00,"1","EST","Sem-MiamiSp-3-1"
+"Seminole","Miami Springs-1",2025-08-12,10:05:00,"1","EST","Sem-MiamiSp-1-1"
+"Seminole","Miami Springs-2",2025-08-12,10:10:00,"1","EST","Sem-MiamiSp-2-1"
+"Seminole","Miami Springs-3",2025-08-12,10:24:59,"1","EST","Sem-MiamiSp-3-1"
+"Seminole","Queens Mirror",2025-07-27,11:50:00,"2","EST","Sem-QueensMi-2"
+"Seminole","Queens Mirror",2025-07-27,12:00:00,"3","EST","Sem-QueensMi-3"
+"Seminole","Wekiva",2025-07-21,09:45:00,"2","EST","Sem-Wekiva-2"
+"Seminole","Wekiva",2025-07-21,09:39:59,"3","EST","Sem-Wekiva-3"
+"Alachua","Little Santa Fe",2025-10-22,13:09:00,"1","EST",
+"Alachua","Little Santa Fe",2025-10-22,13:09:00,"1","EST",
+"Alachua","Little Santa Fe",2025-10-22,13:09:00,"1","EST","Ala-LittleSa-1"
+"Alachua","Little Santa Fe",2025-10-22,13:09:00,"1","EST",
+"Alachua","Little Santa Fe",2025-10-22,13:14:00,"2","EST",
+"Alachua","Little Santa Fe",2025-10-22,13:14:00,"2","EST",
+"Alachua","Little Santa Fe",2025-10-22,13:14:00,"2","EST","Ala-LittleSa-2"
+"Alachua","Little Santa Fe",2025-10-22,13:14:00,"2","EST",
+"Alachua","Little Santa Fe",2025-10-22,13:20:00,"3","EST",
+"Alachua","Little Santa Fe",2025-10-22,13:20:00,"3","EST",
+"Alachua","Little Santa Fe",2025-10-22,13:20:00,"3","EST","Ala-LittleSa-3"
+"Alachua","Little Santa Fe",2025-10-22,13:20:00,"3","EST",
+"Alachua","Melrose Bay",2025-10-22,12:04:00,"1","EST",
+"Alachua","Melrose Bay",2025-10-22,12:04:00,"1","EST",
+"Alachua","Melrose Bay",2025-10-22,12:04:00,"1","EST","Ala-MelroseB-1"
+"Alachua","Melrose Bay",2025-10-22,11:48:00,"2","EST",
+"Alachua","Melrose Bay",2025-10-22,11:48:00,"2","EST",
+"Alachua","Melrose Bay",2025-10-22,11:48:00,"2","EST","Ala-MelroseB-2"
+"Alachua","Melrose Bay",2025-10-22,11:54:59,"3","EST",
+"Alachua","Melrose Bay",2025-10-22,11:54:59,"3","EST",
+"Alachua","Melrose Bay",2025-10-22,11:54:59,"3","EST","Ala-MelroseB-3"
+"Alachua","Santa Fe",2025-10-22,13:01:00,"1","EST",
+"Alachua","Santa Fe",2025-10-22,13:01:00,"1","EST",
+"Alachua","Santa Fe",2025-10-22,13:01:00,"1","EST",
+"Alachua","Santa Fe",2025-10-22,13:01:00,"1","EST",
+"Alachua","Santa Fe",2025-10-22,13:01:00,"1","EST","Ala-SantaFe-1"
+"Alachua","Santa Fe",2025-10-22,12:54:00,"2","EST",
+"Alachua","Santa Fe",2025-10-22,12:54:00,"2","EST",
+"Alachua","Santa Fe",2025-10-22,12:54:00,"2","EST",
+"Alachua","Santa Fe",2025-10-22,12:54:00,"2","EST",
+"Alachua","Santa Fe",2025-10-22,12:54:00,"2","EST","Ala-SantaFe-2"
+"Alachua","Santa Fe",2025-10-22,12:47:00,"3","EST",
+"Alachua","Santa Fe",2025-10-22,12:47:00,"3","EST",
+"Alachua","Santa Fe",2025-10-22,12:47:00,"3","EST",
+"Alachua","Santa Fe",2025-10-22,12:47:00,"3","EST",
+"Alachua","Santa Fe",2025-10-22,12:47:00,"3","EST","Ala-SantaFe-3"
+"Alachua","Santa Fe-canal mouth",2025-10-22,12:12:00,"1","EST","Ala-SantaFecm-1"
+"Alachua","Santa Fe-barricade",2025-10-22,12:18:59,"1","EST","Ala-SantaFbar-1"
+"Alachua","Santa Fe-Painter Canal",2025-10-22,12:23:00,"1","EST","Ala-SantaFePC-1"
+"Alachua","Santa Fe-Blue Bayou",2025-10-22,12:39:00,"1","EST","Ala-SantaBlue-1"
+"Pinellas","Autumn",2025-08-21,10:40:00,"1","EST","Pin-Autumn-1"
+"Pinellas","Autumn",2025-08-21,10:59:59,"2","EST","Pin-Autumn-2"
+"Pinellas","Autumn",2025-09-26,09:45:00,"1","EST","Pin-Autumn-1"
+"Pinellas","Autumn",2025-09-26,10:14:59,"2","EST","Pin-Autumn-2"
+"Pinellas","Bellevue",2025-08-20,13:29:00,"1","EST","Pin-Bellevue-1"
+"Pinellas","Bellevue",2025-08-20,13:37:00,"2","EST","Pin-Bellevue-2"
+"Pinellas","Bellevue",2025-08-20,13:53:00,"3","EST","Pin-Bellevue-3"
+"Pinellas","Bellevue",2025-09-18,11:33:00,"1","EST","Pin-Bellevue-1"
+"Pinellas","Bellevue",2025-09-18,11:40:00,"2","EST","Pin-Bellevue-2"
+"Pinellas","Bellevue",2025-09-18,11:46:00,"3","EST","Pin-Bellevue-3"
+"Pinellas","Bellevue",2025-10-16,13:30:00,"2","EST","Pin-Bellevue-2"
+"Pinellas","Bellevue",2025-10-16,13:36:00,"3","EST","Pin-Bellevue-3"
+"Pinellas","Crescent",2025-08-30,11:49:00,"1","EST","Pin-Crescent-1"
+"Pinellas","Crescent",2025-08-30,11:54:00,"2","EST","Pin-Crescent-2"
+"Pinellas","Crescent",2025-08-30,12:03:00,"3","EST","Pin-Crescent-3"
+"Pinellas","Crescent",2025-09-28,10:48:00,"1","EST","Pin-Crescent-1"
+"Pinellas","Crescent",2025-09-28,10:54:00,"2","EST","Pin-Crescent-2"
+"Pinellas","Jungle",2025-09-20,12:43:00,"5","EST","Pin-Jungle-5"
+"Pinellas","Jungle",2025-09-20,12:47:00,"6","EST","Pin-Jungle-6"
+"Pinellas","Jungle",2025-09-20,13:04:59,"7","EST","Pin-Jungle-7"
+"Pinellas","Jungle South Inlet",2025-09-20,13:11:00,"1","EST","Pin-Jungle-SI-1"
+"Pinellas","Jungle North Inlet",2025-09-20,12:34:00,"1","EST","Pin-Jungle-NI-1"
+"Pinellas","Jungle Outlet",2025-09-20,12:54:00,"1","EST","Pin-Jungle-OL-1"
+"Pinellas","Meadow West",2025-07-24,12:30:00,"2","EST","Pin-MeadowW-2"
+"Pinellas","Meadow West",2025-08-17,11:54:00,"1","EST","Pin-MeadowW-1"
+"Pinellas","Meadow West",2025-08-17,11:58:59,"2","EST","Pin-MeadowW-2"
+"Pinellas","Saundra",2025-09-09,08:01:59,"1","EST","Pin-Saundra-1"
+"Pinellas","Saundra",2025-09-09,08:07:00,"2","EST","Pin-Saundra-2"
+"Pinellas","Saundra",2025-09-09,08:12:00,"3","EST","Pin-Saundra-3"
+"Pinellas","Saundra",2025-10-08,09:00:00,"1","EST","Pin-Saundra-1"
+"Pinellas","Saundra",2025-10-08,09:10:00,"2","EST","Pin-Saundra-2"
+"Pinellas","Saundra",2025-10-08,09:15:00,"3","EST","Pin-Saundra-3"
+"Pinellas","Seminole",2025-09-12,11:25:00,"1","EST",
+"Pinellas","Seminole",2025-09-12,11:25:00,"1","EST","Pin-Seminole-1"
+"Pinellas","Seminole",2025-09-12,11:50:00,"2","EST",
+"Pinellas","Seminole",2025-09-12,11:50:00,"2","EST","Pin-Seminole-2"
+"Pinellas","Seminole",2025-09-12,12:15:00,"3","EST",
+"Pinellas","Seminole",2025-09-12,12:15:00,"3","EST","Pin-Seminole-3"
+"Pinellas","Seminole",2025-10-06,09:55:00,"2","EST",
+"Pinellas","Seminole",2025-10-06,09:55:00,"2","EST","Pin-Seminole-2"
+"Pinellas","Seminole",2025-10-06,10:20:00,"3","EST",
+"Pinellas","Seminole",2025-10-06,10:20:00,"3","EST","Pin-Seminole-3"
+"Pinellas","Winston",2025-07-20,16:49:59,"2","EST","Pin-Winston-2"
+"Pinellas","Winston",2025-07-20,16:55:00,"3","EST","Pin-Winston-3"
+"Pinellas","Winston",2025-08-17,15:16:00,"1","EST","Pin-Winston-1"
+"Pinellas","Winston",2025-08-17,15:29:00,"2","EST","Pin-Winston-2"
+"Pinellas","Winston",2025-08-17,15:42:00,"3","EST","Pin-Winston-3"
+"Seminole","Miami Springs-1",2025-09-24,12:30:00,"1","EST","Sem-MiamiSp-1-1"
+"Seminole","Miami Springs-2",2025-09-24,12:35:00,"1","EST","Sem-MiamiSp-2-1"
+"Seminole","Miami Springs-3",2025-09-24,12:45:00,"1","EST","Sem-MiamiSp-3-1"
+"Marion","Rainbow River-2",2025-06-12,07:45:00,"1","EST","Mar-Ra-River-2"
+"Marion","Rainbow River-3",2025-06-12,08:44:59,"1","EST","Mar-Ra-River-3"
+"Marion","Withlacoochee River-Dunnellon",2025-06-12,09:10:00,"1","EST","Mar-Wi-unnellon"
+"Marion","Lou",2025-06-26,09:05:00,"1","EST",
+"Marion","Lou",2025-06-26,09:05:00,"1","EST","Mar-Lou-1"
+"Marion","Lou",2025-06-26,09:09:00,"2","EST","Mar-Lou-2"
+"Marion","Lou",2025-06-26,09:13:00,"3","EST","Mar-Lou-3"
+"Polk","Clinch",2025-10-15,10:05:00,"1","EST",
+"Polk","Clinch",2025-10-15,10:05:00,"1","EST",
+"Polk","Clinch",2025-10-15,10:05:00,"1","EST","Pol-Clinch-1"
+"Polk","Clinch",2025-10-15,10:21:00,"2","EST",
+"Polk","Clinch",2025-10-15,10:21:00,"2","EST",
+"Polk","Clinch",2025-10-15,10:21:00,"2","EST","Pol-Clinch-2"
+"Polk","Clinch",2025-10-15,10:26:59,"3","EST",
+"Polk","Clinch",2025-10-15,10:26:59,"3","EST",
+"Polk","Clinch",2025-10-15,10:26:59,"3","EST","Pol-Clinch-3"
+"Polk","Daisy",2025-08-27,12:07:00,"1","EST","Pol-Daisy-1"
+"Polk","Daisy",2025-08-27,12:13:00,"2","EST","Pol-Daisy-2"
+"Polk","Daisy",2025-08-27,12:18:59,"3","EST","Pol-Daisy-3"
+"Polk","Daisy",2025-10-13,12:24:00,"1","EST","Pol-Daisy-1"
+"Polk","Daisy",2025-10-13,12:31:00,"2","EST","Pol-Daisy-2"
+"Polk","Daisy",2025-10-13,12:35:00,"3","EST","Pol-Daisy-3"
+"Polk","Eloise",2025-09-21,15:10:00,"1","EST","Pol-Eloise-1"
+"Polk","Eloise",2025-09-21,15:18:59,"2","EST","Pol-Eloise-2"
+"Polk","Eloise",2025-09-21,15:24:00,"3","EST","Pol-Eloise-3"
+"Polk","Eloise",2025-10-31,11:52:00,"1","EST","Pol-Eloise-1"
+"Polk","Eloise",2025-10-31,11:56:59,"2","EST","Pol-Eloise-2"
+"Polk","Eloise",2025-10-31,12:08:00,"3","EST","Pol-Eloise-3"
+"Polk","Fannie",2025-09-09,10:14:59,"1","EST",
+"Polk","Fannie",2025-09-09,10:14:59,"1","EST",
+"Polk","Fannie",2025-09-09,10:14:59,"1","EST","Pol-Fannie-1"
+"Polk","Fannie",2025-09-09,10:30:00,"2","EST",
+"Polk","Fannie",2025-09-09,10:30:00,"2","EST",
+"Polk","Fannie",2025-09-09,10:30:00,"2","EST","Pol-Fannie-2"
+"Polk","Fannie",2025-09-09,10:45:00,"3","EST",
+"Polk","Fannie",2025-09-09,10:45:00,"3","EST",
+"Polk","Fannie",2025-09-09,10:45:00,"3","EST","Pol-Fannie-3"
+"Polk","Garfield",2025-09-02,09:50:00,"1","EST",
+"Polk","Garfield",2025-09-02,09:50:00,"1","EST","Pol-Garfield-1"
+"Polk","Garfield",2025-09-02,10:17:00,"2","EST",
+"Polk","Garfield",2025-09-02,10:17:00,"2","EST","Pol-Garfield-2"
+"Polk","Garfield",2025-09-02,09:29:59,"3","EST",
+"Polk","Garfield",2025-09-02,09:29:59,"3","EST","Pol-Garfield-3"
+"Polk","Garfield",2025-10-14,10:04:00,"1","EST",
+"Polk","Garfield",2025-10-14,10:04:00,"1","EST","Pol-Garfield-1"
+"Polk","Garfield",2025-10-14,10:22:00,"2","EST",
+"Polk","Garfield",2025-10-14,10:22:00,"2","EST","Pol-Garfield-2"
+"Polk","Garfield",2025-10-14,09:46:00,"3","EST",
+"Polk","Garfield",2025-10-14,09:46:00,"3","EST","Pol-Garfield-3"
+"Polk","Lulu",2025-09-21,15:00:00,"1","EST",
+"Polk","Lulu",2025-09-21,15:00:00,"1","EST","Pol-Lulu-1"
+"Polk","Lulu",2025-09-21,15:03:00,"2","EST",
+"Polk","Lulu",2025-09-21,15:03:00,"2","EST","Pol-Lulu-2"
+"Polk","Lulu",2025-09-21,15:08:00,"3","EST",
+"Polk","Lulu",2025-09-21,15:08:00,"3","EST","Pol-Lulu-3"
+"Polk","Lulu",2025-10-31,11:33:00,"1","EST",
+"Polk","Lulu",2025-10-31,11:33:00,"1","EST","Pol-Lulu-1"
+"Polk","Lulu",2025-10-31,11:37:00,"2","EST",
+"Polk","Lulu",2025-10-31,11:37:00,"2","EST","Pol-Lulu-2"
+"Polk","Lulu",2025-10-31,11:42:00,"3","EST",
+"Polk","Lulu",2025-10-31,11:42:00,"3","EST","Pol-Lulu-3"
+"Polk","Parks",2025-07-03,09:27:59,"1","EST",
+"Polk","Parks",2025-07-03,09:27:59,"1","EST","Pol-Parks-1"
+"Polk","Parks",2025-07-03,09:32:59,"2","EST",
+"Polk","Parks",2025-07-03,09:32:59,"2","EST","Pol-Parks-2"
+"Polk","Parks",2025-07-03,09:41:00,"3","EST",
+"Polk","Parks",2025-07-03,09:41:00,"3","EST","Pol-Parks-3"
+"Polk","Parks",2025-08-05,09:25:00,"1","EST",
+"Polk","Parks",2025-08-05,09:25:00,"1","EST","Pol-Parks-1"
+"Polk","Parks",2025-08-05,09:35:00,"2","EST",
+"Polk","Parks",2025-08-05,09:35:00,"2","EST","Pol-Parks-2"
+"Polk","Parks",2025-08-05,09:41:00,"3","EST",
+"Polk","Parks",2025-08-05,09:41:00,"3","EST","Pol-Parks-3"
+"Polk","Parks",2025-09-09,09:55:00,"1","EST",
+"Polk","Parks",2025-09-09,09:55:00,"1","EST","Pol-Parks-1"
+"Polk","Parks",2025-09-09,10:08:00,"2","EST",
+"Polk","Parks",2025-09-09,10:08:00,"2","EST","Pol-Parks-2"
+"Polk","Parks",2025-09-09,10:17:59,"3","EST",
+"Polk","Parks",2025-09-09,10:17:59,"3","EST","Pol-Parks-3"
+"Polk","Parks",2025-10-14,09:02:00,"1","EST",
+"Polk","Parks",2025-10-14,09:02:00,"1","EST","Pol-Parks-1"
+"Polk","Parks",2025-10-14,09:11:00,"2","EST",
+"Polk","Parks",2025-10-14,09:11:00,"2","EST","Pol-Parks-2"
+"Polk","Parks",2025-10-14,09:17:00,"3","EST",
+"Polk","Parks",2025-10-14,09:17:00,"3","EST","Pol-Parks-3"
+"Polk","Saddlebag",2025-08-29,10:08:00,"1","EST","Pol-Saddlebag-1"
+"Polk","Saddlebag",2025-08-29,10:17:59,"2","EST","Pol-Saddlebag-2"
+"Polk","Saddlebag",2025-08-29,10:24:59,"3","EST","Pol-Saddlebag-3"
+"Polk","Saddlebag",2025-09-24,10:07:00,"1","EST","Pol-Saddlebag-1"
+"Polk","Saddlebag",2025-09-24,10:14:59,"2","EST","Pol-Saddlebag-2"
+"Polk","Saddlebag",2025-09-24,10:22:00,"3","EST","Pol-Saddlebag-3"
+"Polk","Saddlebag",2025-11-02,10:26:00,"1","EST","Pol-Saddlebag-1"
+"Polk","Saddlebag",2025-11-02,10:32:00,"2","EST","Pol-Saddlebag-2"
+"Polk","Saddlebag",2025-11-02,10:39:00,"3","EST","Pol-Saddlebag-3"
+"Polk","Whistler",2025-09-10,10:24:00,"1","EST","Pol-Whistler-1"
+"Polk","Whistler",2025-09-10,10:16:00,"2","EST","Pol-Whistler-2"
+"Polk","Whistler",2025-09-10,10:10:00,"3","EST","Pol-Whistler-3"
+"Polk","Whistler",2025-10-12,11:53:00,"1","EST","Pol-Whistler-1"
+"Polk","Whistler",2025-10-12,12:00:00,"2","EST","Pol-Whistler-2"
+"Polk","Whistler",2025-10-12,12:12:00,"3","EST","Pol-Whistler-3"
+"Hernando","Mountain",2025-05-21,08:30:00,"1","EST",
+"Hernando","Mountain",2025-05-21,08:30:00,"1","EST","Her-Mountain-1"
+"Hernando","Mountain",2025-05-21,08:40:00,"2","EST",
+"Hernando","Mountain",2025-05-21,08:40:00,"2","EST","Her-Mountain-2"
+"Hernando","Mountain",2025-05-21,08:44:59,"3","EST",
+"Hernando","Mountain",2025-05-21,08:44:59,"3","EST","Her-Mountain-3"
+"Hernando","Mountain",2025-07-27,09:02:59,"2","EST",
+"Hernando","Mountain",2025-07-27,09:02:59,"2","EST","Her-Mountain-2"
+"Hernando","Mountain",2025-07-27,09:13:00,"3","EST",
+"Hernando","Mountain",2025-07-27,09:13:00,"3","EST","Her-Mountain-3"
+"Hernando","Mountain",2025-08-29,09:05:00,"1","EST",
+"Hernando","Mountain",2025-08-29,09:05:00,"1","EST","Her-Mountain-1"
+"Hernando","Mountain",2025-08-29,09:11:00,"2","EST",
+"Hernando","Mountain",2025-08-29,09:11:00,"2","EST","Her-Mountain-2"
+"Hernando","Mountain",2025-08-29,09:18:00,"3","EST",
+"Hernando","Mountain",2025-08-29,09:18:00,"3","EST","Her-Mountain-3"
+"Hernando","Mountain",2025-09-29,09:00:00,"1","EST",
+"Hernando","Mountain",2025-09-29,09:00:00,"1","EST","Her-Mountain-1"
+"Hernando","Mountain",2025-09-29,09:05:00,"2","EST",
+"Hernando","Mountain",2025-09-29,09:05:00,"2","EST","Her-Mountain-2"
+"Hernando","Mountain",2025-09-29,09:12:00,"3","EST",
+"Hernando","Mountain",2025-09-29,09:12:00,"3","EST","Her-Mountain-3"
+"Polk","Crooked",2025-08-25,09:54:00,"1","EST",
+"Polk","Crooked",2025-08-25,09:54:00,"1","EST","Pol-Crooked-1"
+"Polk","Crooked",2025-08-25,08:56:59,"2","EST",
+"Polk","Crooked",2025-08-25,08:56:59,"2","EST","Pol-Crooked-2"
+"Polk","Crooked",2025-08-25,09:05:00,"3","EST",
+"Polk","Crooked",2025-08-25,09:05:00,"3","EST","Pol-Crooked-3"
+"Polk","Crooked",2025-08-25,09:23:00,"4","EST","Pol-Crooked-4"
+"Polk","Crooked",2025-08-25,09:36:00,"5","EST","Pol-Crooked-5"
+"Polk","Crooked-Seminole Rd. drain",2025-08-25,08:38:00,"1","EST","Pol-Crooked-S-1"
+"Polk","Crooked-Babson Park",2025-08-25,08:46:59,"1","EST","Pol-Crooked-B-1"
+"Polk","Crooked-Alligator Cove",2025-08-25,09:15:00,"1","EST","Pol-Crooked-A-1"
+"Polk","Crooked",2025-09-22,11:05:00,"1","EST",
+"Polk","Crooked",2025-09-22,11:05:00,"1","EST","Pol-Crooked-1"
+"Polk","Crooked",2025-09-22,09:06:00,"2","EST",
+"Polk","Crooked",2025-09-22,09:06:00,"2","EST","Pol-Crooked-2"
+"Polk","Crooked",2025-09-22,09:13:00,"3","EST",
+"Polk","Crooked",2025-09-22,09:13:00,"3","EST","Pol-Crooked-3"
+"Polk","Crooked",2025-09-22,09:32:00,"4","EST","Pol-Crooked-4"
+"Polk","Crooked",2025-09-22,10:32:59,"5","EST","Pol-Crooked-5"
+"Polk","Crooked-Seminole Rd. drain",2025-09-22,08:46:00,"1","EST","Pol-Crooked-S-1"
+"Polk","Crooked-Babson Park",2025-09-22,08:54:00,"1","EST","Pol-Crooked-B-1"
+"Polk","Crooked-Alligator Cove",2025-09-22,09:24:00,"1","EST","Pol-Crooked-A-1"
+"Polk","Crooked",2025-10-23,10:28:00,"1","EST",
+"Polk","Crooked",2025-10-23,10:28:00,"1","EST","Pol-Crooked-1"
+"Polk","Crooked",2025-10-23,09:32:00,"2","EST",
+"Polk","Crooked",2025-10-23,09:32:00,"2","EST","Pol-Crooked-2"
+"Polk","Crooked",2025-10-23,09:44:00,"3","EST",
+"Polk","Crooked",2025-10-23,09:44:00,"3","EST","Pol-Crooked-3"
+"Polk","Crooked",2025-10-23,09:57:00,"4","EST","Pol-Crooked-4"
+"Polk","Crooked",2025-10-23,10:10:00,"5","EST","Pol-Crooked-5"
+"Polk","Crooked-Seminole Rd. drain",2025-10-23,09:13:00,"1","EST","Pol-Crooked-S-1"
+"Polk","Crooked-Babson Park",2025-10-23,09:20:00,"1","EST","Pol-Crooked-B-1"
+"Polk","Crooked-Alligator Cove",2025-10-23,09:41:59,"1","EST","Pol-Crooked-A-1"
+"Alachua","Little Santa Fe",2025-11-12,14:29:00,"1","EST",
+"Alachua","Little Santa Fe",2025-11-12,14:29:00,"1","EST",
+"Alachua","Little Santa Fe",2025-11-12,14:29:00,"1","EST","Ala-LittleSa-1"
+"Alachua","Little Santa Fe",2025-11-12,14:29:00,"1","EST",
+"Alachua","Little Santa Fe",2025-11-12,14:35:59,"2","EST",
+"Alachua","Little Santa Fe",2025-11-12,14:35:59,"2","EST",
+"Alachua","Little Santa Fe",2025-11-12,14:35:59,"2","EST","Ala-LittleSa-2"
+"Alachua","Little Santa Fe",2025-11-12,14:35:59,"2","EST",
+"Alachua","Little Santa Fe",2025-11-12,14:42:00,"3","EST",
+"Alachua","Little Santa Fe",2025-11-12,14:42:00,"3","EST",
+"Alachua","Little Santa Fe",2025-11-12,14:42:00,"3","EST","Ala-LittleSa-3"
+"Alachua","Little Santa Fe",2025-11-12,14:42:00,"3","EST",
+"Alachua","Melrose Bay",2025-11-12,13:21:00,"1","EST",
+"Alachua","Melrose Bay",2025-11-12,13:21:00,"1","EST",
+"Alachua","Melrose Bay",2025-11-12,13:21:00,"1","EST","Ala-MelroseB-1"
+"Alachua","Melrose Bay",2025-11-12,13:03:59,"2","EST",
+"Alachua","Melrose Bay",2025-11-12,13:03:59,"2","EST",
+"Alachua","Melrose Bay",2025-11-12,13:03:59,"2","EST","Ala-MelroseB-2"
+"Alachua","Melrose Bay",2025-11-12,13:11:00,"3","EST",
+"Alachua","Melrose Bay",2025-11-12,13:11:00,"3","EST",
+"Alachua","Melrose Bay",2025-11-12,13:11:00,"3","EST","Ala-MelroseB-3"
+"Alachua","Santa Fe",2025-11-12,14:20:00,"1","EST",
+"Alachua","Santa Fe",2025-11-12,14:20:00,"1","EST",
+"Alachua","Santa Fe",2025-11-12,14:20:00,"1","EST",
+"Alachua","Santa Fe",2025-11-12,14:20:00,"1","EST",
+"Alachua","Santa Fe",2025-11-12,14:20:00,"1","EST","Ala-SantaFe-1"
+"Alachua","Santa Fe",2025-11-12,14:09:00,"2","EST",
+"Alachua","Santa Fe",2025-11-12,14:09:00,"2","EST",
+"Alachua","Santa Fe",2025-11-12,14:09:00,"2","EST",
+"Alachua","Santa Fe",2025-11-12,14:09:00,"2","EST",
+"Alachua","Santa Fe",2025-11-12,14:09:00,"2","EST","Ala-SantaFe-2"
+"Alachua","Santa Fe",2025-11-12,14:03:00,"3","EST",
+"Alachua","Santa Fe",2025-11-12,14:03:00,"3","EST",
+"Alachua","Santa Fe",2025-11-12,14:03:00,"3","EST",
+"Alachua","Santa Fe",2025-11-12,14:03:00,"3","EST",
+"Alachua","Santa Fe",2025-11-12,14:03:00,"3","EST","Ala-SantaFe-3"
+"Alachua","Santa Fe-canal mouth",2025-11-12,13:29:00,"1","EST","Ala-SantaFecm-1"
+"Alachua","Santa Fe-barricade",2025-11-12,13:35:00,"1","EST","Ala-SantaFbar-1"
+"Alachua","Santa Fe-Painter Canal",2025-11-12,13:40:00,"1","EST","Ala-SantaFePC-1"
+"Alachua","Santa Fe-Blue Bayou",2025-11-12,13:54:00,"1","EST","Ala-SantaBlue-1"
+"Alachua","Wauberg",2025-11-15,12:09:00,"1","EST","Ala-Wauberg-1"
+"Alachua","Wauberg",2025-11-15,12:09:00,"1","EST",
+"Alachua","Wauberg",2025-11-15,12:09:00,"1","EST",
+"Alachua","Wauberg",2025-11-15,12:14:00,"2","EST","Ala-Wauberg-2"
+"Alachua","Wauberg",2025-11-15,12:14:00,"2","EST",
+"Alachua","Wauberg",2025-11-15,12:14:00,"2","EST",
+"Alachua","Wauberg",2025-11-15,12:18:59,"3","EST","Ala-Wauberg-3"
+"Alachua","Wauberg",2025-11-15,12:18:59,"3","EST",
+"Alachua","Wauberg",2025-11-15,12:18:59,"3","EST",
+"Hernando","Arepika Channel-1",2025-07-23,08:11:00,"1","EST","Her-Arepika-Channel-1"
+"Hernando","Cutter Rock-1",2025-07-23,08:33:00,"1","EST","Her-Cutter-Rock-1"
+"Hernando","North Rack-1",2025-07-23,08:46:00,"1","EST","Her-North-Rack-1"
+"Hernando","Chassahowitzka Channel-1",2025-07-23,09:08:00,"1","EST","Her-Chassahowitzka-Channel-1"
+"Hernando","Pine Island-1",2025-07-23,09:27:59,"1","EST","Her-Pine-Island-1"
+"Hernando","Arepika Channel-1",2025-08-27,08:13:00,"1","EST","Her-Arepika-Channel-1"
+"Hernando","Cutter Rock-1",2025-08-27,08:37:00,"1","EST","Her-Cutter-Rock-1"
+"Hernando","North Rack-1",2025-08-27,08:59:00,"1","EST","Her-North-Rack-1"
+"Hernando","Chassahowitzka Channel-1",2025-08-27,09:22:00,"1","EST","Her-Chassahowitzka-Channel-1"
+"Hernando","Pine Island-1",2025-08-27,09:47:00,"1","EST","Her-Pine-Island-1"
+"Hernando","Hernando Beach Waters-1",2025-08-27,10:00:00,"1","EST","Her-Hernando-Beach-Waters-1"
+"Hernando","Arepika Channel-1",2025-09-23,08:08:00,"1","EST","Her-Arepika-Channel-1"
+"Hernando","Cutter Rock-1",2025-09-23,08:23:00,"1","EST","Her-Cutter-Rock-1"
+"Hernando","North Rack-1",2025-09-23,08:41:00,"1","EST","Her-North-Rack-1"
+"Hernando","Chassahowitzka Channel-1",2025-09-23,09:07:00,"1","EST","Her-Chassahowitzka-Channel-1"
+"Hernando","Pine Island-1",2025-09-23,09:39:59,"1","EST","Her-Pine-Island-1"
+"Hernando","Hernando Beach Waters-1",2025-09-23,09:56:00,"1","EST","Her-Hernando-Beach-Waters-1"
+"Highlands","Viola",2025-08-10,07:59:59,"1","EST","Hig-Viola-1"
+"Highlands","Viola",2025-08-10,08:12:00,"2","EST","Hig-Viola-2"
+"Highlands","Viola",2025-08-10,08:30:00,"3","EST","Hig-Viola-3"
+"Lake","Winona",2025-08-25,09:09:00,"1","EST","Lak-Winona-1"
+"Lake","Winona",2025-08-25,09:13:00,"2","EST","Lak-Winona-2"
+"Lake","Winona",2025-08-25,09:15:00,"3","EST","Lak-Winona-3"
+"Levy","Cedar Key-1",2025-08-31,11:13:00,"1","EST","Lev-CedarK-1-1"
+"Levy","Cedar Key-2",2025-08-31,11:05:00,"1","EST","Lev-CedarK-2-1"
+"Levy","Cedar Key-4",2025-08-31,10:47:00,"1","EST","Lev-CedarK-4-1"
+"Levy","Cedar Key-1",2025-09-28,16:23:00,"1","EST","Lev-CedarK-1-1"
+"Levy","Cedar Key-2",2025-09-28,16:37:00,"1","EST","Lev-CedarK-2-1"
+"Levy","Cedar Key-4",2025-09-28,16:04:59,"1","EST","Lev-CedarK-4-1"
+"Putnam","Blue",2025-10-05,11:22:00,"2","EST","Put-Blue-2"
+"Putnam","Blue",2025-10-05,11:29:00,"3","EST","Put-Blue-3"
+"Putnam","Fanny",2025-07-26,11:35:59,"2","EST",
+"Putnam","Fanny",2025-07-26,11:35:59,"2","EST","Put-Fanny-2"
+"Putnam","Fanny",2025-07-26,11:47:59,"3","EST",
+"Putnam","Fanny",2025-07-26,11:47:59,"3","EST","Put-Fanny-3"
+"Putnam","Fanny",2025-10-11,11:09:59,"2","EST",
+"Putnam","Fanny",2025-10-11,11:09:59,"2","EST","Put-Fanny-2"
+"Putnam","Fanny",2025-10-11,11:21:00,"3","EST",
+"Putnam","Fanny",2025-10-11,11:21:00,"3","EST","Put-Fanny-3"
+"Putnam","Redwater",2025-06-29,10:43:00,"1","EST",
+"Putnam","Redwater",2025-06-29,10:43:00,"1","EST","Put-Redwater-1"
+"Putnam","Redwater",2025-06-29,10:52:00,"2","EST",
+"Putnam","Redwater",2025-06-29,10:52:00,"2","EST","Put-Redwater-2"
+"Putnam","Redwater",2025-06-29,10:59:59,"3","EST",
+"Putnam","Redwater",2025-06-29,10:59:59,"3","EST","Put-Redwater-3"
+"Seminole","Rock",2025-08-31,07:36:00,"1","EST","Sem-Rock-1"
+"Seminole","Rock",2025-08-31,07:46:00,"2","EST","Sem-Rock-2"
+"Seminole","Rock",2025-08-31,07:54:00,"3","EST","Sem-Rock-3"
+"Seminole","Rock",2025-09-27,09:36:00,"1","EST","Sem-Rock-1"
+"Seminole","Rock",2025-09-27,09:47:00,"2","EST","Sem-Rock-2"
+"Seminole","Rock",2025-09-27,09:53:00,"3","EST","Sem-Rock-3"
+"Alachua","Wauberg",2025-10-12,10:39:00,"2","EST","Ala-Wauberg-2"
+"Alachua","Wauberg",2025-10-12,10:39:00,"2","EST",
+"Alachua","Wauberg",2025-10-12,10:39:00,"2","EST",
+"Alachua","Wauberg",2025-10-12,10:45:00,"3","EST","Ala-Wauberg-3"
+"Alachua","Wauberg",2025-10-12,10:45:00,"3","EST",
+"Alachua","Wauberg",2025-10-12,10:45:00,"3","EST",
+"Hernando","Hernando Beach-1",2025-06-15,08:30:00,"1","EST","Her-Hernando-Beach-1"
+"Hernando","Hernando Beach-3",2025-06-15,09:10:00,"1","EST","Her-Hernando-Beach-3"
+"Hernando","Hernando Beach-4",2025-06-15,08:09:59,"1","EST","Her-Hernando-Beach-4"
+"Hernando","Hernando Beach-5",2025-06-15,09:29:59,"1","EST","Her-Hernando-Beach-5"
+"Hernando","Hernando Beach-6",2025-06-15,08:54:59,"1","EST","Her-Hernando-Beach-6"
+"Hernando","Hernando Beach-1",2025-08-18,07:30:00,"1","EST","Her-Hernando-Beach-1"
+"Hernando","Hernando Beach-3",2025-08-18,07:55:00,"1","EST","Her-Hernando-Beach-3"
+"Hernando","Hernando Beach-4",2025-08-18,06:29:59,"1","EST","Her-Hernando-Beach-4"
+"Hernando","Hernando Beach-5",2025-08-18,06:45:00,"1","EST","Her-Hernando-Beach-5"
+"Hernando","Hernando Beach-6",2025-08-18,08:15:00,"1","EST","Her-Hernando-Beach-6"
+"Hernando","Hernando Beach-1",2025-09-24,18:20:00,"1","EST","Her-Hernando-Beach-1"
+"Hernando","Hernando Beach-3",2025-09-24,20:10:00,"1","EST","Her-Hernando-Beach-3"
+"Hernando","Hernando Beach-4",2025-09-24,18:00:00,"1","EST","Her-Hernando-Beach-4"
+"Hernando","Hernando Beach-5",2025-09-24,19:44:59,"1","EST","Her-Hernando-Beach-5"
+"Hernando","Hernando Beach-6",2025-09-24,18:59:59,"1","EST","Her-Hernando-Beach-6"
+"Hillsborough","Cedar East",2025-10-08,14:45:00,"1","EST","Hil-CedarEast-1"
+"Hillsborough","Cedar East",2025-10-08,14:55:00,"2","EST","Hil-CedarEast-2"
+"Hillsborough","Cedar East",2025-10-08,15:05:00,"3","EST","Hil-CedarEast-3"
+"Hillsborough","Dosson",2025-10-04,13:11:00,"1","EST","Hil-Dosson-1"
+"Hillsborough","Dosson",2025-10-04,13:13:00,"2","EST","Hil-Dosson-2"
+"Hillsborough","Dosson",2025-10-04,13:16:00,"3","EST","Hil-Dosson-3"
+"Hillsborough","Dosson",2025-11-02,13:04:59,"1","EST","Hil-Dosson-1"
+"Hillsborough","Dosson",2025-11-02,13:08:00,"2","EST","Hil-Dosson-2"
+"Hillsborough","Dosson",2025-11-02,13:11:00,"3","EST","Hil-Dosson-3"
+"Hillsborough","Echo",2025-09-21,17:18:00,"1","EST","Hil-Echo-1"
+"Hillsborough","Echo",2025-09-21,17:23:00,"2","EST","Hil-Echo-2"
+"Hillsborough","Echo",2025-09-21,17:29:59,"3","EST","Hil-Echo-3"
+"Hillsborough","Echo",2025-10-20,14:25:00,"1","EST","Hil-Echo-1"
+"Hillsborough","Echo",2025-10-20,14:31:00,"2","EST","Hil-Echo-2"
+"Hillsborough","Echo",2025-10-20,14:34:59,"3","EST","Hil-Echo-3"
+"Hillsborough","Grace",2025-10-15,17:44:59,"1","EST",
+"Hillsborough","Grace",2025-10-15,17:44:59,"1","EST","Hil-Grace-1"
+"Hillsborough","Grace",2025-10-15,17:55:00,"2","EST",
+"Hillsborough","Grace",2025-10-15,17:55:00,"2","EST","Hil-Grace-2"
+"Hillsborough","Grace",2025-10-15,17:49:59,"3","EST",
+"Hillsborough","Grace",2025-10-15,17:49:59,"3","EST","Hil-Grace-3"
+"Hillsborough","Mango",2025-10-16,10:30:00,"1","EST","Hil-Mango-1"
+"Hillsborough","Mango",2025-10-16,10:34:00,"2","EST","Hil-Mango-2"
+"Hillsborough","Mango",2025-10-16,10:43:00,"3","EST","Hil-Mango-3"
+"Hillsborough","Newlands",2025-10-27,09:29:59,"1","EST","Hil-Newlands-1"
+"Hillsborough","Newlands",2025-10-27,09:45:00,"2","EST","Hil-Newlands-2"
+"Hillsborough","Newlands",2025-10-27,10:10:00,"3","EST","Hil-Newlands-3"
+"Hillsborough","North",2025-10-09,10:55:00,"1","EST","Hil-North-1"
+"Hillsborough","North",2025-10-09,11:05:00,"2","EST","Hil-North-2"
+"Hillsborough","North",2025-10-09,11:14:00,"3","EST","Hil-North-3"
+"Hillsborough","North",2025-11-09,10:00:00,"1","EST","Hil-North-1"
+"Hillsborough","North",2025-11-09,10:20:00,"2","EST","Hil-North-2"
+"Hillsborough","North",2025-11-09,10:35:00,"3","EST","Hil-North-3"
+"Hillsborough","Pretty",2025-10-30,18:32:00,"1","EST","Hil-Pretty-1"
+"Hillsborough","Pretty",2025-10-30,18:26:00,"2","EST","Hil-Pretty-2"
+"Hillsborough","Pretty",2025-10-30,18:30:00,"3","EST","Hil-Pretty-3"
+"Hillsborough","Brant",2025-10-31,16:31:00,"1","EST",
+"Hillsborough","Brant",2025-10-31,16:31:00,"1","EST","Hil-Brant-1"
+"Hillsborough","Brant",2025-10-31,16:15:00,"2","EST",
+"Hillsborough","Brant",2025-10-31,16:15:00,"2","EST","Hil-Brant-2"
+"Hillsborough","Brant",2025-10-31,16:02:00,"3","EST",
+"Hillsborough","Brant",2025-10-31,16:02:00,"3","EST","Hil-Brant-3"
+"Hillsborough","Charles",2025-10-21,15:25:00,"1","EST","Hil-Charles-1"
+"Hillsborough","Charles",2025-10-21,15:25:00,"2","EST","Hil-Charles-2"
+"Hillsborough","Charles",2025-10-21,15:25:00,"3","EST","Hil-Charles-3"
+"Hillsborough","Cooper",2025-10-16,12:19:59,"1","EST","Hil-Cooper-1"
+"Hillsborough","Cooper",2025-10-16,12:21:59,"2","EST","Hil-Cooper-2"
+"Hillsborough","Cooper",2025-10-16,12:24:00,"3","EST","Hil-Cooper-3"
+"Hillsborough","Eckles",2025-10-03,10:14:59,"1","EST","Hil-Eckles-1"
+"Hillsborough","Eckles",2025-10-03,10:20:00,"2","EST","Hil-Eckles-2"
+"Hillsborough","Eckles",2025-10-03,10:24:59,"3","EST","Hil-Eckles-3"
+"Hillsborough","Eckles",2025-11-02,14:10:00,"1","EST","Hil-Eckles-1"
+"Hillsborough","Eckles",2025-11-02,14:15:00,"2","EST","Hil-Eckles-2"
+"Hillsborough","Eckles",2025-11-02,14:20:00,"3","EST","Hil-Eckles-3"
+"Hillsborough","Hog Island",2025-10-14,14:00:00,"1","EST","Hil-HogIslan-1"
+"Hillsborough","Hog Island",2025-10-14,14:10:00,"2","EST","Hil-HogIslan-2"
+"Hillsborough","Hog Island",2025-10-14,14:20:00,"3","EST","Hil-HogIslan-3"
+"Hillsborough","Hog Island",2025-10-14,13:55:00,"4","EST","Hil-HogIslan-4"
+"Hillsborough","James",2025-10-21,10:55:00,"1","EST","Hil-James-1"
+"Hillsborough","James",2025-10-21,11:05:00,"2","EST","Hil-James-2"
+"Hillsborough","James",2025-10-21,11:09:59,"3","EST","Hil-James-3"
+"Hillsborough","June",2025-10-15,09:12:00,"1","EST","Hil-June-1"
+"Hillsborough","June",2025-10-15,09:47:59,"2","EST","Hil-June-2"
+"Hillsborough","June",2025-10-15,10:23:00,"3","EST","Hil-June-3"
+"Hillsborough","Keystone",2025-10-08,17:34:59,"1","EST","Hil-Keystone-1"
+"Hillsborough","Keystone",2025-10-08,17:34:59,"1","EST",
+"Hillsborough","Keystone",2025-10-08,17:44:59,"2","EST","Hil-Keystone-2"
+"Hillsborough","Keystone",2025-10-08,17:44:59,"2","EST",
+"Hillsborough","Keystone",2025-10-08,18:00:00,"3","EST","Hil-Keystone-3"
+"Hillsborough","Keystone",2025-10-08,18:00:00,"3","EST",
+"Hillsborough","Mound",2025-09-30,07:38:00,"1","EST","Hil-Mound-1"
+"Hillsborough","Mound",2025-09-30,07:45:00,"2","EST","Hil-Mound-2"
+"Hillsborough","Mound",2025-09-30,07:50:00,"3","EST","Hil-Mound-3"
+"Hillsborough","Mound",2025-10-30,09:10:00,"1","EST","Hil-Mound-1"
+"Hillsborough","Mound",2025-10-30,09:16:00,"2","EST","Hil-Mound-2"
+"Hillsborough","Mound",2025-10-30,09:20:00,"3","EST","Hil-Mound-3"
+"Hillsborough","Osceola",2025-10-29,17:00:00,"1","EST","Hil-Osceola-1"
+"Hillsborough","Osceola",2025-10-29,17:00:00,"1","EST",
+"Hillsborough","Osceola",2025-10-29,17:05:00,"2","EST","Hil-Osceola-2"
+"Hillsborough","Osceola",2025-10-29,17:05:00,"2","EST",
+"Hillsborough","Osceola",2025-10-29,17:10:00,"3","EST","Hil-Osceola-3"
+"Hillsborough","Osceola",2025-10-29,17:10:00,"3","EST",
+"Hillsborough","Pine",2025-10-17,09:46:00,"1","EST","Hil-Pine-1"
+"Hillsborough","Pine",2025-10-17,09:49:00,"2","EST","Hil-Pine-2"
+"Hillsborough","Pine",2025-10-17,09:53:00,"3","EST","Hil-Pine-3"
+"Hillsborough","Round",2025-10-01,09:16:00,"1","EST","Hil-Round-1"
+"Hillsborough","Round",2025-10-01,09:24:00,"2","EST","Hil-Round-2"
+"Hillsborough","Round",2025-10-01,09:32:00,"3","EST","Hil-Round-3"
+"Hillsborough","Round",2025-11-01,10:59:59,"1","EST","Hil-Round-1"
+"Hillsborough","Round",2025-11-01,11:09:59,"2","EST","Hil-Round-2"
+"Hillsborough","Round",2025-11-01,11:17:59,"3","EST","Hil-Round-3"
+"Hillsborough","Silver",2025-10-23,10:59:00,"1","EST","Hil-Silver-1"
+"Hillsborough","Silver",2025-10-23,10:54:00,"2","EST","Hil-Silver-2"
+"Hillsborough","Silver",2025-10-23,11:05:00,"3","EST","Hil-Silver-3"
+"Hillsborough","Simmons",2025-09-14,13:57:00,"1","EST","Hil-Simmons-1"
+"Hillsborough","Simmons",2025-09-14,14:06:00,"2","EST","Hil-Simmons-2"
+"Hillsborough","Simmons",2025-09-14,14:16:00,"3","EST","Hil-Simmons-3"
+"Hillsborough","Tiffany",2025-10-23,11:38:00,"1","EST","Hil-Tiffany-1"
+"Hillsborough","Tiffany",2025-10-23,11:51:00,"2","EST","Hil-Tiffany-2"
+"Hillsborough","Tiffany",2025-10-23,12:02:00,"3","EST","Hil-Tiffany-3"
+"Hillsborough","Wilson",2025-10-13,10:14:59,"1","EST","Hil-Wilson-1"
+"Hillsborough","Wilson",2025-10-13,10:24:59,"2","EST","Hil-Wilson-2"
+"Hillsborough","Wilson",2025-10-13,10:35:00,"3","EST","Hil-Wilson-3"
+"Hillsborough","Wilson",2025-11-09,11:05:00,"1","EST","Hil-Wilson-1"
+"Hillsborough","Wilson",2025-11-09,11:15:00,"2","EST","Hil-Wilson-2"
+"Hillsborough","Wilson",2025-11-09,11:25:00,"3","EST","Hil-Wilson-3"
+"Hillsborough","Breckenridge",2025-10-08,11:26:00,"1","EST","Hil-Breckenridge-1"
+"Hillsborough","Breckenridge",2025-10-08,11:21:00,"2","EST","Hil-Breckenridge-2"
+"Hillsborough","Breckenridge",2025-10-08,11:13:00,"3","EST","Hil-Breckenridge-3"
